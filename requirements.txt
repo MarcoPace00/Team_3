@@ -1,0 +1,4 @@
+﻿pandas
+mysql-connector-python
+# kernel per eseguire i notebook di 02_preprocessing dal .venv
+ipykernel

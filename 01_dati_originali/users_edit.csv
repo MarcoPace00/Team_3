@@ -1,0 +1,6041 @@
+UserID,Gender,Age,CAP,Work
+1,F,11,20023,Studente
+2,M,13,72022,Studente
+3,M,24,36100,Autista
+4,M,37,85024,Data Engineer
+5,M,15,01010,Studente
+6,F,36,00153,Data Scientis
+7,M,24,15067,Dirigente
+8,M,28,44020,Avvocato
+9,M,11,10126,Studente
+10,F,65,09010,Dirigente
+11,F,60,09078,Dirigente
+12,M,31,95127,Avvocato
+13,M,13,20139,Studente
+14,M,14,00018,Studente
+15,M,37,45030,Data Engineer
+16,F,43,09078,Disoccupato
+17,M,46,32030,Dirigente
+18,F,26,33013,Direttore
+19,M,32,86020,Studente
+20,M,37,47924,Ingegnere
+21,M,31,00125,Attore
+22,M,45,34149,Autista
+23,M,19,14025,Disoccupato
+24,F,43,35031,Data Engineer
+25,M,16,33050,Studente
+26,M,30,10126,Data Engineer
+27,M,51,32030,Infermiere
+28,F,26,20139,Dirigente
+29,M,24,83030,Data Engineer
+30,F,56,80038,Data Engineer
+31,M,18,27024,Data Engineer
+32,F,25,73020,Disoccupato
+33,M,16,25123,Studente
+34,F,14,95127,Studente
+35,M,17,26100,Studente
+36,M,19,83030,Direttore
+37,F,36,32030,Data Scientis
+38,F,14,44020,Studente
+39,M,39,27024,Data Analyst
+40,M,50,22072,Disoccupato
+41,F,45,33048,Data Analyst
+42,M,14,20023,Studente
+43,M,50,47924,Avvocato
+44,M,64,01010,Programmatore
+45,F,22,03100,Attore
+46,M,24,71032,Musicista
+47,M,35,09010,Data Analyst
+48,M,25,17021,Data Analyst
+49,M,65,19020,Avvocato
+50,F,32,33050,Operaio
+51,F,52,34149,Studente
+52,M,28,80038,Data Analyst
+53,M,16,45100,Studente
+54,M,65,09010,Dirigente
+55,F,58,21014,Avvocato
+56,M,20,27024,Impiegato
+57,M,41,21014,Musicista
+58,M,41,30020,Operaio
+59,F,29,40138,Dirigente
+60,M,29,84070,Dirigente
+61,M,39,56022,Programmatore
+62,F,34,26100,Direttore
+63,M,59,20020,Data Analyst
+64,M,27,41058,Dirigente
+65,M,45,73020,Avvocato
+66,M,28,67069,Atleta
+67,F,14,26010,Studente
+68,M,20,84070,Data Analyst
+69,F,57,22076,Dirigente
+70,M,46,35124,Data Analyst
+71,M,41,50055,Ingegnere
+72,F,57,32030,Disoccupato
+73,M,25,36012,Data Analyst
+74,M,39,47030,Ingegnere
+75,F,16,25043,Studente
+76,M,11,36012,Studente
+77,M,23,03100,Data Analyst
+78,F,47,86020,Dirigente
+79,F,63,67069,Disoccupato
+80,M,28,65017,Dirigente
+81,F,39,86020,Disoccupato
+82,M,25,33030,Programmatore
+83,F,40,64023,Operaio
+84,M,31,76012,Data Analyst
+85,M,13,36100,Studente
+86,F,26,35010,Studente
+87,M,26,47924,Ingegnere
+88,F,65,35031,Dirigente
+89,F,59,20139,Data Scientis
+90,M,59,10126,Architetto
+91,M,39,33013,Data Engineer
+92,F,62,85024,Data Analyst
+93,M,37,33050,Programmatore
+94,M,36,85024,Programmatore
+95,M,43,73020,Disoccupato
+96,F,15,45100,Studente
+97,F,56,64023,Direttore
+98,F,48,61029,Data Engineer
+99,F,23,30020,Studente
+100,M,39,44121,Programmatore
+101,F,36,72022,Direttore
+102,M,57,25043,Musicista
+103,M,48,45030,Data Engineer
+104,M,56,33030,Avvocato
+105,M,32,41058,Avvocato
+106,F,14,41058,Studente
+107,M,53,44121,Atleta
+108,M,36,34149,Avvocato
+109,M,64,25123,Autista
+110,M,40,56022,Operaio
+111,M,20,63100,Autista
+112,M,24,33013,Attore
+113,M,12,70026,Studente
+114,F,38,12032,Operaio
+115,M,33,10086,Programmatore
+116,M,26,33048,Programmatore
+117,M,35,33050,Programmatore
+118,M,51,44121,Programmatore
+119,F,18,36012,Studente
+120,M,37,40061,Infermiere
+121,M,53,72022,Data Engineer
+122,F,41,26010,Data Analyst
+123,M,41,09078,Data Scientis
+124,M,40,90143,Data Engineer
+125,M,60,32030,Ingegnere
+126,M,16,15067,Studente
+127,F,60,47030,Direttore
+128,M,59,25043,Ricercatore
+129,M,54,15063,Infermiere
+130,M,40,87060,Programmatore
+131,M,56,45030,Data Analyst
+132,M,63,36100,Programmatore
+133,F,24,01010,Disoccupato
+134,M,50,15063,Disoccupato
+135,M,9,15077,Studente
+136,M,37,87060,Operaio
+137,F,27,10086,Ricercatore
+138,M,59,00125,Impiegato
+139,F,62,72022,Impiegato
+140,F,25,33050,Dirigente
+141,M,42,72022,Architetto
+142,M,58,90143,Data Engineer
+143,M,26,24020,Direttore
+144,M,15,61029,Studente
+145,M,62,45100,Data Analyst
+146,F,45,90143,Impiegato
+147,M,27,24020,Data Analyst
+148,M,29,65027,Programmatore
+149,M,64,25043,Dirigente
+150,M,33,33013,Data Engineer
+151,F,25,21014,Impiegato
+152,M,54,65017,Data Analyst
+153,M,54,87060,Studente
+154,M,49,14100,Impiegato
+155,M,46,80038,Avvocato
+156,F,29,90143,Data Engineer
+157,M,42,95127,Attore
+158,M,61,09099,Data Engineer
+159,F,49,30020,Disoccupato
+160,M,48,70037,Data Engineer
+161,M,63,61029,Attore
+162,F,9,35031,Studente
+163,M,23,35010,Data Analyst
+164,F,43,86020,Architetto
+165,M,33,45030,Attore
+166,M,37,44121,Data Analyst
+167,F,44,00125,Infermiere
+168,F,38,09010,Disoccupato
+169,M,26,00018,Data Engineer
+170,M,50,35124,Infermiere
+171,F,28,35010,Programmatore
+172,M,40,10126,Direttore
+173,M,42,15077,Disoccupato
+174,M,19,27024,Attore
+175,F,51,36100,Operaio
+176,F,11,25043,Studente
+177,M,15,84070,Studente
+178,M,46,61029,Programmatore
+179,M,53,63100,Disoccupato
+180,M,52,71032,Avvocato
+181,M,17,26100,Studente
+182,M,14,61029,Studente
+183,F,57,36100,Dirigente
+184,F,23,35124,Disoccupato
+185,M,16,45100,Studente
+186,M,17,33050,Studente
+187,F,24,70026,Dirigente
+188,M,62,36012,Attore
+189,M,11,63100,Studente
+190,M,55,85024,Programmatore
+191,M,36,40061,Data Analyst
+192,M,57,17021,Dirigente
+193,F,24,72022,Autista
+194,F,49,10086,Studente
+195,M,16,01010,Studente
+196,F,40,70026,Data Scientis
+197,M,39,44020,Ingegnere
+198,M,61,26100,Avvocato
+199,M,63,20023,Data Analyst
+200,F,36,35124,Data Analyst
+201,F,46,10086,Operaio
+202,M,36,36100,Data Analyst
+203,F,41,33030,Data Analyst
+204,M,45,84070,Data Engineer
+205,M,13,70026,Studente
+206,M,61,63100,Programmatore
+207,M,54,44121,Avvocato
+208,M,13,33050,Studente
+209,M,16,15067,Studente
+210,F,55,14025,Studente
+211,M,26,19020,Programmatore
+212,M,45,33030,Attore
+213,F,37,09010,Data Analyst
+214,M,51,19020,Impiegato
+215,M,41,56022,Ingegnere
+216,M,9,20020,Studente
+217,M,43,64023,Data Analyst
+218,M,26,80038,Ingegnere
+219,F,32,25123,Data Analyst
+220,M,21,33050,Avvocato
+221,F,40,17021,Disoccupato
+222,M,35,25043,Dirigente
+223,M,44,95127,Programmatore
+224,F,44,41058,Data Analyst
+225,M,11,10126,Studente
+226,M,55,47924,Dirigente
+227,M,45,41058,Impiegato
+228,M,51,36012,Autista
+229,M,37,00153,Studente
+230,M,64,50055,Dirigente
+231,M,60,15063,Direttore
+232,M,40,33048,Impiegato
+233,F,13,15067,Studente
+234,M,59,28887,Data Engineer
+235,M,17,35010,Studente
+236,M,41,01010,Insegnante
+237,M,64,17021,Ricercatore
+238,F,24,72022,Data Engineer
+239,M,58,84070,Musicista
+240,M,24,20131,Programmatore
+241,M,54,15063,Impiegato
+242,F,58,22072,Data Analyst
+243,M,59,19020,Attore
+244,M,48,67069,Data Engineer
+245,M,54,20023,Attore
+246,F,25,14025,Data Analyst
+247,M,34,09078,Programmatore
+248,M,64,35124,Programmatore
+249,F,17,76012,Studente
+250,M,39,27024,Attore
+251,M,62,72022,Programmatore
+252,M,39,17021,Avvocato
+253,F,46,65017,Infermiere
+254,M,33,35031,Programmatore
+255,M,41,21014,Disoccupato
+256,M,36,65027,Attore
+257,M,18,20020,Atleta
+258,M,40,03100,Data Engineer
+259,M,12,84070,Studente
+260,M,20,33050,Musicista
+261,M,36,73020,Impiegato
+262,F,10,83030,Studente
+263,F,27,65027,Data Engineer
+264,M,51,86020,Disoccupato
+265,F,33,35010,Data Engineer
+266,M,62,09078,Infermiere
+267,M,42,33030,Avvocato
+268,F,9,86020,Studente
+269,M,49,73020,Operaio
+270,M,40,76012,Ingegnere
+271,M,55,01010,Data Analyst
+272,M,57,35010,Disoccupato
+273,M,17,95127,Studente
+274,M,22,01010,Data Analyst
+275,M,33,19020,Disoccupato
+276,M,41,87060,Attore
+277,F,19,20139,Dirigente
+278,M,63,25123,Atleta
+279,M,64,83030,Ingegnere
+280,M,44,65017,Data Engineer
+281,F,55,20023,Disoccupato
+282,M,13,84070,Studente
+283,M,53,25043,Disoccupato
+284,M,48,22072,Avvocato
+285,F,13,25123,Studente
+286,M,49,65017,Dirigente
+287,M,34,27024,Architetto
+288,F,43,35010,Avvocato
+289,F,18,71032,Disoccupato
+290,F,14,45030,Studente
+291,M,60,22076,Avvocato
+292,M,28,15077,Data Engineer
+293,M,19,47924,Dirigente
+294,F,23,45030,Data Scientis
+295,M,9,03100,Studente
+296,M,43,47030,Insegnante
+297,M,51,15067,Operaio
+298,F,60,27024,Data Analyst
+299,M,59,84070,Avvocato
+300,M,43,63100,Data Engineer
+301,M,36,65017,Data Analyst
+302,M,35,27024,Data Analyst
+303,M,37,25123,Data Engineer
+304,M,15,35010,Studente
+305,F,37,35010,Disoccupato
+306,M,34,67069,Disoccupato
+307,M,41,84070,Attore
+308,M,38,65027,Operaio
+309,M,42,83030,Data Analyst
+310,F,23,65027,Data Analyst
+311,M,61,33048,Data Analyst
+312,F,50,15063,Operaio
+313,F,22,14100,Data Analyst
+314,F,20,87060,Data Scientis
+315,F,15,72022,Studente
+316,M,45,95127,Architetto
+317,M,11,35010,Studente
+318,F,13,86020,Studente
+319,F,9,36100,Studente
+320,M,21,65017,Ricercatore
+321,M,15,76012,Studente
+322,M,31,19020,Programmatore
+323,M,13,47924,Studente
+324,M,36,20139,Programmatore
+325,F,64,84066,Direttore
+326,M,35,47924,Infermiere
+327,M,34,25123,Atleta
+328,M,27,10126,Avvocato
+329,M,22,70026,Data Engineer
+330,M,25,26100,Data Engineer
+331,M,46,63100,Data Engineer
+332,M,11,12032,Studente
+333,M,60,33050,Operaio
+334,F,18,45030,Operaio
+335,M,55,24020,Atleta
+336,M,58,03100,Disoccupato
+337,M,30,65017,Musicista
+338,M,29,36012,Data Engineer
+339,M,60,76012,Data Engineer
+340,F,32,03100,Direttore
+341,F,28,10086,Architetto
+342,M,54,00125,Avvocato
+343,F,55,01010,Direttore
+344,M,21,17021,Ingegnere
+345,M,45,21030,Avvocato
+346,F,52,09078,Disoccupato
+347,F,30,22076,Dirigente
+348,M,43,65017,Data Engineer
+349,M,50,09010,Studente
+350,M,21,01010,Impiegato
+351,M,30,87060,Data Analyst
+352,M,40,76012,Data Analyst
+353,F,55,80038,Data Engineer
+354,M,16,71032,Studente
+355,M,42,85024,Direttore
+356,M,58,45030,Impiegato
+357,M,49,17021,Disoccupato
+358,F,15,19020,Studente
+359,M,17,15067,Studente
+360,M,13,70037,Studente
+361,F,62,20020,Ingegnere
+362,M,32,47924,Impiegato
+363,M,35,65017,Studente
+364,F,25,21014,Dirigente
+365,F,50,44020,Data Analyst
+366,M,47,24020,Autista
+367,M,15,80038,Studente
+368,M,59,03100,Disoccupato
+369,M,35,35010,Dirigente
+370,M,37,36100,Programmatore
+371,M,52,35010,Data Analyst
+372,F,11,20131,Studente
+373,F,10,19020,Studente
+374,F,13,84066,Studente
+375,M,45,76012,Operaio
+376,M,37,19020,Dirigente
+377,M,23,00018,Programmatore
+378,F,46,15077,Disoccupato
+379,F,44,33013,Dirigente
+380,M,13,87060,Studente
+381,M,64,20023,Programmatore
+382,F,22,95127,Impiegato
+383,F,25,19020,Data Engineer
+384,M,26,24020,Infermiere
+385,M,19,95127,Ricercatore
+386,M,48,35010,Disoccupato
+387,F,27,86020,Data Engineer
+388,F,17,36100,Studente
+389,M,11,34149,Studente
+390,M,15,33013,Studente
+391,M,36,84070,Infermiere
+392,M,40,33050,Data Engineer
+393,M,16,15063,Studente
+394,M,34,70026,Disoccupato
+395,M,9,21014,Studente
+396,M,48,01010,Dirigente
+397,M,27,95127,Programmatore
+398,M,45,65017,Programmatore
+399,F,39,26100,Ricercatore
+400,F,44,03100,Direttore
+401,M,20,36100,Disoccupato
+402,M,16,35010,Studente
+403,M,14,90143,Studente
+404,M,31,25123,Data Analyst
+405,M,28,15067,Dirigente
+406,M,55,72022,Impiegato
+407,M,58,09099,Programmatore
+408,M,21,15077,Infermiere
+409,M,52,36100,Avvocato
+410,F,35,36012,Dirigente
+411,F,18,27024,Dirigente
+412,M,11,80038,Studente
+413,M,50,64023,Infermiere
+414,M,58,09078,Disoccupato
+415,F,21,61029,Disoccupato
+416,M,23,33013,Ingegnere
+417,F,27,09010,Disoccupato
+418,F,50,80038,Direttore
+419,M,49,50055,Direttore
+420,M,49,47924,Dirigente
+421,F,36,09078,Direttore
+422,M,54,21030,Programmatore
+423,M,29,20131,Data Analyst
+424,M,19,00125,Programmatore
+425,M,39,73020,Avvocato
+426,M,9,71032,Studente
+427,M,52,22076,Avvocato
+428,F,34,17021,Data Analyst
+429,M,30,35010,Disoccupato
+430,F,22,40138,Studente
+431,M,42,44020,Studente
+432,M,51,41058,Attore
+433,M,18,33050,Ricercatore
+434,F,31,33030,Direttore
+435,M,40,22072,Data Engineer
+436,M,40,86020,Data Analyst
+437,M,32,14025,Programmatore
+438,M,34,26010,Infermiere
+439,M,56,15077,Ingegnere
+440,M,60,33013,Dirigente
+441,M,63,24020,Dirigente
+442,M,40,15067,Dirigente
+443,M,35,33030,Direttore
+444,M,46,03100,Disoccupato
+445,M,57,84066,Avvocato
+446,F,35,33050,Disoccupato
+447,F,13,33013,Studente
+448,M,65,20023,Programmatore
+449,M,13,84066,Studente
+450,M,61,15063,Dirigente
+451,M,57,15077,Architetto
+452,M,24,20139,Programmatore
+453,M,49,34149,Data Analyst
+454,M,18,09010,Impiegato
+455,F,33,30020,Operaio
+456,M,45,67069,Disoccupato
+457,M,34,00061,Data Analyst
+458,M,52,67069,Attore
+459,F,22,21030,Data Analyst
+460,M,39,86020,Atleta
+461,M,25,67069,Data Engineer
+462,M,65,09099,Attore
+463,M,41,14100,Data Engineer
+464,F,43,33048,Data Analyst
+465,M,33,22072,Musicista
+466,M,59,73020,Insegnante
+467,F,24,84066,Direttore
+468,F,54,95127,Studente
+469,M,16,44020,Studente
+470,F,61,95127,Studente
+471,M,38,20139,Data Engineer
+472,M,16,20139,Studente
+473,F,38,20131,Data Analyst
+474,M,32,19020,Programmatore
+475,F,41,44121,Operaio
+476,M,12,47924,Studente
+477,M,40,45030,Ingegnere
+478,M,36,26010,Attore
+479,M,51,22072,Avvocato
+480,F,54,26100,Data Analyst
+481,M,51,47030,Data Engineer
+482,M,40,30020,Ingegnere
+483,M,22,22072,Avvocato
+484,F,37,20023,Studente
+485,M,58,40061,Data Engineer
+486,M,58,72022,Disoccupato
+487,F,21,70037,Programmatore
+488,M,53,70026,Avvocato
+489,M,64,35031,Data Analyst
+490,M,11,65017,Studente
+491,M,64,15067,Data Analyst
+492,M,28,80038,Avvocato
+493,M,11,33013,Studente
+494,F,36,35010,Disoccupato
+495,M,27,33048,Studente
+496,M,9,09010,Studente
+497,F,29,10126,Programmatore
+498,M,35,56022,Programmatore
+499,F,12,45030,Studente
+500,F,28,70026,Operaio
+501,M,23,20139,Operaio
+502,M,33,44121,Ricercatore
+503,M,46,45030,Infermiere
+504,M,9,95127,Studente
+505,M,33,67069,Programmatore
+506,M,29,47030,Attore
+507,F,33,20020,Disoccupato
+508,M,12,36012,Studente
+509,M,24,64023,Operaio
+510,M,51,95127,Avvocato
+511,F,26,15063,Data Analyst
+512,M,25,65027,Disoccupato
+513,M,22,35124,Disoccupato
+514,M,57,12032,Operaio
+515,M,57,15067,Dirigente
+516,F,51,35010,Ingegnere
+517,F,11,35010,Studente
+518,F,55,28887,Avvocato
+519,F,51,36100,Ingegnere
+520,F,23,40061,Impiegato
+521,M,9,33030,Studente
+522,M,48,63100,Avvocato
+523,M,40,71032,Data Engineer
+524,M,30,70026,Disoccupato
+525,M,36,20020,Ricercatore
+526,M,11,21030,Studente
+527,F,53,65027,Operaio
+528,F,23,45100,Programmatore
+529,M,58,21014,Avvocato
+530,M,25,72022,Operaio
+531,F,41,30020,Ingegnere
+532,M,46,73020,Data Engineer
+533,M,36,09099,Avvocato
+534,M,10,83030,Studente
+535,M,65,22076,Ricercatore
+536,M,40,67069,Impiegato
+537,M,24,84070,Ingegnere
+538,M,52,33050,Attore
+539,M,24,87060,Operaio
+540,M,16,14025,Studente
+541,F,15,65027,Studente
+542,M,13,35010,Studente
+543,M,11,10126,Studente
+544,M,22,70037,Avvocato
+545,M,12,14100,Studente
+546,F,42,22076,Disoccupato
+547,M,44,15067,Avvocato
+548,F,21,71032,Attore
+549,M,44,47924,Ricercatore
+550,M,10,22072,Studente
+551,M,47,47924,Impiegato
+552,M,36,47030,Atleta
+553,M,31,20131,Operaio
+554,M,14,40138,Studente
+555,M,9,70037,Studente
+556,F,59,73020,Data Scientis
+557,M,45,95127,Dirigente
+558,M,43,50055,Impiegato
+559,F,47,22076,Data Engineer
+560,M,42,35010,Autista
+561,F,19,36012,Ingegnere
+562,M,10,50055,Studente
+563,M,38,09010,Data Analyst
+564,M,41,33048,Dirigente
+565,M,48,15063,Attore
+566,M,43,17021,Programmatore
+567,M,47,56022,Impiegato
+568,F,35,03100,Programmatore
+569,F,43,36100,Data Analyst
+570,M,38,35010,Data Analyst
+571,M,58,09010,Insegnante
+572,M,18,14025,Data Analyst
+573,F,57,84066,Operaio
+574,M,54,72022,Musicista
+575,M,54,40061,Avvocato
+576,F,25,34149,Autista
+577,M,55,47924,Disoccupato
+578,M,36,33048,Programmatore
+579,M,28,27024,Insegnante
+580,M,36,83030,Studente
+581,M,57,20020,Ingegnere
+582,M,44,21014,Data Analyst
+583,F,37,17021,Disoccupato
+584,F,26,03100,Disoccupato
+585,M,49,25043,Dirigente
+586,M,60,09010,Ingegnere
+587,M,17,00153,Studente
+588,F,29,84070,Infermiere
+589,M,44,84070,Operaio
+590,F,51,00125,Ricercatore
+591,M,52,84066,Disoccupato
+592,M,46,25043,Disoccupato
+593,F,35,71032,Dirigente
+594,F,30,67069,Architetto
+595,M,38,72022,Data Engineer
+596,F,35,26010,Dirigente
+597,M,25,35010,Avvocato
+598,M,58,47030,Data Engineer
+599,M,47,20131,Ricercatore
+600,M,24,33050,Programmatore
+601,F,42,84070,Impiegato
+602,F,12,19020,Studente
+603,F,35,25043,Ricercatore
+604,M,62,25123,Programmatore
+605,F,14,20023,Studente
+606,F,51,01010,Studente
+607,M,28,25043,Disoccupato
+608,M,62,14100,Data Analyst
+609,M,50,83030,Data Engineer
+610,M,11,64023,Studente
+611,M,31,15077,Disoccupato
+612,M,49,10086,Data Engineer
+613,M,47,95127,Impiegato
+614,M,35,35031,Dirigente
+615,M,61,61029,Programmatore
+616,M,56,44121,Data Engineer
+617,F,41,12032,Data Engineer
+618,M,14,09010,Studente
+619,F,36,01010,Dirigente
+620,M,20,32030,Disoccupato
+621,M,19,50055,Data Analyst
+622,M,63,73020,Disoccupato
+623,M,33,12032,Programmatore
+624,M,36,00153,Dirigente
+625,F,50,20139,Avvocato
+626,M,58,44020,Data Analyst
+627,M,16,10086,Studente
+628,F,44,76012,Disoccupato
+629,F,55,00153,Studente
+630,F,32,01010,Ingegnere
+631,M,20,28887,Programmatore
+632,M,30,72022,Programmatore
+633,M,53,47030,Programmatore
+634,F,51,22072,Studente
+635,M,14,20139,Studente
+636,M,53,00125,Impiegato
+637,M,57,70037,Avvocato
+638,M,23,56022,Ricercatore
+639,M,30,24020,Programmatore
+640,M,44,40061,Data Analyst
+641,F,18,21030,Disoccupato
+642,F,48,36012,Dirigente
+643,M,64,00125,Operaio
+644,M,36,65027,Impiegato
+645,M,32,20023,Impiegato
+646,M,47,44020,Data Engineer
+647,M,62,61029,Avvocato
+648,F,29,40061,Avvocato
+649,M,36,27024,Data Analyst
+650,M,34,10086,Programmatore
+651,M,21,95127,Data Engineer
+652,M,35,71032,Impiegato
+653,M,39,47924,Architetto
+654,M,19,00018,Data Engineer
+655,F,23,26010,Operaio
+656,F,23,35031,Attore
+657,F,33,67069,Architetto
+658,F,16,33050,Studente
+659,F,35,36100,Disoccupato
+660,M,23,65017,Attore
+661,M,12,45030,Studente
+662,M,16,14100,Studente
+663,F,21,84070,Data Engineer
+664,M,42,70026,Atleta
+665,M,28,15077,Operaio
+666,F,59,41058,Disoccupato
+667,M,17,35010,Studente
+668,F,53,03100,Direttore
+669,M,19,35010,Programmatore
+670,M,47,09078,Avvocato
+671,M,31,63100,Data Analyst
+672,M,33,83030,Data Engineer
+673,M,36,20139,Impiegato
+674,M,64,22076,Programmatore
+675,M,57,27024,Impiegato
+676,M,45,65027,Attore
+677,M,61,34149,Operaio
+678,M,54,22076,Disoccupato
+679,M,34,17021,Attore
+680,M,24,90143,Avvocato
+681,M,53,14100,Data Engineer
+682,M,30,72022,Data Analyst
+683,M,58,47030,Data Analyst
+684,M,16,32030,Studente
+685,M,62,26100,Data Analyst
+686,M,59,45030,Data Analyst
+687,F,34,40138,Data Engineer
+688,M,29,50055,Architetto
+689,F,51,65017,Disoccupato
+690,M,17,83030,Studente
+691,M,32,84066,Infermiere
+692,F,44,30020,Disoccupato
+693,M,62,45030,Avvocato
+694,M,23,95127,Data Analyst
+695,F,61,33030,Dirigente
+696,M,53,22072,Avvocato
+697,F,51,64023,Ricercatore
+698,M,52,10126,Data Analyst
+699,M,46,27024,Disoccupato
+700,M,24,72022,Programmatore
+701,F,60,14025,Data Analyst
+702,M,57,47030,Data Engineer
+703,F,42,50055,Dirigente
+704,F,23,45100,Dottore
+705,M,58,65027,Data Analyst
+706,M,51,34149,Impiegato
+707,M,26,17021,Data Engineer
+708,M,13,56022,Studente
+709,M,29,10126,Disoccupato
+710,M,44,36012,Impiegato
+711,M,59,22072,Atleta
+712,M,44,03100,Disoccupato
+713,M,12,84066,Studente
+714,M,14,70037,Studente
+715,M,36,80038,Disoccupato
+716,M,31,33030,Data Analyst
+717,M,18,34149,Infermiere
+718,M,9,45030,Studente
+719,M,55,33030,Disoccupato
+720,M,57,65027,Disoccupato
+721,F,62,00153,Data Scientis
+722,M,50,12032,Avvocato
+723,M,56,33013,Avvocato
+724,M,39,45030,Architetto
+725,M,36,15067,Infermiere
+726,F,38,15067,Data Scientis
+727,M,46,15067,Infermiere
+728,M,34,35010,Ricercatore
+729,M,46,34149,Avvocato
+730,M,29,33013,Disoccupato
+731,M,33,12032,Direttore
+732,M,24,09078,Data Engineer
+733,M,48,33013,Attore
+734,M,29,64023,Data Engineer
+735,M,10,72022,Studente
+736,M,13,14025,Studente
+737,M,29,41058,Musicista
+738,M,49,20023,Programmatore
+739,M,56,19020,Avvocato
+740,M,49,33013,Ingegnere
+741,M,15,20139,Studente
+742,M,15,65017,Studente
+743,F,36,41058,Operaio
+744,M,31,36012,Programmatore
+745,M,34,19020,Studente
+746,F,63,84070,Musicista
+747,M,19,71032,Data Analyst
+748,M,48,32030,Disoccupato
+749,M,35,65017,Atleta
+750,F,65,80038,Data Scientis
+751,F,13,20131,Studente
+752,F,41,87060,Direttore
+753,M,16,95127,Studente
+754,M,18,35124,Data Engineer
+755,F,24,01010,Disoccupato
+756,M,40,14100,Disoccupato
+757,M,23,15063,Avvocato
+758,M,9,22072,Studente
+759,F,50,26010,Direttore
+760,M,57,34149,Autista
+761,M,30,90143,Data Engineer
+762,M,21,71032,Studente
+763,M,11,95127,Studente
+764,M,22,25123,Impiegato
+765,M,51,84070,Programmatore
+766,F,21,25043,Data Engineer
+767,M,49,47030,Avvocato
+768,M,60,20131,Avvocato
+769,M,36,15063,Programmatore
+770,M,21,47030,Data Analyst
+771,F,40,28887,Dirigente
+772,M,54,45030,Avvocato
+773,M,17,35010,Studente
+774,M,15,73020,Studente
+775,M,29,15063,Programmatore
+776,F,27,33013,Direttore
+777,M,10,35010,Studente
+778,M,20,20023,Programmatore
+779,M,30,87060,Disoccupato
+780,M,34,36012,Programmatore
+781,M,12,00061,Studente
+782,M,61,35031,Dirigente
+783,M,24,44121,Data Analyst
+784,M,57,65027,Disoccupato
+785,M,60,15063,Musicista
+786,M,28,84070,Disoccupato
+787,M,13,26010,Studente
+788,M,28,14025,Disoccupato
+789,M,45,84066,Dirigente
+790,M,31,44121,Programmatore
+791,M,47,63100,Data Engineer
+792,M,15,20131,Studente
+793,F,58,36012,Ingegnere
+794,M,49,09078,Impiegato
+795,F,39,27024,Ingegnere
+796,M,44,20131,Ricercatore
+797,F,32,83030,Data Engineer
+798,F,60,28887,Impiegato
+799,F,48,80038,Insegnante
+800,F,26,09010,Avvocato
+801,F,54,65017,Impiegato
+802,M,43,86020,Attore
+803,M,60,47030,Data Analyst
+804,M,22,32030,Impiegato
+805,M,58,10086,Avvocato
+806,M,31,41058,Disoccupato
+807,M,63,20131,Data Analyst
+808,M,32,64023,Data Engineer
+809,M,36,14100,Programmatore
+810,M,40,50055,Avvocato
+811,M,13,35010,Studente
+812,M,46,33030,Ricercatore
+813,M,20,84066,Data Analyst
+814,F,35,84070,Data Analyst
+815,M,65,14100,Data Analyst
+816,M,54,33050,Disoccupato
+817,M,50,15063,Data Analyst
+818,M,18,41058,Data Analyst
+819,M,45,20023,Data Engineer
+820,M,22,33013,Data Engineer
+821,M,47,73020,Operaio
+822,F,27,86020,Dirigente
+823,M,23,10126,Disoccupato
+824,M,54,63100,Avvocato
+825,M,34,20139,Dirigente
+826,F,18,95127,Dirigente
+827,M,38,73020,Operaio
+828,M,36,14100,Data Analyst
+829,M,45,47924,Musicista
+830,M,9,63100,Studente
+831,F,42,70026,Disoccupato
+832,M,49,84070,Operaio
+833,M,24,19020,Data Engineer
+834,F,18,09078,Avvocato
+835,M,27,21014,Disoccupato
+836,M,45,33050,Infermiere
+837,M,28,85024,Data Engineer
+838,M,10,35010,Studente
+839,M,59,14025,Disoccupato
+840,F,21,36100,Direttore
+841,F,19,36100,Ingegnere
+842,F,50,40138,Disoccupato
+843,M,21,09078,Data Engineer
+844,M,12,84066,Studente
+845,F,15,26100,Studente
+846,M,51,36012,Insegnante
+847,F,46,14100,Data Engineer
+848,M,22,83030,Autista
+849,M,22,25123,Direttore
+850,M,14,36012,Studente
+851,M,43,32030,Data Analyst
+852,M,12,41058,Studente
+853,M,64,25043,Programmatore
+854,F,14,45030,Studente
+855,F,45,35010,Operaio
+856,F,35,22072,Ricercatore
+857,M,59,50055,Programmatore
+858,M,17,21030,Studente
+859,M,40,00153,Avvocato
+860,M,48,14100,Disoccupato
+861,M,24,72022,Data Engineer
+862,M,49,40138,Data Engineer
+863,M,64,84066,Data Engineer
+864,F,28,84066,Disoccupato
+865,M,20,30020,Dirigente
+866,M,15,80038,Studente
+867,M,9,72022,Studente
+868,M,28,22072,Programmatore
+869,M,9,36012,Studente
+870,F,45,15077,Dirigente
+871,M,38,76012,Studente
+872,M,25,27024,Dirigente
+873,M,15,15063,Studente
+874,M,9,15063,Studente
+875,M,15,22076,Studente
+876,M,52,33048,Data Analyst
+877,M,39,15063,Disoccupato
+878,M,60,30020,Operaio
+879,M,42,00125,Attore
+880,M,40,32030,Programmatore
+881,M,54,20131,Ingegnere
+882,M,16,40061,Studente
+883,F,32,27024,Ingegnere
+884,M,50,35031,Studente
+885,M,16,21030,Studente
+886,F,50,15067,Disoccupato
+887,F,36,03100,Attore
+888,F,18,24020,Studente
+889,M,41,35031,Impiegato
+890,M,62,27024,Data Analyst
+891,M,63,00125,Dirigente
+892,M,12,14100,Studente
+893,F,20,15063,Ricercatore
+894,M,57,67069,Data Analyst
+895,M,14,21030,Studente
+896,M,26,70026,Autista
+897,M,52,84066,Ricercatore
+898,M,21,61029,Data Engineer
+899,F,19,32030,Dirigente
+900,F,53,09078,Architetto
+901,F,19,84070,Disoccupato
+902,M,37,73020,Disoccupato
+903,M,16,64023,Studente
+904,M,21,20131,Impiegato
+905,F,34,09099,Avvocato
+906,M,62,36012,Studente
+907,F,13,21030,Studente
+908,F,10,28887,Studente
+909,M,26,70026,Data Engineer
+910,F,41,47030,Disoccupato
+911,M,16,64023,Studente
+912,F,18,76012,Operaio
+913,M,64,15063,Disoccupato
+914,F,39,28887,Data Scientis
+915,M,44,65017,Data Engineer
+916,F,30,33030,Dirigente
+917,M,41,00018,Ricercatore
+918,F,60,63100,Dirigente
+919,F,39,33050,Dirigente
+920,M,30,26010,Data Analyst
+921,M,15,36012,Studente
+922,M,63,28887,Attore
+923,M,56,21030,Data Engineer
+924,M,61,20023,Programmatore
+925,F,52,14025,Direttore
+926,M,44,35010,Studente
+927,F,36,95127,Impiegato
+928,F,42,83030,Attore
+929,M,28,21030,Autista
+930,M,20,24020,Insegnante
+931,F,60,61029,Dirigente
+932,F,27,33050,Ricercatore
+933,M,28,72022,Dirigente
+934,F,31,76012,Data Engineer
+935,M,36,03100,Ingegnere
+936,M,43,34149,Data Analyst
+937,M,44,50055,Autista
+938,F,14,26010,Studente
+939,F,57,33050,Impiegato
+940,M,12,33050,Studente
+941,M,34,71032,Impiegato
+942,F,34,72022,Ricercatore
+943,F,17,15077,Studente
+944,M,22,28887,Disoccupato
+945,M,31,27024,Data Engineer
+946,M,21,22072,Data Engineer
+947,M,29,40061,Disoccupato
+948,M,60,33048,Avvocato
+949,M,46,21014,Programmatore
+950,M,63,25123,Data Engineer
+951,M,17,00061,Studente
+952,M,54,03100,Attore
+953,M,42,25043,Impiegato
+954,F,20,84070,Disoccupato
+955,F,37,03100,Data Engineer
+956,M,54,45030,Dirigente
+957,M,39,24020,Dirigente
+958,M,49,21030,Operaio
+959,M,16,14025,Studente
+960,M,36,56022,Studente
+961,M,39,45030,Studente
+962,F,16,95127,Studente
+963,M,38,20139,Disoccupato
+964,M,33,33030,Data Engineer
+965,M,41,01010,Data Engineer
+966,M,28,45100,Operaio
+967,F,60,33030,Disoccupato
+968,M,14,83030,Studente
+969,F,54,41058,Infermiere
+970,M,40,35031,Disoccupato
+971,M,24,14025,Avvocato
+972,M,58,36012,Dirigente
+973,F,61,00153,Dirigente
+974,M,18,00018,Musicista
+975,M,33,15063,Disoccupato
+976,M,45,61029,Ingegnere
+977,M,12,64023,Studente
+978,M,46,28887,Disoccupato
+979,M,58,17021,Studente
+980,M,10,01010,Studente
+981,M,23,10126,Impiegato
+982,F,16,22076,Studente
+983,F,53,33013,Attore
+984,M,61,12032,Attore
+985,M,46,25043,Data Analyst
+986,F,30,80038,Disoccupato
+987,F,44,84070,Programmatore
+988,M,17,15077,Studente
+989,M,49,35031,Disoccupato
+990,M,46,28887,Ricercatore
+991,F,28,64023,Data Scientis
+992,F,18,15077,Direttore
+993,M,9,40061,Studente
+994,M,14,76012,Studente
+995,F,61,86020,Data Analyst
+996,M,28,41058,Programmatore
+997,M,65,67069,Musicista
+998,M,24,14025,Impiegato
+999,M,45,64023,Autista
+1000,F,23,12032,Ricercatore
+1001,M,43,72022,Data Analyst
+1002,M,56,40061,Infermiere
+1003,M,42,21030,Operaio
+1004,M,39,30020,Direttore
+1005,M,9,87060,Studente
+1006,M,47,20139,Data Analyst
+1007,M,58,84066,Avvocato
+1008,M,58,20131,Direttore
+1009,M,53,00125,Data Engineer
+1010,M,50,14025,Disoccupato
+1011,M,10,47924,Studente
+1012,F,21,41058,Dirigente
+1013,M,48,17021,Architetto
+1014,F,10,25043,Studente
+1015,M,13,90143,Studente
+1016,M,65,20131,Attore
+1017,M,9,27024,Studente
+1018,M,65,32030,Data Analyst
+1019,M,28,21030,Dirigente
+1020,M,65,21030,Impiegato
+1021,M,53,63100,Disoccupato
+1022,M,46,26010,Direttore
+1023,M,44,15063,Architetto
+1024,F,12,71032,Studente
+1025,M,50,95127,Attore
+1026,F,62,22072,Disoccupato
+1027,M,34,33030,Data Analyst
+1028,F,46,80038,Data Engineer
+1029,M,36,67069,Disoccupato
+1030,M,47,14100,Data Engineer
+1031,M,34,32030,Attore
+1032,M,20,64023,Attore
+1033,M,43,15063,Insegnante
+1034,F,9,35010,Studente
+1035,M,29,36012,Operaio
+1036,M,51,09099,Data Engineer
+1037,M,54,70026,Data Engineer
+1038,F,13,35010,Studente
+1039,F,42,19020,Dirigente
+1040,M,39,34149,Infermiere
+1041,M,51,17021,Operaio
+1042,M,40,28887,Insegnante
+1043,F,54,47924,Infermiere
+1044,M,21,76012,Impiegato
+1045,F,28,30020,Studente
+1046,M,30,40138,Atleta
+1047,M,26,65027,Disoccupato
+1048,M,45,87060,Ricercatore
+1049,M,48,35031,Ingegnere
+1050,M,56,21014,Dirigente
+1051,F,20,71032,Disoccupato
+1052,F,43,35010,Operaio
+1053,M,28,33050,Disoccupato
+1054,M,58,47924,Studente
+1055,M,46,28887,Disoccupato
+1056,M,40,36100,Disoccupato
+1057,M,59,45030,Programmatore
+1058,M,23,33048,Dirigente
+1059,F,59,80038,Disoccupato
+1060,M,13,01010,Studente
+1061,M,31,00018,Disoccupato
+1062,M,27,03100,Musicista
+1063,M,32,95127,Data Engineer
+1064,M,56,80038,Data Engineer
+1065,F,57,21030,Disoccupato
+1066,M,11,45100,Studente
+1067,M,55,25123,Avvocato
+1068,F,45,00018,Data Analyst
+1069,M,26,47924,Impiegato
+1070,F,30,21030,Operaio
+1071,M,56,15063,Attore
+1072,F,31,86020,Data Engineer
+1073,F,37,15063,Ricercatore
+1074,M,30,33013,Programmatore
+1075,F,44,14025,Ricercatore
+1076,F,58,20023,Direttore
+1077,M,22,33050,Direttore
+1078,F,44,20020,Data Scientis
+1079,M,57,34149,Data Engineer
+1080,M,46,76012,Data Engineer
+1081,M,46,14025,Data Analyst
+1082,M,41,40138,Data Engineer
+1083,M,48,61029,Disoccupato
+1084,M,25,95127,Musicista
+1085,M,37,72022,Data Engineer
+1086,M,11,35010,Studente
+1087,M,31,20023,Attore
+1088,F,23,84070,Studente
+1089,M,18,40138,Ricercatore
+1090,M,42,28887,Data Engineer
+1091,M,14,33013,Studente
+1092,F,58,15077,Data Analyst
+1093,M,59,50055,Ingegnere
+1094,F,57,64023,Disoccupato
+1095,F,58,45030,Ricercatore
+1096,M,9,47924,Studente
+1097,M,57,40138,Programmatore
+1098,M,39,33013,Data Engineer
+1099,M,49,20139,Programmatore
+1100,M,57,15077,Disoccupato
+1101,M,38,87060,Dirigente
+1102,M,43,14100,Dirigente
+1103,F,59,19020,Data Engineer
+1104,M,29,00061,Infermiere
+1105,M,22,70026,Ricercatore
+1106,M,22,28887,Data Analyst
+1107,F,9,33013,Studente
+1108,M,51,35124,Dirigente
+1109,M,44,33048,Studente
+1110,F,46,35010,Ricercatore
+1111,F,14,22072,Studente
+1112,M,63,56022,Ricercatore
+1113,M,11,15063,Studente
+1114,F,58,32030,Data Scientis
+1115,F,28,41058,Dirigente
+1116,M,45,27024,Autista
+1117,M,45,09099,Ingegnere
+1118,M,35,25043,Architetto
+1119,M,57,24020,Dirigente
+1120,M,53,80038,Data Analyst
+1121,M,32,17021,Data Engineer
+1122,M,10,33048,Studente
+1123,M,37,50055,Disoccupato
+1124,M,16,71032,Studente
+1125,F,65,70037,Data Analyst
+1126,M,61,84070,Attore
+1127,M,48,36100,Disoccupato
+1128,M,31,09078,Dirigente
+1129,M,9,61029,Studente
+1130,M,43,00125,Data Engineer
+1131,M,21,56022,Architetto
+1132,M,42,36100,Avvocato
+1133,M,44,25123,Operaio
+1134,M,61,10126,Impiegato
+1135,M,9,45100,Studente
+1136,F,14,36100,Studente
+1137,M,22,56022,Data Analyst
+1138,M,44,09099,Avvocato
+1139,M,33,32030,Dirigente
+1140,F,31,15067,Operaio
+1141,F,36,67069,Direttore
+1142,M,52,61029,Dirigente
+1143,M,58,00018,Data Engineer
+1144,M,26,33048,Data Engineer
+1145,M,40,36012,Direttore
+1146,F,34,33050,Attore
+1147,M,63,85024,Impiegato
+1148,M,42,33050,Programmatore
+1149,M,36,25123,Avvocato
+1150,F,48,25043,Impiegato
+1151,M,44,83030,Autista
+1152,M,38,76012,Data Analyst
+1153,M,40,70026,Studente
+1154,F,14,35031,Studente
+1155,M,26,20139,Avvocato
+1156,F,50,19020,Operaio
+1157,M,42,21030,Data Engineer
+1158,F,24,15077,Dirigente
+1159,M,36,40138,Disoccupato
+1160,M,54,33013,Ingegnere
+1161,M,45,47924,Disoccupato
+1162,F,59,09010,Disoccupato
+1163,M,40,44020,Studente
+1164,F,45,64023,Musicista
+1165,M,24,00061,Avvocato
+1166,M,29,09099,Ricercatore
+1167,F,12,00153,Studente
+1168,F,12,71032,Studente
+1169,M,34,63100,Impiegato
+1170,M,11,00153,Studente
+1171,M,9,40138,Studente
+1172,F,33,15067,Disoccupato
+1173,F,55,70026,Data Engineer
+1174,F,32,22072,Attore
+1175,F,59,63100,Operaio
+1176,M,36,47030,Dirigente
+1177,F,38,26010,Programmatore
+1178,M,53,84066,Disoccupato
+1179,M,50,44121,Dirigente
+1180,F,59,65017,Impiegato
+1181,M,60,21014,Data Engineer
+1182,M,12,15067,Studente
+1183,M,41,76012,Musicista
+1184,F,63,56022,Data Analyst
+1185,F,18,41058,Dirigente
+1186,M,55,21014,Musicista
+1187,F,29,10126,Disoccupato
+1188,M,58,61029,Data Engineer
+1189,M,45,45100,Disoccupato
+1190,M,22,35031,Disoccupato
+1191,F,21,56022,Disoccupato
+1192,M,26,72022,Attore
+1193,M,44,15067,Avvocato
+1194,F,37,32030,Dirigente
+1195,F,64,20023,Studente
+1196,F,47,15077,Ingegnere
+1197,M,62,86020,Dirigente
+1198,M,46,71032,Studente
+1199,M,58,20023,Architetto
+1200,M,34,00125,Disoccupato
+1201,M,39,33030,Data Analyst
+1202,M,16,09078,Studente
+1203,F,12,25043,Studente
+1204,M,32,12032,Data Engineer
+1205,F,52,40138,Disoccupato
+1206,F,20,17021,Data Engineer
+1207,M,21,09099,Disoccupato
+1208,M,60,26010,Disoccupato
+1209,M,25,76012,Data Engineer
+1210,M,10,63100,Studente
+1211,M,64,44020,Data Analyst
+1212,F,42,64023,Dirigente
+1213,M,51,65027,Disoccupato
+1214,M,20,15077,Architetto
+1215,M,31,35010,Programmatore
+1216,M,35,34149,Operaio
+1217,M,39,28887,Avvocato
+1218,M,20,26010,Autista
+1219,M,43,15077,Data Engineer
+1220,M,25,14100,Studente
+1221,M,57,35010,Disoccupato
+1222,M,27,61029,Disoccupato
+1223,M,57,35010,Operaio
+1224,M,48,20023,Architetto
+1225,M,18,22076,Data Engineer
+1226,M,13,76012,Studente
+1227,M,55,35031,Dirigente
+1228,M,21,09099,Dirigente
+1229,F,29,45030,Data Analyst
+1230,M,10,72022,Studente
+1231,M,60,45030,Avvocato
+1232,F,64,27024,Data Analyst
+1233,F,39,10126,Impiegato
+1234,M,58,70026,Data Analyst
+1235,F,38,83030,Data Engineer
+1236,F,20,15077,Dirigente
+1237,M,44,65027,Data Analyst
+1238,F,32,70026,Impiegato
+1239,F,22,73020,Impiegato
+1240,F,26,67069,Ingegnere
+1241,M,52,17021,Studente
+1242,F,16,80038,Studente
+1243,M,31,26100,Autista
+1244,M,49,45100,Data Analyst
+1245,M,52,65027,Programmatore
+1246,M,26,84070,Data Analyst
+1247,M,41,35010,Disoccupato
+1248,F,59,01010,Impiegato
+1249,M,41,19020,Operaio
+1250,M,27,56022,Disoccupato
+1251,M,61,26100,Data Engineer
+1252,M,61,67069,Architetto
+1253,F,51,56022,Impiegato
+1254,F,41,09078,Dirigente
+1255,M,23,22076,Programmatore
+1256,M,13,00061,Studente
+1257,F,17,85024,Studente
+1258,M,60,65027,Data Engineer
+1259,M,13,83030,Studente
+1260,M,35,83030,Programmatore
+1261,M,58,90143,Data Analyst
+1262,M,32,19020,Data Analyst
+1263,M,32,12032,Studente
+1264,M,55,65027,Dirigente
+1265,F,57,32030,Impiegato
+1266,M,41,32030,Data Analyst
+1267,M,19,20020,Autista
+1268,M,37,17021,Operaio
+1269,F,21,47924,Architetto
+1270,M,30,76012,Ricercatore
+1271,F,61,01010,Ricercatore
+1272,M,26,27024,Impiegato
+1273,M,63,15067,Operaio
+1274,M,12,71032,Studente
+1275,M,39,33030,Programmatore
+1276,M,31,61029,Programmatore
+1277,F,22,50055,Disoccupato
+1278,M,19,19020,Data Analyst
+1279,M,15,14025,Studente
+1280,M,50,09010,Studente
+1281,M,36,87060,Musicista
+1282,M,33,03100,Dirigente
+1283,F,49,64023,Dirigente
+1284,M,14,27024,Studente
+1285,M,52,25043,Data Analyst
+1286,M,50,30020,Programmatore
+1287,F,55,33030,Data Engineer
+1288,F,65,73020,Musicista
+1289,M,19,22072,Ricercatore
+1290,M,36,03100,Disoccupato
+1291,F,42,33048,Disoccupato
+1292,M,13,26100,Studente
+1293,M,53,20023,Insegnante
+1294,F,29,00153,Impiegato
+1295,F,51,15077,Ricercatore
+1296,M,19,14025,Disoccupato
+1297,M,30,12032,Data Engineer
+1298,M,43,34149,Ricercatore
+1299,M,24,65017,Ingegnere
+1300,M,10,22076,Studente
+1301,F,26,03100,Operaio
+1302,M,24,84070,Data Analyst
+1303,M,26,95127,Musicista
+1304,M,37,22076,Ingegnere
+1305,M,37,65027,Impiegato
+1306,M,33,21014,Direttore
+1307,M,27,33030,Architetto
+1308,M,45,33050,Studente
+1309,M,22,86020,Ingegnere
+1310,M,48,25043,Disoccupato
+1311,M,22,65017,Studente
+1312,M,13,44020,Studente
+1313,M,26,30020,Data Analyst
+1314,F,54,10086,Data Analyst
+1315,M,14,19020,Studente
+1316,M,27,20131,Operaio
+1317,M,20,34149,Data Engineer
+1318,M,19,00153,Attore
+1319,F,10,12032,Studente
+1320,M,24,15063,Data Analyst
+1321,F,36,26010,Ingegnere
+1322,M,10,40061,Studente
+1323,F,54,20131,Operaio
+1324,M,31,86020,Attore
+1325,M,55,24020,Dirigente
+1326,F,59,65027,Disoccupato
+1327,M,26,27024,Studente
+1328,M,49,90143,Ingegnere
+1329,M,51,21014,Ingegnere
+1330,M,41,26010,Dirigente
+1331,M,19,67069,Disoccupato
+1332,M,33,20020,Data Engineer
+1333,M,11,33050,Studente
+1334,M,50,20131,Data Engineer
+1335,M,37,17021,Disoccupato
+1336,F,40,09099,Impiegato
+1337,M,46,63100,Programmatore
+1338,M,56,00125,Disoccupato
+1339,M,62,72022,Atleta
+1340,M,26,26010,Data Engineer
+1341,M,58,26100,Data Engineer
+1342,M,55,35031,Disoccupato
+1343,M,19,90143,Ingegnere
+1344,F,43,33050,Data Scientis
+1345,F,57,22076,Operaio
+1346,M,11,64023,Studente
+1347,F,44,87060,Dirigente
+1348,F,45,19020,Studente
+1349,M,19,71032,Data Engineer
+1350,F,65,00061,Disoccupato
+1351,F,31,22072,Programmatore
+1352,M,39,40061,Impiegato
+1353,M,41,76012,Studente
+1354,F,48,35010,Operaio
+1355,F,62,28887,Impiegato
+1356,F,21,35031,Data Analyst
+1357,M,51,24020,Disoccupato
+1358,M,44,15063,Programmatore
+1359,M,30,67069,Dirigente
+1360,M,60,40061,Impiegato
+1361,F,46,12032,Disoccupato
+1362,M,37,10086,Avvocato
+1363,M,28,01010,Data Engineer
+1364,F,49,21014,Operaio
+1365,F,21,00125,Studente
+1366,M,21,24020,Studente
+1367,M,49,00153,Avvocato
+1368,F,35,50055,Direttore
+1369,M,33,83030,Insegnante
+1370,M,44,83030,Operaio
+1371,F,59,70037,Operaio
+1372,M,64,73020,Studente
+1373,F,61,65017,Dirigente
+1374,M,48,27024,Dirigente
+1375,F,33,73020,Insegnante
+1376,F,36,36100,Dirigente
+1377,M,36,01010,Attore
+1378,F,38,76012,Data Engineer
+1379,F,33,20139,Architetto
+1380,M,38,71032,Studente
+1381,M,18,47924,Infermiere
+1382,F,25,83030,Dirigente
+1383,F,44,64023,Data Engineer
+1384,M,21,40138,Studente
+1385,F,19,70037,Insegnante
+1386,F,19,34149,Disoccupato
+1387,F,10,33030,Studente
+1388,M,15,86020,Studente
+1389,M,18,09010,Programmatore
+1390,M,30,34149,Attore
+1391,M,23,41058,Autista
+1392,M,43,84070,Direttore
+1393,M,25,85024,Data Analyst
+1394,F,59,90143,Direttore
+1395,M,46,26010,Operaio
+1396,F,48,44121,Avvocato
+1397,M,64,44121,Data Engineer
+1398,F,29,90143,Attore
+1399,M,57,56022,Programmatore
+1400,M,57,22072,Data Engineer
+1401,F,27,83030,Dirigente
+1402,M,43,40061,Data Analyst
+1403,F,43,45030,Disoccupato
+1404,M,26,32030,Attore
+1405,M,45,65027,Architetto
+1406,M,57,20020,Data Analyst
+1407,F,34,10086,Autista
+1408,M,65,63100,Disoccupato
+1409,M,46,21030,Data Analyst
+1410,M,61,70026,Data Engineer
+1411,M,50,15067,Dirigente
+1412,M,27,32030,Programmatore
+1413,M,48,01010,Direttore
+1414,M,32,14100,Data Analyst
+1415,M,56,35124,Ingegnere
+1416,M,64,15077,Ingegnere
+1417,M,51,95127,Attore
+1418,M,37,03100,Data Analyst
+1419,F,10,35010,Studente
+1420,M,32,34149,Data Analyst
+1421,F,18,40138,Studente
+1422,M,22,45030,Programmatore
+1423,M,34,84070,Data Analyst
+1424,M,18,47030,Disoccupato
+1425,M,33,27024,Studente
+1426,M,23,80038,Ingegnere
+1427,M,12,86020,Studente
+1428,F,14,35010,Studente
+1429,F,27,86020,Direttore
+1430,M,54,83030,Data Analyst
+1431,M,13,33048,Studente
+1432,M,36,65027,Dirigente
+1433,F,40,09078,Ingegnere
+1434,F,62,84066,Studente
+1435,M,44,26100,Ingegnere
+1436,F,54,65027,Ricercatore
+1437,M,57,00061,Direttore
+1438,M,18,27024,Operaio
+1439,M,40,44020,Direttore
+1440,M,12,20139,Studente
+1441,M,34,14025,Attore
+1442,M,25,35010,Operaio
+1443,M,38,44020,Operaio
+1444,F,11,25123,Studente
+1445,M,34,00153,Operaio
+1446,M,55,35031,Avvocato
+1447,M,45,25043,Data Analyst
+1448,F,20,22076,Direttore
+1449,M,44,09099,Impiegato
+1450,M,34,76012,Data Analyst
+1451,M,20,10126,Impiegato
+1452,F,20,17021,Architetto
+1453,M,61,36100,Ingegnere
+1454,M,21,33013,Data Analyst
+1455,F,37,24020,Disoccupato
+1456,M,65,30020,Operaio
+1457,M,10,35010,Studente
+1458,M,58,65027,Disoccupato
+1459,F,32,00061,Disoccupato
+1460,F,60,50055,Data Analyst
+1461,F,19,76012,Disoccupato
+1462,M,34,84066,Attore
+1463,M,52,27024,Attore
+1464,M,62,61029,Avvocato
+1465,M,28,34149,Attore
+1466,M,15,45100,Studente
+1467,M,26,36100,Insegnante
+1468,M,30,83030,Ingegnere
+1469,M,10,40138,Studente
+1470,M,47,25043,Data Analyst
+1471,M,14,36100,Studente
+1472,M,50,00125,Data Engineer
+1473,M,31,33048,Ingegnere
+1474,M,37,20139,Data Analyst
+1475,F,45,35031,Operaio
+1476,F,36,85024,Disoccupato
+1477,F,26,21030,Dirigente
+1478,M,39,41058,Studente
+1479,F,57,15063,Operaio
+1480,M,59,21030,Impiegato
+1481,M,31,33030,Programmatore
+1482,M,14,33030,Studente
+1483,M,21,90143,Data Analyst
+1484,M,9,56022,Studente
+1485,F,54,47924,Data Scientis
+1486,M,65,36100,Attore
+1487,M,36,71032,Data Engineer
+1488,M,37,09099,Data Engineer
+1489,F,29,70037,Operaio
+1490,M,65,41058,Data Engineer
+1491,M,53,45100,Data Analyst
+1492,M,24,40138,Avvocato
+1493,F,56,15077,Ingegnere
+1494,M,61,36012,Programmatore
+1495,M,20,44121,Disoccupato
+1496,M,58,17021,Programmatore
+1497,M,60,35124,Insegnante
+1498,M,61,33050,Data Analyst
+1499,M,53,09010,Studente
+1500,M,38,15067,Programmatore
+1501,M,52,35124,Infermiere
+1502,M,49,33013,Data Analyst
+1503,M,24,26100,Avvocato
+1504,M,54,14100,Musicista
+1505,M,22,90143,Infermiere
+1506,M,33,22076,Data Engineer
+1507,M,61,20020,Programmatore
+1508,F,58,35010,Studente
+1509,M,51,95127,Disoccupato
+1510,F,58,00018,Dirigente
+1511,M,55,25043,Avvocato
+1512,M,65,10126,Impiegato
+1513,F,20,84070,Attore
+1514,M,41,24020,Data Analyst
+1515,M,29,34149,Attore
+1516,F,14,20131,Studente
+1517,M,28,26100,Disoccupato
+1518,M,44,14025,Operaio
+1519,M,35,47924,Data Analyst
+1520,M,34,00125,Programmatore
+1521,F,25,84066,Data Engineer
+1522,M,41,65017,Impiegato
+1523,M,21,00061,Programmatore
+1524,M,12,25043,Studente
+1525,F,65,22076,Attore
+1526,M,21,50055,Programmatore
+1527,M,12,45030,Studente
+1528,M,44,56022,Autista
+1529,M,25,21014,Data Analyst
+1530,M,11,70037,Studente
+1531,M,10,41058,Studente
+1532,M,16,56022,Studente
+1533,M,14,64023,Studente
+1534,M,52,20131,Avvocato
+1535,F,55,35124,Impiegato
+1536,F,22,20020,Direttore
+1537,M,52,34149,Impiegato
+1538,M,30,33050,Direttore
+1539,M,63,70026,Direttore
+1540,M,27,65027,Disoccupato
+1541,M,45,32030,Programmatore
+1542,M,41,22072,Programmatore
+1543,M,10,33013,Studente
+1544,M,16,28887,Studente
+1545,M,19,80038,Impiegato
+1546,M,43,83030,Data Analyst
+1547,M,62,19020,Architetto
+1548,M,58,65027,Dirigente
+1549,M,27,33030,Ricercatore
+1550,M,63,21030,Data Analyst
+1551,M,10,84070,Studente
+1552,M,26,95127,Impiegato
+1553,F,44,01010,Autista
+1554,F,64,40138,Avvocato
+1555,F,43,09010,Disoccupato
+1556,M,58,32030,Data Analyst
+1557,F,23,95127,Data Analyst
+1558,M,37,15063,Ricercatore
+1559,M,56,12032,Dottore
+1560,F,24,17021,Direttore
+1561,F,51,24020,Data Analyst
+1562,M,36,73020,Impiegato
+1563,F,9,44020,Studente
+1564,M,42,25123,Dirigente
+1565,M,35,26010,Programmatore
+1566,M,57,76012,Attore
+1567,M,62,47924,Avvocato
+1568,F,46,40061,Studente
+1569,F,25,01010,Architetto
+1570,M,39,65027,Programmatore
+1571,M,46,47924,Impiegato
+1572,F,28,76012,Direttore
+1573,M,61,87060,Disoccupato
+1574,M,17,21030,Studente
+1575,F,26,45100,Data Engineer
+1576,F,43,09099,Data Scientis
+1577,M,60,65027,Disoccupato
+1578,M,39,56022,Data Analyst
+1579,M,59,35031,Disoccupato
+1580,F,38,30020,Data Analyst
+1581,F,18,22072,Data Analyst
+1582,M,16,27024,Studente
+1583,M,36,44020,Ricercatore
+1584,M,38,33050,Musicista
+1585,M,28,33013,Impiegato
+1586,M,33,40138,Data Engineer
+1587,F,44,09099,Direttore
+1588,M,9,35031,Studente
+1589,M,64,95127,Disoccupato
+1590,M,27,25043,Dirigente
+1591,M,35,03100,Data Engineer
+1592,M,27,86020,Data Engineer
+1593,M,11,85024,Studente
+1594,F,31,83030,Impiegato
+1595,M,11,33050,Studente
+1596,F,24,00125,Insegnante
+1597,M,29,70037,Avvocato
+1598,M,9,70026,Studente
+1599,M,53,36012,Disoccupato
+1600,M,53,70026,Data Engineer
+1601,M,40,35031,Avvocato
+1602,F,59,86020,Data Engineer
+1603,F,52,45030,Disoccupato
+1604,M,58,61029,Infermiere
+1605,F,38,61029,Disoccupato
+1606,F,44,21014,Direttore
+1607,M,55,35010,Dirigente
+1608,M,23,00153,Infermiere
+1609,F,64,01010,Data Scientis
+1610,M,43,21030,Infermiere
+1611,M,51,15077,Disoccupato
+1612,M,12,87060,Studente
+1613,M,63,44121,Impiegato
+1614,M,44,64023,Disoccupato
+1615,F,55,14100,Data Engineer
+1616,M,48,33030,Disoccupato
+1617,M,28,71032,Avvocato
+1618,M,17,45030,Studente
+1619,M,36,84070,Direttore
+1620,M,57,14100,Impiegato
+1621,M,59,35124,Data Analyst
+1622,M,32,41058,Data Analyst
+1623,M,22,72022,Autista
+1624,M,43,33050,Disoccupato
+1625,M,30,21030,Disoccupato
+1626,M,53,83030,Data Analyst
+1627,M,19,26100,Programmatore
+1628,M,22,00125,Impiegato
+1629,M,63,44121,Data Analyst
+1630,M,36,33050,Programmatore
+1631,F,12,28887,Studente
+1632,M,28,21030,Attore
+1633,F,44,84066,Data Engineer
+1634,F,63,26100,Disoccupato
+1635,M,53,33048,Disoccupato
+1636,F,48,33030,Musicista
+1637,M,62,15063,Disoccupato
+1638,F,19,83030,Programmatore
+1639,M,24,73020,Programmatore
+1640,M,12,84066,Studente
+1641,M,30,26010,Disoccupato
+1642,M,60,40138,Architetto
+1643,M,55,26100,Operaio
+1644,M,42,67069,Avvocato
+1645,F,22,09099,Data Scientis
+1646,M,53,20131,Impiegato
+1647,M,50,65027,Atleta
+1648,M,35,33050,Ingegnere
+1649,M,54,15063,Musicista
+1650,M,52,20020,Musicista
+1651,M,21,61029,Avvocato
+1652,M,14,35124,Studente
+1653,M,58,14025,Disoccupato
+1654,F,38,35010,Disoccupato
+1655,M,24,83030,Data Analyst
+1656,M,9,12032,Studente
+1657,F,28,72022,Disoccupato
+1658,F,62,33030,Ricercatore
+1659,F,61,21014,Data Scientis
+1660,F,12,14100,Studente
+1661,M,65,26010,Data Engineer
+1662,M,45,00061,Avvocato
+1663,M,57,72022,Data Analyst
+1664,F,51,33050,Data Analyst
+1665,M,30,83030,Programmatore
+1666,M,38,95127,Ingegnere
+1667,M,37,84070,Attore
+1668,M,46,73020,Operaio
+1669,F,51,22076,Programmatore
+1670,F,52,36100,Architetto
+1671,M,27,65027,Disoccupato
+1672,M,54,00125,Programmatore
+1673,M,17,21014,Studente
+1674,M,31,30020,Operaio
+1675,F,30,44121,Ricercatore
+1676,M,10,35010,Studente
+1677,M,61,85024,Ingegnere
+1678,F,49,30020,Programmatore
+1679,M,45,80038,Avvocato
+1680,M,16,40061,Studente
+1681,M,22,09099,Data Analyst
+1682,M,42,09010,Operaio
+1683,F,14,80038,Studente
+1684,M,41,14025,Direttore
+1685,M,30,35031,Avvocato
+1686,M,60,84066,Avvocato
+1687,M,62,30020,Direttore
+1688,F,31,33048,Data Analyst
+1689,M,48,20020,Insegnante
+1690,M,63,03100,Attore
+1691,F,45,84070,Programmatore
+1692,M,11,83030,Studente
+1693,M,62,87060,Avvocato
+1694,M,44,26100,Avvocato
+1695,M,44,85024,Dirigente
+1696,M,61,00153,Data Engineer
+1697,F,30,33050,Data Analyst
+1698,M,39,73020,Operaio
+1699,F,15,30020,Studente
+1700,M,40,33030,Impiegato
+1701,F,56,30020,Data Analyst
+1702,M,35,20020,Studente
+1703,M,63,33050,Autista
+1704,M,63,35031,Data Analyst
+1705,F,48,00125,Data Analyst
+1706,M,65,15067,Impiegato
+1707,M,56,47924,Dirigente
+1708,M,12,73020,Studente
+1709,M,48,14100,Disoccupato
+1710,M,64,36100,Disoccupato
+1711,F,14,25123,Studente
+1712,M,16,25043,Studente
+1713,M,26,83030,Disoccupato
+1714,M,26,33050,Programmatore
+1715,M,65,17021,Attore
+1716,M,17,47924,Studente
+1717,F,63,64023,Ricercatore
+1718,M,52,45030,Data Analyst
+1719,M,13,83030,Studente
+1720,M,44,45100,Data Analyst
+1721,M,50,34149,Musicista
+1722,M,24,00061,Disoccupato
+1723,M,47,36012,Programmatore
+1724,M,44,14100,Data Analyst
+1725,M,62,63100,Musicista
+1726,M,49,84066,Operaio
+1727,M,25,72022,Attore
+1728,M,13,33048,Studente
+1729,M,57,72022,Data Engineer
+1730,F,49,67069,Data Analyst
+1731,F,51,09078,Disoccupato
+1732,M,22,36012,Data Analyst
+1733,M,28,64023,Ingegnere
+1734,M,58,20139,Programmatore
+1735,M,51,83030,Impiegato
+1736,M,27,83030,Dottore
+1737,M,26,00125,Impiegato
+1738,M,22,35124,Attore
+1739,M,15,44121,Studente
+1740,M,34,00018,Dirigente
+1741,M,39,09099,Data Engineer
+1742,M,29,65017,Autista
+1743,M,55,47030,Programmatore
+1744,M,45,20023,Avvocato
+1745,M,22,00153,Disoccupato
+1746,M,24,85024,Data Analyst
+1747,M,18,09010,Disoccupato
+1748,M,50,80038,Dirigente
+1749,M,26,00061,Operaio
+1750,M,31,36100,Insegnante
+1751,M,47,00153,Impiegato
+1752,M,51,15063,Direttore
+1753,M,24,20131,Ricercatore
+1754,M,18,20131,Musicista
+1755,F,9,87060,Studente
+1756,F,26,44020,Dirigente
+1757,M,47,00153,Data Analyst
+1758,F,29,20020,Disoccupato
+1759,M,10,65017,Studente
+1760,F,65,65027,Direttore
+1761,M,38,20023,Disoccupato
+1762,M,46,19020,Ingegnere
+1763,M,46,00125,Data Engineer
+1764,M,28,26100,Disoccupato
+1765,M,52,44121,Data Analyst
+1766,F,26,33030,Disoccupato
+1767,M,28,25123,Impiegato
+1768,M,56,40061,Attore
+1769,M,33,73020,Programmatore
+1770,M,64,47030,Attore
+1771,M,44,45100,Programmatore
+1772,M,12,33050,Studente
+1773,M,50,36100,Data Analyst
+1774,M,10,26010,Studente
+1775,M,60,30020,Data Analyst
+1776,M,21,15063,Disoccupato
+1777,M,21,65017,Impiegato
+1778,M,31,20131,Data Analyst
+1779,M,34,36012,Dirigente
+1780,M,55,33050,Dirigente
+1781,F,57,34149,Disoccupato
+1782,M,42,33050,Disoccupato
+1783,M,48,24020,Data Analyst
+1784,M,42,50055,Impiegato
+1785,M,60,36012,Data Analyst
+1786,M,58,45030,Dirigente
+1787,M,52,36100,Dottore
+1788,M,40,26010,Operaio
+1789,M,10,17021,Studente
+1790,M,45,35031,Disoccupato
+1791,M,48,86020,Data Analyst
+1792,F,36,90143,Operaio
+1793,M,60,25123,Data Analyst
+1794,M,49,44121,Infermiere
+1795,M,40,76012,Programmatore
+1796,M,12,34149,Studente
+1797,M,26,10126,Data Engineer
+1798,M,35,26100,Infermiere
+1799,M,34,33050,Infermiere
+1800,M,34,19020,Data Analyst
+1801,F,48,27024,Ricercatore
+1802,M,30,15067,Data Analyst
+1803,M,20,35010,Operaio
+1804,M,38,36100,Data Engineer
+1805,M,24,20020,Data Analyst
+1806,M,20,20131,Data Analyst
+1807,M,60,47924,Programmatore
+1808,F,19,26100,Data Analyst
+1809,F,61,00061,Ingegnere
+1810,M,54,03100,Architetto
+1811,M,46,14100,Operaio
+1812,F,51,03100,Avvocato
+1813,F,39,20020,Ricercatore
+1814,M,64,44121,Data Engineer
+1815,M,40,33048,Dirigente
+1816,F,44,71032,Data Scientis
+1817,M,30,00018,Dirigente
+1818,M,16,25043,Studente
+1819,F,17,21030,Studente
+1820,M,43,17021,Impiegato
+1821,M,13,03100,Studente
+1822,F,46,15077,Disoccupato
+1823,F,62,00061,Dirigente
+1824,F,64,67069,Data Analyst
+1825,M,60,00125,Data Engineer
+1826,M,57,35031,Infermiere
+1827,F,15,87060,Studente
+1828,M,31,25123,Data Analyst
+1829,M,36,44121,Attore
+1830,M,25,61029,Data Analyst
+1831,M,36,09010,Data Analyst
+1832,F,41,63100,Data Analyst
+1833,M,29,40061,Programmatore
+1834,M,54,25043,Insegnante
+1835,M,40,84066,Musicista
+1836,M,16,84070,Studente
+1837,M,11,24020,Studente
+1838,M,59,70026,Data Engineer
+1839,M,65,47030,Data Analyst
+1840,M,46,76012,Avvocato
+1841,M,15,36012,Studente
+1842,M,11,35124,Studente
+1843,M,25,70026,Avvocato
+1844,F,34,34149,Data Analyst
+1845,M,57,73020,Operaio
+1846,M,20,26100,Avvocato
+1847,M,13,00061,Studente
+1848,M,18,20139,Insegnante
+1849,M,58,27024,Data Engineer
+1850,M,58,76012,Insegnante
+1851,M,58,85024,Musicista
+1852,M,29,35010,Avvocato
+1853,M,19,35010,Disoccupato
+1854,M,49,63100,Disoccupato
+1855,M,21,14025,Data Analyst
+1856,M,41,67069,Data Engineer
+1857,M,42,14100,Studente
+1858,F,14,90143,Studente
+1859,F,56,21014,Data Analyst
+1860,M,34,20131,Attore
+1861,M,46,95127,Attore
+1862,M,55,03100,Ingegnere
+1863,M,48,17021,Data Analyst
+1864,M,51,87060,Data Engineer
+1865,F,51,15077,Dirigente
+1866,M,58,76012,Data Engineer
+1867,M,23,19020,Data Engineer
+1868,M,9,84070,Studente
+1869,M,11,00153,Studente
+1870,M,54,34149,Architetto
+1871,F,64,09010,Dirigente
+1872,M,49,33030,Impiegato
+1873,M,11,09099,Studente
+1874,M,14,10126,Studente
+1875,M,14,35124,Studente
+1876,M,42,24020,Avvocato
+1877,F,45,83030,Impiegato
+1878,M,59,15063,Studente
+1879,M,14,65017,Studente
+1880,M,35,90143,Disoccupato
+1881,M,39,00125,Operaio
+1882,M,13,20020,Studente
+1883,F,26,15067,Disoccupato
+1884,M,31,15063,Impiegato
+1885,M,21,19020,Programmatore
+1886,M,37,09078,Avvocato
+1887,M,62,35124,Autista
+1888,M,29,00125,Avvocato
+1889,M,35,45030,Ingegnere
+1890,M,61,35031,Ricercatore
+1891,M,59,20020,Dirigente
+1892,M,44,63100,Impiegato
+1893,F,20,00125,Disoccupato
+1894,F,28,47030,Data Engineer
+1895,M,43,28887,Ingegnere
+1896,M,51,83030,Architetto
+1897,F,54,00061,Operaio
+1898,M,55,35124,Avvocato
+1899,F,52,15063,Ricercatore
+1900,M,52,09099,Avvocato
+1901,M,19,32030,Data Engineer
+1902,M,15,25123,Studente
+1903,M,55,84066,Disoccupato
+1904,M,9,86020,Studente
+1905,F,37,35124,Impiegato
+1906,F,60,27024,Insegnante
+1907,M,43,33013,Programmatore
+1908,M,15,45030,Studente
+1909,M,65,71032,Data Analyst
+1910,M,47,01010,Studente
+1911,F,37,95127,Data Analyst
+1912,M,33,44020,Data Analyst
+1913,M,63,30020,Programmatore
+1914,F,32,33048,Ingegnere
+1915,M,12,03100,Studente
+1916,M,17,35010,Studente
+1917,M,45,71032,Studente
+1918,F,13,00153,Studente
+1919,M,38,87060,Disoccupato
+1920,F,61,25043,Data Engineer
+1921,M,42,00061,Avvocato
+1922,F,25,64023,Data Engineer
+1923,M,44,26100,Data Engineer
+1924,F,65,83030,Ricercatore
+1925,M,17,83030,Studente
+1926,F,39,65027,Disoccupato
+1927,M,33,15063,Data Engineer
+1928,M,11,41058,Studente
+1929,F,36,20139,Studente
+1930,M,29,47030,Autista
+1931,M,28,32030,Operaio
+1932,M,57,09010,Data Engineer
+1933,M,21,15077,Musicista
+1934,M,44,26100,Programmatore
+1935,M,24,86020,Studente
+1936,M,37,33050,Disoccupato
+1937,M,28,35031,Infermiere
+1938,F,61,36100,Operaio
+1939,F,52,01010,Operaio
+1940,M,44,03100,Avvocato
+1941,M,33,20131,Programmatore
+1942,M,34,86020,Insegnante
+1943,M,43,40138,Data Analyst
+1944,F,15,87060,Studente
+1945,M,23,20131,Impiegato
+1946,M,14,20131,Studente
+1947,M,18,40138,Data Engineer
+1948,M,41,09078,Studente
+1949,M,58,71032,Programmatore
+1950,M,13,71032,Studente
+1951,F,53,44121,Data Analyst
+1952,M,34,09010,Dirigente
+1953,F,40,00125,Operaio
+1954,M,13,15077,Studente
+1955,M,44,03100,Musicista
+1956,M,13,09078,Studente
+1957,F,63,90143,Data Analyst
+1958,F,33,33050,Dirigente
+1959,F,23,47924,Architetto
+1960,M,9,71032,Studente
+1961,F,58,03100,Direttore
+1962,F,26,70037,Dirigente
+1963,F,23,67069,Data Scientis
+1964,F,53,34149,Ricercatore
+1965,M,22,33030,Programmatore
+1966,M,21,80038,Impiegato
+1967,M,26,35031,Data Engineer
+1968,M,65,14025,Infermiere
+1969,F,46,33030,Direttore
+1970,M,29,85024,Architetto
+1971,F,43,61029,Ingegnere
+1972,M,40,63100,Programmatore
+1973,M,23,70026,Dirigente
+1974,M,40,80038,Programmatore
+1975,M,11,28887,Studente
+1976,M,29,45030,Insegnante
+1977,M,64,36100,Ricercatore
+1978,M,23,83030,Studente
+1979,M,44,20139,Programmatore
+1980,M,60,27024,Data Engineer
+1981,M,29,63100,Dirigente
+1982,M,62,09010,Studente
+1983,M,11,34149,Studente
+1984,M,39,01010,Studente
+1985,M,29,83030,Avvocato
+1986,M,21,41058,Architetto
+1987,M,18,83030,Programmatore
+1988,F,44,40061,Dirigente
+1989,M,19,84070,Ricercatore
+1990,M,15,33050,Studente
+1991,M,61,28887,Impiegato
+1992,M,27,22076,Data Analyst
+1993,M,58,67069,Programmatore
+1994,M,56,12032,Operaio
+1995,M,61,70037,Dirigente
+1996,M,47,32030,Disoccupato
+1997,M,24,14100,Disoccupato
+1998,F,42,14025,Data Scientis
+1999,F,61,20139,Direttore
+2000,M,48,87060,Data Analyst
+2001,M,12,72022,Studente
+2002,F,60,36100,Architetto
+2003,M,27,33030,Studente
+2004,M,19,33048,Musicista
+2005,M,16,76012,Studente
+2006,M,62,00061,Disoccupato
+2007,M,36,90143,Attore
+2008,M,37,65017,Direttore
+2009,F,18,22072,Data Engineer
+2010,M,65,15067,Data Analyst
+2011,F,31,14100,Direttore
+2012,M,63,83030,Data Analyst
+2013,M,64,56022,Disoccupato
+2014,M,13,14100,Studente
+2015,M,25,47030,Data Analyst
+2016,F,10,33050,Studente
+2017,M,57,00061,Programmatore
+2018,M,29,14025,Attore
+2019,M,43,84070,Dirigente
+2020,M,19,00125,Data Engineer
+2021,M,20,00125,Disoccupato
+2022,M,59,12032,Data Engineer
+2023,M,59,70037,Data Analyst
+2024,M,17,01010,Studente
+2025,M,44,45030,Architetto
+2026,M,17,33050,Studente
+2027,F,65,61029,Data Scientis
+2028,M,12,12032,Studente
+2029,F,62,10126,Avvocato
+2030,M,17,32030,Studente
+2031,M,35,09099,Impiegato
+2032,M,36,32030,Ingegnere
+2033,F,23,28887,Impiegato
+2034,F,28,44121,Operaio
+2035,F,48,27024,Disoccupato
+2036,F,24,35124,Ingegnere
+2037,M,48,36100,Ingegnere
+2038,F,59,61029,Dirigente
+2039,M,18,33030,Attore
+2040,F,13,84070,Studente
+2041,F,44,84066,Impiegato
+2042,M,9,50055,Studente
+2043,M,14,90143,Studente
+2044,F,47,10086,Disoccupato
+2045,F,63,09099,Disoccupato
+2046,M,37,44121,Dirigente
+2047,M,23,15077,Studente
+2048,M,21,27024,Ricercatore
+2049,F,34,61029,Disoccupato
+2050,F,51,01010,Direttore
+2051,M,52,33030,Data Engineer
+2052,M,53,27024,Studente
+2053,M,42,15063,Infermiere
+2054,M,25,35124,Avvocato
+2055,M,53,15063,Infermiere
+2056,M,26,20131,Data Analyst
+2057,M,56,14100,Dirigente
+2058,F,62,85024,Dirigente
+2059,M,48,28887,Disoccupato
+2060,M,17,25043,Studente
+2061,M,39,15063,Dirigente
+2062,M,16,10086,Studente
+2063,M,57,35010,Data Analyst
+2064,M,53,90143,Dirigente
+2065,M,48,12032,Ricercatore
+2066,F,56,65027,Ricercatore
+2067,M,10,35031,Studente
+2068,F,54,35124,Avvocato
+2069,M,35,15077,Autista
+2070,F,35,86020,Ricercatore
+2071,M,17,83030,Studente
+2072,F,15,83030,Studente
+2073,F,16,00125,Studente
+2074,M,52,01010,Data Analyst
+2075,F,55,36100,Data Analyst
+2076,M,24,40061,Data Analyst
+2077,M,42,09099,Disoccupato
+2078,M,22,41058,Data Analyst
+2079,M,34,73020,Studente
+2080,M,13,47924,Studente
+2081,M,48,26100,Programmatore
+2082,M,27,47030,Musicista
+2083,M,29,41058,Data Analyst
+2084,M,60,25043,Data Analyst
+2085,M,21,15063,Disoccupato
+2086,M,50,17021,Ingegnere
+2087,M,46,64023,Disoccupato
+2088,M,26,45100,Data Engineer
+2089,M,47,00061,Programmatore
+2090,M,61,33013,Programmatore
+2091,F,53,44121,Impiegato
+2092,M,46,21014,Dirigente
+2093,M,17,73020,Studente
+2094,M,46,17021,Operaio
+2095,M,48,15077,Architetto
+2096,F,20,15063,Programmatore
+2097,M,43,35010,Insegnante
+2098,M,57,15077,Impiegato
+2099,F,44,76012,Disoccupato
+2100,F,23,09099,Disoccupato
+2101,M,45,20023,Attore
+2102,M,48,00061,Infermiere
+2103,M,17,26100,Studente
+2104,M,15,34149,Studente
+2105,M,58,45030,Dirigente
+2106,F,11,14100,Studente
+2107,M,59,09099,Dirigente
+2108,M,41,35124,Studente
+2109,M,39,35124,Attore
+2110,M,9,61029,Studente
+2111,M,32,90143,Architetto
+2112,F,12,45100,Studente
+2113,M,17,14025,Studente
+2114,M,59,86020,Atleta
+2115,M,21,45100,Programmatore
+2116,M,63,27024,Data Analyst
+2117,M,52,22072,Architetto
+2118,M,10,61029,Studente
+2119,M,21,36012,Data Analyst
+2120,M,30,26100,Disoccupato
+2121,M,10,19020,Studente
+2122,M,61,00125,Avvocato
+2123,F,11,22076,Studente
+2124,M,43,95127,Disoccupato
+2125,M,15,36012,Studente
+2126,M,13,10086,Studente
+2127,M,23,25123,Data Analyst
+2128,F,35,03100,Dirigente
+2129,M,19,63100,Insegnante
+2130,M,39,09078,Disoccupato
+2131,M,49,09078,Disoccupato
+2132,M,15,00061,Studente
+2133,F,52,20020,Studente
+2134,M,35,19020,Studente
+2135,M,37,83030,Dirigente
+2136,M,49,14100,Atleta
+2137,F,51,67069,Studente
+2138,F,33,17021,Data Analyst
+2139,F,60,64023,Direttore
+2140,M,47,00018,Ingegnere
+2141,F,40,09078,Attore
+2142,F,24,36100,Ingegnere
+2143,M,17,80038,Studente
+2144,M,57,10126,Disoccupato
+2145,M,21,30020,Studente
+2146,M,52,83030,Operaio
+2147,F,11,40061,Studente
+2148,F,16,00061,Studente
+2149,M,30,33050,Disoccupato
+2150,F,37,00125,Data Analyst
+2151,M,50,63100,Architetto
+2152,M,19,03100,Data Analyst
+2153,M,14,17021,Studente
+2154,M,37,56022,Avvocato
+2155,F,52,26100,Studente
+2156,M,10,73020,Studente
+2157,F,10,15063,Studente
+2158,M,19,36100,Avvocato
+2159,F,15,32030,Studente
+2160,F,64,35010,Musicista
+2161,F,55,32030,Operaio
+2162,F,35,12032,Studente
+2163,M,26,25123,Disoccupato
+2164,M,38,34149,Disoccupato
+2165,M,23,47924,Data Engineer
+2166,M,60,44121,Studente
+2167,F,18,09099,Ricercatore
+2168,M,45,28887,Studente
+2169,M,13,40061,Studente
+2170,F,36,26010,Attore
+2171,M,56,47924,Disoccupato
+2172,M,54,72022,Impiegato
+2173,M,49,14100,Architetto
+2174,M,57,71032,Avvocato
+2175,M,13,83030,Studente
+2176,M,50,33050,Musicista
+2177,F,33,20131,Impiegato
+2178,M,44,25043,Ingegnere
+2179,F,45,85024,Disoccupato
+2180,M,28,86020,Avvocato
+2181,M,17,83030,Studente
+2182,F,53,24020,Data Analyst
+2183,F,47,32030,Dirigente
+2184,M,41,14025,Data Analyst
+2185,M,64,65017,Programmatore
+2186,M,47,17021,Insegnante
+2187,M,22,72022,Attore
+2188,F,17,25123,Studente
+2189,M,39,26010,Studente
+2190,F,38,10126,Autista
+2191,M,63,35010,Data Analyst
+2192,F,34,21030,Disoccupato
+2193,M,11,41058,Studente
+2194,M,62,36100,Programmatore
+2195,M,20,20023,Studente
+2196,M,19,09078,Avvocato
+2197,F,39,33013,Dirigente
+2198,F,41,25123,Data Scientis
+2199,M,24,61029,Studente
+2200,M,54,83030,Dirigente
+2201,M,65,87060,Impiegato
+2202,F,32,83030,Studente
+2203,M,12,32030,Studente
+2204,M,31,47924,Direttore
+2205,F,48,40061,Data Engineer
+2206,M,21,80038,Data Engineer
+2207,M,46,26100,Data Analyst
+2208,M,62,72022,Disoccupato
+2209,M,29,70037,Data Engineer
+2210,M,25,20131,Programmatore
+2211,M,27,84066,Ricercatore
+2212,M,46,32030,Data Analyst
+2213,F,64,64023,Disoccupato
+2214,F,63,45100,Dirigente
+2215,F,21,14025,Disoccupato
+2216,F,14,40061,Studente
+2217,M,18,33048,Studente
+2218,M,25,41058,Programmatore
+2219,M,55,90143,Ricercatore
+2220,F,41,72022,Direttore
+2221,M,55,71032,Programmatore
+2222,F,23,21014,Dirigente
+2223,M,37,90143,Operaio
+2224,M,32,33013,Avvocato
+2225,M,19,30020,Insegnante
+2226,F,10,15067,Studente
+2227,M,22,34149,Ingegnere
+2228,M,48,65027,Avvocato
+2229,M,56,27024,Disoccupato
+2230,F,61,14100,Dirigente
+2231,M,42,72022,Infermiere
+2232,M,65,25043,Ingegnere
+2233,F,37,36100,Direttore
+2234,M,10,14100,Studente
+2235,M,48,64023,Studente
+2236,M,24,15077,Studente
+2237,F,16,90143,Studente
+2238,F,36,09078,Data Analyst
+2239,M,22,15063,Studente
+2240,M,59,25043,Avvocato
+2241,M,33,21014,Insegnante
+2242,M,49,28887,Data Analyst
+2243,M,21,33050,Operaio
+2244,M,22,00125,Studente
+2245,M,26,20139,Studente
+2246,M,9,09010,Studente
+2247,M,38,83030,Operaio
+2248,F,35,35124,Avvocato
+2249,M,23,35010,Insegnante
+2250,M,37,27024,Musicista
+2251,M,13,00125,Studente
+2252,F,23,12032,Dirigente
+2253,F,11,00125,Studente
+2254,M,43,09010,Insegnante
+2255,F,40,72022,Ricercatore
+2256,F,58,45100,Autista
+2257,F,10,67069,Studente
+2258,F,24,00125,Data Analyst
+2259,F,65,85024,Attore
+2260,F,15,36012,Studente
+2261,M,31,44020,Insegnante
+2262,M,31,14100,Programmatore
+2263,M,58,36100,Ricercatore
+2264,F,52,70037,Data Engineer
+2265,M,64,83030,Architetto
+2266,F,23,10126,Operaio
+2267,F,39,35010,Architetto
+2268,F,33,45100,Dirigente
+2269,F,34,25043,Disoccupato
+2270,M,37,30020,Dirigente
+2271,M,19,70026,Ingegnere
+2272,M,9,86020,Studente
+2273,M,53,80038,Ricercatore
+2274,M,17,25123,Studente
+2275,M,50,65027,Data Engineer
+2276,M,10,26010,Studente
+2277,F,27,14100,Data Scientis
+2278,M,39,33050,Programmatore
+2279,M,43,32030,Data Engineer
+2280,M,35,83030,Ricercatore
+2281,M,33,25123,Infermiere
+2282,M,20,44121,Operaio
+2283,M,21,36100,Atleta
+2284,M,20,90143,Impiegato
+2285,F,51,67069,Studente
+2286,M,26,70037,Programmatore
+2287,M,59,15063,Disoccupato
+2288,M,38,70037,Studente
+2289,F,16,64023,Studente
+2290,M,45,36100,Disoccupato
+2291,M,60,64023,Dirigente
+2292,M,27,20139,Autista
+2293,F,28,36012,Direttore
+2294,M,60,10126,Architetto
+2295,M,21,01010,Infermiere
+2296,F,17,20131,Studente
+2297,M,49,47924,Architetto
+2298,M,29,10086,Programmatore
+2299,F,22,19020,Studente
+2300,M,30,63100,Architetto
+2301,F,11,28887,Studente
+2302,M,58,45030,Avvocato
+2303,M,60,44020,Programmatore
+2304,M,47,21014,Avvocato
+2305,M,32,33050,Impiegato
+2306,F,46,21014,Data Analyst
+2307,M,34,20020,Programmatore
+2308,F,34,67069,Attore
+2309,F,53,22072,Disoccupato
+2310,M,54,45100,Avvocato
+2311,F,60,47030,Data Analyst
+2312,M,26,63100,Disoccupato
+2313,F,41,21030,Ricercatore
+2314,F,21,27024,Dirigente
+2315,M,34,25043,Data Engineer
+2316,M,11,44121,Studente
+2317,F,47,47924,Data Scientis
+2318,M,40,73020,Data Engineer
+2319,M,13,21030,Studente
+2320,F,30,26010,Dirigente
+2321,M,14,00125,Studente
+2322,F,57,20131,Architetto
+2323,M,51,73020,Direttore
+2324,M,10,73020,Studente
+2325,F,26,10086,Data Analyst
+2326,M,58,70026,Data Analyst
+2327,M,27,09099,Studente
+2328,M,35,28887,Data Engineer
+2329,F,59,40138,Autista
+2330,M,58,14100,Data Engineer
+2331,M,44,00061,Dirigente
+2332,M,42,25123,Ingegnere
+2333,M,55,41058,Ricercatore
+2334,F,65,47924,Data Engineer
+2335,M,27,63100,Programmatore
+2336,M,56,47030,Atleta
+2337,M,39,40138,Programmatore
+2338,M,49,00018,Programmatore
+2339,F,14,83030,Studente
+2340,M,54,33050,Operaio
+2341,M,11,01010,Studente
+2342,M,36,73020,Direttore
+2343,F,53,01010,Dirigente
+2344,M,30,09078,Avvocato
+2345,M,52,33013,Attore
+2346,F,54,70037,Studente
+2347,M,44,00018,Dirigente
+2348,M,37,64023,Avvocato
+2349,M,60,50055,Dottore
+2350,M,16,15077,Studente
+2351,F,18,95127,Disoccupato
+2352,M,12,26100,Studente
+2353,F,52,70026,Data Scientis
+2354,M,63,86020,Infermiere
+2355,F,39,87060,Data Scientis
+2356,F,64,15067,Attore
+2357,F,51,25123,Ingegnere
+2358,F,35,80038,Ricercatore
+2359,M,61,19020,Architetto
+2360,M,54,17021,Ricercatore
+2361,M,19,67069,Data Engineer
+2362,M,35,25123,Ingegnere
+2363,M,31,33050,Ingegnere
+2364,F,28,25043,Data Scientis
+2365,M,42,32030,Data Engineer
+2366,F,60,70026,Attore
+2367,F,48,19020,Data Scientis
+2368,F,28,67069,Architetto
+2369,M,47,09010,Ingegnere
+2370,M,22,44121,Dirigente
+2371,F,37,41058,Data Engineer
+2372,F,27,12032,Data Engineer
+2373,M,65,61029,Data Engineer
+2374,M,27,25043,Ingegnere
+2375,F,48,65027,Data Engineer
+2376,M,35,63100,Dirigente
+2377,M,12,36100,Studente
+2378,M,60,47924,Direttore
+2379,M,12,12032,Studente
+2380,M,39,20139,Data Analyst
+2381,F,64,83030,Data Scientis
+2382,M,64,00125,Architetto
+2383,F,62,44121,Ingegnere
+2384,M,31,65027,Programmatore
+2385,F,61,73020,Operaio
+2386,F,36,21030,Disoccupato
+2387,M,46,21030,Programmatore
+2388,M,29,95127,Insegnante
+2389,M,9,35010,Studente
+2390,F,47,09099,Ricercatore
+2391,M,25,73020,Atleta
+2392,F,34,19020,Direttore
+2393,M,42,24020,Architetto
+2394,M,32,01010,Ricercatore
+2395,M,60,87060,Data Engineer
+2396,F,55,09099,Disoccupato
+2397,F,64,30020,Infermiere
+2398,M,58,65017,Disoccupato
+2399,M,9,33013,Studente
+2400,F,55,09099,Attore
+2401,M,11,72022,Studente
+2402,M,55,45030,Programmatore
+2403,M,40,84070,Data Analyst
+2404,M,20,10086,Data Engineer
+2405,M,31,03100,Dottore
+2406,F,20,40138,Avvocato
+2407,M,56,86020,Attore
+2408,F,50,20131,Dirigente
+2409,F,35,35124,Data Scientis
+2410,M,26,56022,Data Engineer
+2411,F,27,20131,Ingegnere
+2412,M,45,00125,Architetto
+2413,F,39,36100,Data Engineer
+2414,M,44,27024,Dirigente
+2415,M,14,14100,Studente
+2416,M,17,10126,Studente
+2417,M,42,15063,Dirigente
+2418,F,59,76012,Studente
+2419,M,43,22076,Disoccupato
+2420,M,61,67069,Data Engineer
+2421,M,49,44020,Data Engineer
+2422,F,10,35010,Studente
+2423,F,59,32030,Data Scientis
+2424,M,47,12032,Programmatore
+2425,F,19,09010,Ingegnere
+2426,M,34,32030,Disoccupato
+2427,F,29,35124,Ingegnere
+2428,M,46,30020,Programmatore
+2429,M,29,65027,Operaio
+2430,M,38,35010,Data Analyst
+2431,F,11,21014,Studente
+2432,M,17,33048,Studente
+2433,M,55,00061,Data Analyst
+2434,M,50,15063,Data Analyst
+2435,M,35,26010,Data Analyst
+2436,M,9,84070,Studente
+2437,M,11,30020,Studente
+2438,M,30,22076,Dirigente
+2439,M,39,00018,Programmatore
+2440,M,44,33013,Programmatore
+2441,F,11,67069,Studente
+2442,M,12,10086,Studente
+2443,F,51,25043,Disoccupato
+2444,F,45,33030,Data Analyst
+2445,M,32,45100,Disoccupato
+2446,M,32,15077,Data Engineer
+2447,M,50,10126,Ingegnere
+2448,M,20,09099,Ricercatore
+2449,M,37,20023,Architetto
+2450,M,16,83030,Studente
+2451,M,45,22076,Avvocato
+2452,M,35,80038,Data Engineer
+2453,M,59,10086,Data Engineer
+2454,M,30,20020,Disoccupato
+2455,M,41,64023,Data Engineer
+2456,M,36,20023,Insegnante
+2457,M,24,56022,Disoccupato
+2458,M,18,35124,Data Engineer
+2459,M,22,01010,Data Engineer
+2460,F,53,10086,Dirigente
+2461,M,63,72022,Data Analyst
+2462,M,33,45100,Dirigente
+2463,M,25,70026,Data Engineer
+2464,F,25,30020,Data Analyst
+2465,M,43,86020,Ricercatore
+2466,M,58,35124,Autista
+2467,M,63,72022,Studente
+2468,M,17,25043,Studente
+2469,M,27,73020,Data Analyst
+2470,M,31,65017,Atleta
+2471,M,22,26100,Architetto
+2472,M,9,70037,Studente
+2473,M,54,09099,Avvocato
+2474,M,44,65017,Avvocato
+2475,F,47,67069,Atleta
+2476,M,15,25043,Studente
+2477,M,40,00125,Disoccupato
+2478,M,20,33050,Dirigente
+2479,F,41,70026,Dirigente
+2480,F,56,25043,Impiegato
+2481,M,36,83030,Ingegnere
+2482,F,42,24020,Direttore
+2483,M,19,83030,Architetto
+2484,M,39,20023,Insegnante
+2485,M,19,10086,Ingegnere
+2486,M,65,36012,Avvocato
+2487,M,24,22076,Data Engineer
+2488,F,20,34149,Operaio
+2489,F,28,76012,Data Scientis
+2490,M,22,20020,Avvocato
+2491,M,32,30020,Data Engineer
+2492,F,14,03100,Studente
+2493,M,47,87060,Operaio
+2494,M,24,27024,Data Analyst
+2495,F,15,15063,Studente
+2496,M,49,21014,Dirigente
+2497,F,56,26010,Ingegnere
+2498,M,42,45100,Atleta
+2499,M,12,33050,Studente
+2500,M,19,21030,Dirigente
+2501,M,44,87060,Autista
+2502,M,56,33013,Architetto
+2503,M,27,90143,Programmatore
+2504,M,42,25043,Data Engineer
+2505,M,18,20131,Data Engineer
+2506,F,37,45100,Ingegnere
+2507,M,32,70026,Data Analyst
+2508,F,29,22076,Direttore
+2509,M,30,61029,Insegnante
+2510,M,15,33048,Studente
+2511,M,30,44020,Data Engineer
+2512,F,20,20131,Ingegnere
+2513,M,41,40061,Dirigente
+2514,M,19,33030,Ingegnere
+2515,M,25,15077,Avvocato
+2516,F,12,22076,Studente
+2517,F,25,56022,Data Scientis
+2518,M,23,70037,Data Engineer
+2519,F,51,22076,Operaio
+2520,F,37,25043,Operaio
+2521,M,10,33030,Studente
+2522,M,56,09099,Infermiere
+2523,M,39,20020,Programmatore
+2524,F,64,83030,Data Scientis
+2525,F,57,28887,Dirigente
+2526,M,44,50055,Architetto
+2527,M,20,63100,Autista
+2528,M,51,30020,Disoccupato
+2529,F,14,47924,Studente
+2530,M,22,33030,Disoccupato
+2531,F,21,33050,Data Engineer
+2532,F,32,10126,Architetto
+2533,F,17,70026,Studente
+2534,F,47,14025,Ricercatore
+2535,F,30,10086,Operaio
+2536,M,39,21014,Architetto
+2537,M,26,47030,Infermiere
+2538,M,20,14025,Architetto
+2539,M,47,12032,Data Engineer
+2540,F,10,00018,Studente
+2541,F,52,09078,Insegnante
+2542,F,28,10086,Architetto
+2543,F,27,25123,Disoccupato
+2544,M,15,45100,Studente
+2545,M,53,36012,Architetto
+2546,F,33,70026,Architetto
+2547,F,61,71032,Disoccupato
+2548,F,32,00153,Ricercatore
+2549,M,13,12032,Studente
+2550,M,16,65017,Studente
+2551,M,50,17021,Avvocato
+2552,F,12,83030,Studente
+2553,M,47,22076,Data Engineer
+2554,M,27,63100,Dirigente
+2555,M,15,63100,Studente
+2556,M,12,35124,Studente
+2557,F,62,35124,Musicista
+2558,M,18,15063,Programmatore
+2559,M,51,83030,Studente
+2560,F,48,70026,Ricercatore
+2561,M,15,71032,Studente
+2562,M,63,33048,Disoccupato
+2563,M,39,14100,Architetto
+2564,F,48,26100,Impiegato
+2565,M,59,71032,Insegnante
+2566,M,48,50055,Programmatore
+2567,M,47,56022,Disoccupato
+2568,M,51,33050,Programmatore
+2569,M,47,33013,Disoccupato
+2570,F,14,76012,Studente
+2571,M,44,73020,Programmatore
+2572,M,20,67069,Ingegnere
+2573,M,21,33050,Attore
+2574,M,21,67069,Ricercatore
+2575,M,17,20020,Studente
+2576,M,17,85024,Studente
+2577,M,37,33050,Data Engineer
+2578,M,42,17021,Data Engineer
+2579,M,63,50055,Autista
+2580,F,25,00018,Dirigente
+2581,M,29,25043,Infermiere
+2582,F,47,86020,Dirigente
+2583,M,28,47924,Data Engineer
+2584,F,19,44020,Dirigente
+2585,M,58,64023,Autista
+2586,M,49,20131,Impiegato
+2587,M,35,36012,Data Engineer
+2588,F,30,03100,Architetto
+2589,M,44,61029,Disoccupato
+2590,M,44,15063,Data Analyst
+2591,M,20,35124,Dirigente
+2592,M,63,15077,Data Engineer
+2593,M,61,28887,Attore
+2594,M,56,33030,Data Engineer
+2595,M,33,32030,Data Analyst
+2596,M,20,95127,Data Engineer
+2597,F,49,45100,Disoccupato
+2598,M,56,01010,Programmatore
+2599,M,33,22072,Avvocato
+2600,M,14,33050,Studente
+2601,M,20,32030,Attore
+2602,M,57,35010,Avvocato
+2603,M,62,10086,Programmatore
+2604,M,15,20131,Studente
+2605,M,19,70037,Data Engineer
+2606,M,18,20023,Data Engineer
+2607,F,41,10126,Disoccupato
+2608,F,13,10086,Studente
+2609,F,45,85024,Avvocato
+2610,M,63,45100,Data Engineer
+2611,M,39,86020,Direttore
+2612,F,16,72022,Studente
+2613,M,12,22072,Studente
+2614,M,51,65027,Data Engineer
+2615,M,46,20131,Data Engineer
+2616,M,37,33048,Data Engineer
+2617,F,30,15077,Autista
+2618,F,28,00153,Data Analyst
+2619,M,50,26100,Avvocato
+2620,M,16,63100,Studente
+2621,M,45,33048,Disoccupato
+2622,F,46,47030,Ricercatore
+2623,M,21,83030,Dirigente
+2624,F,34,76012,Disoccupato
+2625,M,27,95127,Data Engineer
+2626,M,32,33050,Dirigente
+2627,M,46,47924,Dirigente
+2628,F,16,40061,Studente
+2629,M,13,33050,Studente
+2630,F,51,65027,Insegnante
+2631,F,50,33050,Dirigente
+2632,M,37,61029,Disoccupato
+2633,F,50,20139,Data Scientis
+2634,M,43,10086,Dirigente
+2635,M,64,32030,Disoccupato
+2636,M,46,10126,Avvocato
+2637,F,59,35124,Impiegato
+2638,M,64,14100,Ingegnere
+2639,F,30,40061,Ricercatore
+2640,M,56,00061,Avvocato
+2641,M,38,33050,Ricercatore
+2642,M,43,83030,Disoccupato
+2643,M,22,41058,Programmatore
+2644,M,48,44121,Autista
+2645,M,42,71032,Data Engineer
+2646,M,39,80038,Programmatore
+2647,F,60,40138,Infermiere
+2648,M,48,00125,Programmatore
+2649,M,11,63100,Studente
+2650,M,10,00061,Studente
+2651,M,14,33048,Studente
+2652,M,47,28887,Impiegato
+2653,M,61,09099,Data Engineer
+2654,F,25,27024,Data Scientis
+2655,M,19,35010,Data Engineer
+2656,M,40,83030,Architetto
+2657,F,22,72022,Studente
+2658,M,21,00125,Data Engineer
+2659,M,21,33050,Ingegnere
+2660,M,44,36012,Programmatore
+2661,M,37,40138,Architetto
+2662,M,26,35124,Programmatore
+2663,F,29,09010,Data Analyst
+2664,M,37,83030,Data Engineer
+2665,M,39,00153,Infermiere
+2666,M,54,87060,Attore
+2667,F,41,84070,Ricercatore
+2668,F,48,83030,Data Analyst
+2669,M,46,76012,Disoccupato
+2670,M,21,25043,Ricercatore
+2671,F,60,33050,Avvocato
+2672,M,12,44121,Studente
+2673,M,30,36012,Data Engineer
+2674,M,10,00018,Studente
+2675,M,26,64023,Atleta
+2676,M,48,45030,Impiegato
+2677,F,30,67069,Data Engineer
+2678,M,25,61029,Ricercatore
+2679,F,30,45100,Data Analyst
+2680,M,43,95127,Avvocato
+2681,F,45,26100,Data Analyst
+2682,M,53,95127,Data Analyst
+2683,M,58,00061,Data Engineer
+2684,F,11,30020,Studente
+2685,M,13,20139,Studente
+2686,M,18,64023,Disoccupato
+2687,M,32,83030,Studente
+2688,M,11,35010,Studente
+2689,M,46,22072,Avvocato
+2690,M,50,35124,Data Engineer
+2691,M,36,22076,Data Analyst
+2692,F,55,76012,Data Analyst
+2693,M,32,26100,Architetto
+2694,M,23,50055,Data Analyst
+2695,M,60,67069,Infermiere
+2696,M,20,25123,Data Engineer
+2697,F,12,70037,Studente
+2698,F,17,14025,Studente
+2699,F,59,27024,Architetto
+2700,M,25,80038,Data Engineer
+2701,M,28,70037,Dirigente
+2702,M,21,44121,Ricercatore
+2703,M,51,30020,Infermiere
+2704,M,46,45100,Architetto
+2705,M,10,15077,Studente
+2706,F,59,80038,Dirigente
+2707,M,53,09078,Architetto
+2708,M,22,25043,Data Engineer
+2709,F,21,84070,Disoccupato
+2710,M,36,15063,Programmatore
+2711,F,55,33013,Data Analyst
+2712,F,52,33013,Musicista
+2713,M,22,70037,Data Engineer
+2714,M,65,76012,Data Analyst
+2715,F,44,47030,Data Analyst
+2716,F,41,65027,Data Analyst
+2717,M,37,45100,Data Analyst
+2718,F,31,35010,Data Analyst
+2719,M,60,00153,Avvocato
+2720,M,9,20131,Studente
+2721,M,65,14025,Ingegnere
+2722,M,38,86020,Data Engineer
+2723,F,31,20131,Data Scientis
+2724,F,19,19020,Operaio
+2725,M,30,45030,Data Engineer
+2726,M,12,35031,Studente
+2727,M,45,47030,Infermiere
+2728,M,45,00061,Avvocato
+2729,M,16,20139,Studente
+2730,M,28,33048,Infermiere
+2731,M,28,35031,Data Engineer
+2732,M,11,47924,Studente
+2733,M,17,36012,Studente
+2734,F,64,36012,Data Analyst
+2735,M,25,73020,Data Engineer
+2736,M,21,09078,Avvocato
+2737,M,19,00061,Direttore
+2738,F,62,83030,Operaio
+2739,F,42,56022,Data Engineer
+2740,M,29,72022,Programmatore
+2741,M,50,41058,Ingegnere
+2742,M,60,61029,Programmatore
+2743,M,45,33050,Ingegnere
+2744,M,50,44020,Programmatore
+2745,F,43,03100,Dirigente
+2746,M,11,72022,Studente
+2747,F,59,50055,Data Analyst
+2748,M,26,35010,Data Analyst
+2749,M,60,00153,Avvocato
+2750,F,25,45100,Autista
+2751,F,50,32030,Attore
+2752,M,45,50055,Autista
+2753,F,23,64023,Impiegato
+2754,M,59,83030,Avvocato
+2755,M,61,33013,Data Engineer
+2756,M,14,00125,Studente
+2757,M,31,36100,Operaio
+2758,M,42,33030,Dottore
+2759,M,12,22076,Studente
+2760,M,27,36100,Disoccupato
+2761,M,65,32030,Ricercatore
+2762,M,53,35010,Attore
+2763,F,14,76012,Studente
+2764,M,43,15067,Data Engineer
+2765,M,32,00153,Data Engineer
+2766,M,44,65017,Data Engineer
+2767,M,28,03100,Disoccupato
+2768,M,10,87060,Studente
+2769,M,23,41058,Data Engineer
+2770,M,44,20131,Dirigente
+2771,M,55,17021,Dirigente
+2772,M,54,65017,Programmatore
+2773,M,64,84070,Operaio
+2774,M,16,09078,Studente
+2775,F,62,84070,Data Analyst
+2776,M,34,00153,Ingegnere
+2777,M,30,20131,Data Analyst
+2778,M,26,30020,Architetto
+2779,M,64,41058,Data Engineer
+2780,M,60,28887,Programmatore
+2781,M,31,22072,Data Analyst
+2782,F,46,45030,Data Analyst
+2783,M,31,71032,Programmatore
+2784,M,59,73020,Impiegato
+2785,M,31,20131,Architetto
+2786,M,53,20131,Data Analyst
+2787,M,51,95127,Data Analyst
+2788,M,36,83030,Dirigente
+2789,M,55,84066,Data Analyst
+2790,M,32,50055,Impiegato
+2791,M,46,22072,Data Engineer
+2792,M,12,67069,Studente
+2793,M,38,73020,Data Engineer
+2794,M,37,44020,Operaio
+2795,M,39,00061,Architetto
+2796,M,10,85024,Studente
+2797,F,58,00061,Data Engineer
+2798,M,22,33013,Impiegato
+2799,M,34,45100,Disoccupato
+2800,F,60,61029,Data Analyst
+2801,F,50,21014,Direttore
+2802,M,57,41058,Impiegato
+2803,M,51,35010,Data Engineer
+2804,F,50,10126,Disoccupato
+2805,M,13,15063,Studente
+2806,M,60,27024,Studente
+2807,F,30,83030,Infermiere
+2808,M,30,95127,Attore
+2809,M,13,09078,Studente
+2810,F,31,20020,Studente
+2811,M,43,56022,Musicista
+2812,M,42,33013,Programmatore
+2813,M,52,56022,Impiegato
+2814,M,19,71032,Data Engineer
+2815,M,59,32030,Programmatore
+2816,M,37,40061,Data Engineer
+2817,M,34,64023,Avvocato
+2818,M,28,24020,Avvocato
+2819,M,50,76012,Ingegnere
+2820,F,56,50055,Disoccupato
+2821,M,59,17021,Impiegato
+2822,M,38,33030,Data Engineer
+2823,M,33,34149,Data Analyst
+2824,M,44,47030,Data Analyst
+2825,F,60,26100,Impiegato
+2826,M,29,30020,Avvocato
+2827,M,41,15063,Programmatore
+2828,M,31,15077,Data Analyst
+2829,M,23,27024,Impiegato
+2830,M,23,45100,Data Engineer
+2831,M,37,33050,Disoccupato
+2832,M,63,36100,Programmatore
+2833,M,41,44121,Autista
+2834,M,32,33013,Dirigente
+2835,M,44,71032,Impiegato
+2836,M,65,84070,Avvocato
+2837,M,61,01010,Disoccupato
+2838,M,38,72022,Dirigente
+2839,M,53,21014,Programmatore
+2840,M,57,25043,Disoccupato
+2841,M,49,40061,Avvocato
+2842,M,36,00153,Programmatore
+2843,F,54,00125,Data Analyst
+2844,M,28,00153,Impiegato
+2845,M,10,47030,Studente
+2846,F,56,00018,Data Analyst
+2847,M,58,20023,Data Analyst
+2848,M,46,14100,Disoccupato
+2849,M,45,22072,Infermiere
+2850,M,58,10086,Impiegato
+2851,F,35,85024,Data Engineer
+2852,M,23,71032,Avvocato
+2853,M,48,50055,Dirigente
+2854,F,46,27024,Data Analyst
+2855,M,11,15067,Studente
+2856,M,13,25043,Studente
+2857,M,49,65017,Disoccupato
+2858,F,33,21030,Studente
+2859,M,43,25123,Dirigente
+2860,M,11,00061,Studente
+2861,M,26,14025,Autista
+2862,M,47,86020,Data Engineer
+2863,F,61,35010,Operaio
+2864,F,57,35010,Direttore
+2865,F,25,73020,Ricercatore
+2866,M,58,72022,Data Engineer
+2867,M,57,45100,Programmatore
+2868,M,61,22072,Avvocato
+2869,M,10,45030,Studente
+2870,M,45,84066,Atleta
+2871,F,19,72022,Ingegnere
+2872,M,34,09078,Impiegato
+2873,F,38,71032,Data Analyst
+2874,F,22,36100,Impiegato
+2875,M,35,30020,Operaio
+2876,M,46,25123,Programmatore
+2877,M,52,15067,Dirigente
+2878,F,43,32030,Impiegato
+2879,M,54,26010,Data Analyst
+2880,M,26,21030,Avvocato
+2881,F,13,70026,Studente
+2882,M,15,15077,Studente
+2883,M,14,35031,Studente
+2884,F,49,01010,Direttore
+2885,F,44,44121,Dirigente
+2886,M,53,50055,Data Analyst
+2887,M,48,35010,Direttore
+2888,M,63,00153,Ingegnere
+2889,M,22,84070,Direttore
+2890,M,32,47030,Data Engineer
+2891,F,65,70037,Data Analyst
+2892,M,27,26010,Data Analyst
+2893,M,56,09010,Dirigente
+2894,M,36,10086,Data Analyst
+2895,M,12,41058,Studente
+2896,M,30,40061,Ingegnere
+2897,M,37,72022,Insegnante
+2898,M,9,61029,Studente
+2899,M,35,09010,Ingegnere
+2900,M,30,27024,Avvocato
+2901,M,20,10086,Programmatore
+2902,M,42,63100,Avvocato
+2903,M,50,10126,Attore
+2904,M,20,45030,Data Analyst
+2905,M,64,22076,Programmatore
+2906,M,17,64023,Studente
+2907,F,25,26010,Insegnante
+2908,M,46,00125,Operaio
+2909,M,51,10126,Data Engineer
+2910,M,61,21030,Musicista
+2911,F,17,71032,Studente
+2912,F,51,26100,Data Analyst
+2913,F,9,84070,Studente
+2914,M,55,20023,Data Analyst
+2915,M,28,19020,Data Engineer
+2916,M,65,35010,Operaio
+2917,M,39,44121,Disoccupato
+2918,M,19,24020,Avvocato
+2919,M,11,15067,Studente
+2920,M,25,33030,Operaio
+2921,M,18,83030,Dirigente
+2922,M,40,33030,Programmatore
+2923,M,42,12032,Avvocato
+2924,F,58,35010,Data Analyst
+2925,F,32,83030,Data Analyst
+2926,F,61,32030,Operaio
+2927,M,12,36012,Studente
+2928,M,13,01010,Studente
+2929,M,37,40138,Operaio
+2930,M,63,35010,Programmatore
+2931,M,44,33048,Data Analyst
+2932,M,58,36100,Avvocato
+2933,M,26,09099,Infermiere
+2934,F,27,45100,Impiegato
+2935,M,42,63100,Disoccupato
+2936,F,34,21030,Data Analyst
+2937,F,57,01010,Data Analyst
+2938,F,35,14100,Disoccupato
+2939,F,31,47030,Autista
+2940,M,48,65027,Disoccupato
+2941,M,58,56022,Avvocato
+2942,F,56,44020,Dirigente
+2943,M,27,70037,Avvocato
+2944,F,55,73020,Data Analyst
+2945,F,50,15067,Programmatore
+2946,M,23,24020,Attore
+2947,F,32,27024,Disoccupato
+2948,M,64,72022,Ingegnere
+2949,M,14,90143,Studente
+2950,M,52,33050,Disoccupato
+2951,F,64,14100,Ingegnere
+2952,M,45,35010,Data Analyst
+2953,M,15,21014,Studente
+2954,M,38,40138,Operaio
+2955,M,28,10126,Ingegnere
+2956,M,31,33050,Avvocato
+2957,M,28,03100,Data Analyst
+2958,M,65,41058,Data Engineer
+2959,M,40,73020,Programmatore
+2960,M,21,70037,Data Analyst
+2961,M,17,71032,Studente
+2962,M,19,26100,Direttore
+2963,F,9,63100,Studente
+2964,M,28,40138,Programmatore
+2965,F,39,10086,Data Analyst
+2966,F,19,12032,Data Analyst
+2967,M,44,09010,Disoccupato
+2968,F,20,26010,Disoccupato
+2969,M,39,34149,Data Engineer
+2970,M,45,33048,Data Analyst
+2971,M,48,36012,Data Analyst
+2972,M,45,14100,Data Analyst
+2973,F,49,33030,Data Analyst
+2974,M,15,83030,Studente
+2975,M,19,65017,Infermiere
+2976,M,42,09010,Impiegato
+2977,F,19,44121,Data Analyst
+2978,M,30,25123,Impiegato
+2979,M,23,34149,Operaio
+2980,M,65,20131,Data Engineer
+2981,M,18,76012,Ricercatore
+2982,M,51,00125,Data Analyst
+2983,M,64,47924,Data Analyst
+2984,M,64,00153,Data Analyst
+2985,M,54,32030,Data Analyst
+2986,M,14,64023,Studente
+2987,M,28,30020,Data Analyst
+2988,F,24,22072,Ricercatore
+2989,M,43,33050,Avvocato
+2990,M,30,35010,Avvocato
+2991,M,42,33050,Dirigente
+2992,M,24,12032,Data Analyst
+2993,M,43,80038,Musicista
+2994,M,51,65027,Insegnante
+2995,M,54,50055,Autista
+2996,M,16,00061,Studente
+2997,F,58,33050,Attore
+2998,F,38,20139,Dirigente
+2999,M,42,15077,Data Engineer
+3000,M,21,15077,Data Analyst
+3001,M,64,70026,Data Analyst
+3002,M,53,36012,Infermiere
+3003,M,44,90143,Autista
+3004,F,49,50055,Data Analyst
+3005,M,39,03100,Programmatore
+3006,M,10,44020,Studente
+3007,M,45,34149,Disoccupato
+3008,M,24,00061,Data Analyst
+3009,F,53,00018,Direttore
+3010,M,23,95127,Avvocato
+3011,M,25,14025,Dirigente
+3012,M,17,21030,Studente
+3013,M,37,09010,Programmatore
+3014,M,49,33050,Data Engineer
+3015,M,30,09099,Ricercatore
+3016,M,55,33048,Avvocato
+3017,F,18,35031,Data Scientis
+3018,M,52,40138,Disoccupato
+3019,M,13,44121,Studente
+3020,F,11,71032,Studente
+3021,F,50,33013,Autista
+3022,M,60,61029,Programmatore
+3023,F,45,14100,Data Engineer
+3024,M,51,15067,Programmatore
+3025,F,40,85024,Disoccupato
+3026,F,25,00061,Data Analyst
+3027,M,40,10086,Data Analyst
+3028,M,60,71032,Studente
+3029,M,22,21030,Data Analyst
+3030,M,36,95127,Dirigente
+3031,M,19,15077,Data Analyst
+3032,M,36,36012,Disoccupato
+3033,M,17,85024,Studente
+3034,F,41,15063,Dirigente
+3035,F,23,84066,Data Engineer
+3036,M,15,47030,Studente
+3037,F,20,47924,Operaio
+3038,F,26,64023,Operaio
+3039,F,64,36012,Direttore
+3040,M,62,09010,Dottore
+3041,M,45,35124,Data Analyst
+3042,M,33,67069,Dirigente
+3043,M,26,65027,Operaio
+3044,M,33,36012,Attore
+3045,M,46,56022,Dirigente
+3046,M,26,84070,Data Analyst
+3047,F,32,00018,Data Analyst
+3048,M,20,26010,Operaio
+3049,F,15,20023,Studente
+3050,M,37,17021,Avvocato
+3051,M,15,35010,Studente
+3052,M,39,83030,Avvocato
+3053,F,34,19020,Direttore
+3054,M,23,22076,Data Analyst
+3055,F,38,22072,Direttore
+3056,M,15,76012,Studente
+3057,F,53,28887,Avvocato
+3058,M,45,44121,Avvocato
+3059,M,62,71032,Disoccupato
+3060,F,63,01010,Dirigente
+3061,M,30,34149,Operaio
+3062,M,15,85024,Studente
+3063,M,46,26010,Data Analyst
+3064,M,21,45030,Programmatore
+3065,F,31,73020,Data Analyst
+3066,M,65,12032,Data Analyst
+3067,F,20,80038,Disoccupato
+3068,F,10,26100,Studente
+3069,M,51,32030,Data Analyst
+3070,F,31,87060,Data Analyst
+3071,M,63,61029,Dirigente
+3072,M,49,21014,Dirigente
+3073,M,24,10126,Disoccupato
+3074,M,11,15077,Studente
+3075,F,52,14025,Infermiere
+3076,M,10,15063,Studente
+3077,M,53,85024,Data Analyst
+3078,F,26,33013,Dirigente
+3079,F,11,30020,Studente
+3080,M,44,33048,Impiegato
+3081,M,49,09010,Data Engineer
+3082,F,41,44121,Ricercatore
+3083,F,47,34149,Disoccupato
+3084,M,36,00153,Attore
+3085,M,18,71032,Data Analyst
+3086,M,54,15077,Avvocato
+3087,F,27,44121,Dirigente
+3088,F,41,86020,Data Analyst
+3089,M,46,45100,Attore
+3090,M,51,20020,Operaio
+3091,F,64,35124,Disoccupato
+3092,M,38,90143,Autista
+3093,F,25,00125,Impiegato
+3094,M,55,56022,Disoccupato
+3095,F,33,20023,Direttore
+3096,F,52,33050,Direttore
+3097,F,40,33048,Insegnante
+3098,M,21,26010,Data Analyst
+3099,M,35,26100,Programmatore
+3100,F,9,09099,Studente
+3101,M,50,85024,Autista
+3102,M,15,83030,Studente
+3103,M,25,90143,Impiegato
+3104,M,55,24020,Programmatore
+3105,M,60,00153,Avvocato
+3106,M,33,83030,Disoccupato
+3107,M,15,10086,Studente
+3108,M,29,85024,Ricercatore
+3109,F,35,90143,Infermiere
+3110,M,18,12032,Disoccupato
+3111,M,49,47030,Data Analyst
+3112,M,51,65027,Avvocato
+3113,M,43,12032,Studente
+3114,M,13,22072,Studente
+3115,M,10,19020,Studente
+3116,M,46,03100,Avvocato
+3117,M,29,87060,Disoccupato
+3118,M,33,83030,Disoccupato
+3119,M,31,21030,Dirigente
+3120,M,16,64023,Studente
+3121,M,30,33048,Operaio
+3122,F,55,20139,Data Engineer
+3123,M,65,50055,Operaio
+3124,M,39,17021,Avvocato
+3125,M,58,44121,Data Engineer
+3126,M,37,20020,Operaio
+3127,F,43,44121,Disoccupato
+3128,M,26,25043,Operaio
+3129,M,55,45030,Data Engineer
+3130,M,53,40138,Data Engineer
+3131,F,25,76012,Operaio
+3132,M,29,00153,Data Engineer
+3133,M,30,12032,Data Analyst
+3134,M,16,44121,Studente
+3135,M,34,00018,Autista
+3136,F,9,95127,Studente
+3137,M,60,85024,Infermiere
+3138,M,38,50055,Programmatore
+3139,M,36,09099,Architetto
+3140,F,27,25043,Data Analyst
+3141,M,48,20020,Ingegnere
+3142,M,65,85024,Impiegato
+3143,F,48,21030,Attore
+3144,F,39,90143,Data Engineer
+3145,M,40,84066,Data Analyst
+3146,M,20,47030,Disoccupato
+3147,M,26,14100,Ingegnere
+3148,M,20,32030,Impiegato
+3149,M,59,10126,Data Analyst
+3150,F,9,12032,Studente
+3151,F,36,44121,Disoccupato
+3152,M,45,33030,Data Analyst
+3153,F,49,33048,Data Analyst
+3154,F,29,33048,Data Analyst
+3155,M,27,30020,Data Engineer
+3156,M,33,27024,Data Engineer
+3157,M,57,32030,Avvocato
+3158,M,57,65017,Autista
+3159,F,46,85024,Autista
+3160,M,35,22072,Programmatore
+3161,M,38,83030,Data Engineer
+3162,M,61,25043,Dirigente
+3163,M,32,03100,Autista
+3164,M,22,09078,Avvocato
+3165,M,18,14100,Data Engineer
+3166,M,36,10086,Data Analyst
+3167,M,13,61029,Studente
+3168,F,65,09010,Insegnante
+3169,M,32,87060,Disoccupato
+3170,M,44,33048,Disoccupato
+3171,F,51,21014,Direttore
+3172,M,47,00153,Avvocato
+3173,M,32,45030,Avvocato
+3174,F,31,20023,Ingegnere
+3175,M,30,36012,Attore
+3176,M,10,56022,Studente
+3177,F,64,26010,Ricercatore
+3178,F,40,65027,Insegnante
+3179,F,32,87060,Impiegato
+3180,M,20,33048,Ingegnere
+3181,M,61,01010,Avvocato
+3182,M,44,26010,Avvocato
+3183,M,65,09099,Data Engineer
+3184,F,33,00125,Atleta
+3185,M,39,00018,Data Engineer
+3186,M,43,20020,Dirigente
+3187,M,20,61029,Avvocato
+3188,M,57,40061,Architetto
+3189,M,11,56022,Studente
+3190,M,23,14025,Programmatore
+3191,M,9,20131,Studente
+3192,M,37,80038,Data Analyst
+3193,M,26,35010,Disoccupato
+3194,M,23,70026,Autista
+3195,M,39,63100,Data Analyst
+3196,F,52,40061,Data Analyst
+3197,F,49,67069,Ingegnere
+3198,M,27,47924,Avvocato
+3199,M,34,70026,Disoccupato
+3200,F,11,20023,Studente
+3201,M,23,20023,Data Engineer
+3202,F,55,36100,Data Analyst
+3203,M,15,65027,Studente
+3204,M,37,87060,Attore
+3205,F,28,56022,Attore
+3206,M,38,14100,Impiegato
+3207,M,43,25043,Data Engineer
+3208,M,38,47030,Ingegnere
+3209,M,62,00153,Disoccupato
+3210,F,35,00125,Disoccupato
+3211,M,55,32030,Attore
+3212,F,12,19020,Studente
+3213,F,44,14025,Dirigente
+3214,F,35,01010,Data Engineer
+3215,F,58,71032,Architetto
+3216,M,12,26010,Studente
+3217,F,25,35031,Disoccupato
+3218,M,43,14100,Ricercatore
+3219,F,28,35010,Data Analyst
+3220,M,17,09078,Studente
+3221,M,64,00125,Disoccupato
+3222,M,59,63100,Data Engineer
+3223,M,12,25043,Studente
+3224,F,38,40138,Ingegnere
+3225,M,32,21014,Disoccupato
+3226,M,56,47924,Data Analyst
+3227,F,56,15077,Ingegnere
+3228,M,16,45100,Studente
+3229,F,64,33013,Dirigente
+3230,M,41,84066,Attore
+3231,M,19,67069,Data Engineer
+3232,M,40,09010,Avvocato
+3233,M,62,00061,Operaio
+3234,F,53,22072,Disoccupato
+3235,M,24,09078,Data Analyst
+3236,M,29,20131,Autista
+3237,M,58,21014,Data Engineer
+3238,M,10,20139,Studente
+3239,F,48,21030,Avvocato
+3240,M,46,65017,Data Analyst
+3241,F,43,00125,Disoccupato
+3242,M,26,32030,Architetto
+3243,M,13,71032,Studente
+3244,F,26,47030,Data Analyst
+3245,M,44,22076,Operaio
+3246,F,59,26100,Dirigente
+3247,M,57,72022,Autista
+3248,F,59,65017,Data Engineer
+3249,F,21,33030,Data Analyst
+3250,M,42,80038,Data Analyst
+3251,M,12,36012,Studente
+3252,M,56,87060,Disoccupato
+3253,F,12,00061,Studente
+3254,F,32,33048,Ricercatore
+3255,F,17,45030,Studente
+3256,M,13,56022,Studente
+3257,M,64,40138,Ingegnere
+3258,M,46,22076,Ricercatore
+3259,F,14,87060,Studente
+3260,M,15,21030,Studente
+3261,M,52,33048,Impiegato
+3262,M,62,40138,Ingegnere
+3263,M,59,40061,Infermiere
+3264,F,24,33050,Dirigente
+3265,M,47,83030,Autista
+3266,F,26,10086,Data Analyst
+3267,M,34,84070,Data Analyst
+3268,M,18,35031,Avvocato
+3269,F,21,22076,Impiegato
+3270,M,19,83030,Infermiere
+3271,F,46,22076,Disoccupato
+3272,M,45,65017,Disoccupato
+3273,M,17,03100,Studente
+3274,M,10,20023,Studente
+3275,M,35,00061,Data Engineer
+3276,M,51,56022,Impiegato
+3277,M,33,70026,Programmatore
+3278,M,33,70026,Data Engineer
+3279,M,33,65017,Autista
+3280,M,54,35010,Data Engineer
+3281,M,28,35124,Programmatore
+3282,M,63,86020,Direttore
+3283,M,22,73020,Attore
+3284,M,23,50055,Ricercatore
+3285,M,9,40138,Studente
+3286,F,64,33030,Data Engineer
+3287,M,29,84066,Architetto
+3288,M,63,20020,Ingegnere
+3289,M,62,40138,Ricercatore
+3290,M,33,83030,Ingegnere
+3291,F,61,70026,Data Engineer
+3292,F,56,56022,Ricercatore
+3293,M,38,65027,Ingegnere
+3294,M,28,84070,Data Analyst
+3295,M,28,33050,Atleta
+3296,M,42,40061,Ingegnere
+3297,M,38,15063,Data Analyst
+3298,M,28,35124,Studente
+3299,F,28,67069,Data Analyst
+3300,M,29,45100,Insegnante
+3301,F,55,22072,Operaio
+3302,M,48,95127,Programmatore
+3303,M,46,45100,Programmatore
+3304,F,28,24020,Insegnante
+3305,M,32,40138,Impiegato
+3306,M,19,36012,Ingegnere
+3307,M,13,15063,Studente
+3308,F,44,22076,Impiegato
+3309,M,20,70037,Programmatore
+3310,M,19,33048,Ingegnere
+3311,M,45,20023,Data Analyst
+3312,F,18,80038,Data Analyst
+3313,M,35,14100,Impiegato
+3314,M,43,61029,Data Engineer
+3315,M,62,84066,Avvocato
+3316,M,60,33030,Musicista
+3317,M,44,03100,Data Analyst
+3318,M,42,86020,Architetto
+3319,F,15,73020,Studente
+3320,M,26,12032,Dirigente
+3321,M,31,33050,Dirigente
+3322,F,30,90143,Data Analyst
+3323,M,65,35010,Ingegnere
+3324,M,45,40061,Programmatore
+3325,F,49,63100,Ingegnere
+3326,M,52,41058,Data Engineer
+3327,M,64,35031,Avvocato
+3328,M,41,32030,Musicista
+3329,M,38,65017,Atleta
+3330,F,36,95127,Dirigente
+3331,F,11,76012,Studente
+3332,M,55,26010,Data Engineer
+3333,M,11,72022,Studente
+3334,M,45,15063,Disoccupato
+3335,M,48,20139,Disoccupato
+3336,M,32,83030,Programmatore
+3337,M,38,44020,Data Analyst
+3338,M,52,56022,Attore
+3339,M,57,85024,Programmatore
+3340,M,64,19020,Attore
+3341,M,59,61029,Impiegato
+3342,F,29,64023,Insegnante
+3343,F,34,56022,Data Analyst
+3344,M,61,64023,Disoccupato
+3345,M,61,17021,Data Engineer
+3346,M,59,25043,Data Engineer
+3347,F,51,47924,Data Engineer
+3348,M,46,72022,Attore
+3349,F,62,00018,Data Analyst
+3350,F,52,41058,Disoccupato
+3351,F,22,26100,Insegnante
+3352,M,62,25043,Disoccupato
+3353,M,24,90143,Programmatore
+3354,M,49,20131,Data Engineer
+3355,M,27,15063,Dirigente
+3356,M,28,25123,Data Engineer
+3357,M,61,33050,Atleta
+3358,F,10,67069,Studente
+3359,M,11,41058,Studente
+3360,F,21,41058,Disoccupato
+3361,M,22,03100,Data Analyst
+3362,F,10,41058,Studente
+3363,F,28,40061,Data Scientis
+3364,M,59,45030,Architetto
+3365,M,17,45100,Studente
+3366,M,34,35031,Ingegnere
+3367,M,20,03100,Attore
+3368,M,61,25123,Ingegnere
+3369,M,39,73020,Atleta
+3370,M,46,44121,Data Analyst
+3371,M,44,35010,Operaio
+3372,M,48,73020,Architetto
+3373,M,12,44121,Studente
+3374,M,38,65017,Insegnante
+3375,M,11,83030,Studente
+3376,M,25,33050,Attore
+3377,M,34,44121,Programmatore
+3378,M,58,20139,Data Analyst
+3379,M,46,40061,Dirigente
+3380,M,29,25123,Disoccupato
+3381,M,49,40061,Disoccupato
+3382,F,41,90143,Studente
+3383,M,39,28887,Attore
+3384,M,17,33048,Studente
+3385,F,48,00125,Data Scientis
+3386,M,57,32030,Data Analyst
+3387,M,21,84066,Dirigente
+3388,F,41,30020,Dirigente
+3389,M,52,25123,Disoccupato
+3390,F,12,61029,Studente
+3391,M,25,20023,Data Analyst
+3392,M,11,00018,Studente
+3393,M,18,24020,Avvocato
+3394,M,58,61029,Data Engineer
+3395,M,25,76012,Data Engineer
+3396,M,14,10086,Studente
+3397,M,59,41058,Insegnante
+3398,M,56,64023,Impiegato
+3399,M,41,70037,Data Analyst
+3400,M,22,17021,Ingegnere
+3401,M,58,72022,Data Engineer
+3402,M,57,80038,Impiegato
+3403,M,48,84070,Insegnante
+3404,M,36,20023,Dottore
+3405,M,9,35010,Studente
+3406,F,45,25123,Data Engineer
+3407,F,44,47924,Insegnante
+3408,M,20,65027,Programmatore
+3409,M,32,33050,Data Analyst
+3410,M,30,27024,Dirigente
+3411,M,37,87060,Data Analyst
+3412,M,61,41058,Atleta
+3413,F,11,00061,Studente
+3414,M,40,09099,Programmatore
+3415,M,38,24020,Data Engineer
+3416,M,19,73020,Avvocato
+3417,F,64,12032,Operaio
+3418,F,35,09010,Direttore
+3419,M,53,61029,Dirigente
+3420,F,43,87060,Data Engineer
+3421,M,45,36012,Data Engineer
+3422,M,32,25123,Insegnante
+3423,M,40,19020,Data Engineer
+3424,M,62,33048,Ricercatore
+3425,M,35,10086,Impiegato
+3426,M,39,35124,Impiegato
+3427,M,56,36012,Ingegnere
+3428,M,52,71032,Dirigente
+3429,F,16,70026,Studente
+3430,F,16,24020,Studente
+3431,F,17,45100,Studente
+3432,M,41,35010,Avvocato
+3433,M,30,34149,Avvocato
+3434,M,20,15063,Data Analyst
+3435,M,60,20023,Dirigente
+3436,M,44,45100,Disoccupato
+3437,F,36,14025,Disoccupato
+3438,F,24,44020,Disoccupato
+3439,M,12,00061,Studente
+3440,M,34,80038,Programmatore
+3441,F,14,10126,Studente
+3442,M,13,83030,Studente
+3443,F,64,33030,Programmatore
+3444,M,27,50055,Ingegnere
+3445,F,62,33048,Impiegato
+3446,M,14,45030,Studente
+3447,M,41,24020,Avvocato
+3448,F,41,65027,Direttore
+3449,M,46,09099,Ingegnere
+3450,M,16,20131,Studente
+3451,F,28,33048,Infermiere
+3452,M,55,03100,Ingegnere
+3453,M,31,12032,Data Engineer
+3454,M,59,00018,Disoccupato
+3455,F,35,72022,Disoccupato
+3456,M,19,15067,Programmatore
+3457,M,14,72022,Studente
+3458,M,33,44121,Disoccupato
+3459,M,48,35010,Data Analyst
+3460,M,54,65017,Data Analyst
+3461,M,31,00018,Disoccupato
+3462,F,52,44121,Data Analyst
+3463,M,48,45030,Autista
+3464,F,51,19020,Ingegnere
+3465,M,41,61029,Ingegnere
+3466,M,9,15063,Studente
+3467,M,26,10126,Ingegnere
+3468,M,10,70026,Studente
+3469,M,57,10126,Programmatore
+3470,M,24,45100,Programmatore
+3471,M,13,84066,Studente
+3472,M,48,28887,Ricercatore
+3473,F,39,63100,Attore
+3474,M,51,70026,Infermiere
+3475,M,32,14100,Ingegnere
+3476,M,55,03100,Disoccupato
+3477,F,22,86020,Dirigente
+3478,M,58,40061,Data Engineer
+3479,M,43,01010,Data Analyst
+3480,M,16,19020,Studente
+3481,M,23,45030,Data Analyst
+3482,M,42,33050,Programmatore
+3483,F,27,47030,Data Engineer
+3484,M,63,09099,Data Analyst
+3485,M,49,00153,Disoccupato
+3486,F,53,09078,Disoccupato
+3487,M,11,35031,Studente
+3488,M,32,14025,Programmatore
+3489,M,34,20139,Data Analyst
+3490,M,45,70037,Disoccupato
+3491,M,38,45100,Attore
+3492,M,58,65017,Data Engineer
+3493,M,38,33030,Programmatore
+3494,M,32,73020,Dirigente
+3495,M,45,90143,Data Analyst
+3496,M,17,83030,Studente
+3497,F,44,44121,Operaio
+3498,M,25,20023,Programmatore
+3499,M,10,20139,Studente
+3500,M,62,26100,Data Engineer
+3501,F,10,61029,Studente
+3502,F,61,71032,Data Engineer
+3503,M,39,00018,Data Analyst
+3504,M,52,65017,Data Engineer
+3505,F,60,12032,Autista
+3506,M,11,10126,Studente
+3507,M,43,21030,Disoccupato
+3508,M,43,41058,Data Analyst
+3509,M,52,10086,Data Analyst
+3510,F,24,26010,Data Analyst
+3511,M,31,26010,Disoccupato
+3512,M,56,64023,Programmatore
+3513,M,32,35124,Attore
+3514,M,27,10086,Avvocato
+3515,M,12,85024,Studente
+3516,M,56,25123,Data Analyst
+3517,M,59,09078,Avvocato
+3518,F,13,67069,Studente
+3519,F,44,09078,Ingegnere
+3520,M,45,26100,Disoccupato
+3521,M,36,20131,Disoccupato
+3522,M,31,40061,Disoccupato
+3523,M,33,34149,Data Engineer
+3524,F,27,20139,Disoccupato
+3525,F,30,10086,Data Analyst
+3526,M,52,72022,Operaio
+3527,M,46,26010,Disoccupato
+3528,M,41,12032,Insegnante
+3529,F,61,28887,Dirigente
+3530,M,30,35010,Disoccupato
+3531,F,42,44020,Infermiere
+3532,F,42,86020,Ingegnere
+3533,M,40,12032,Operaio
+3534,M,53,35031,Programmatore
+3535,M,17,35124,Studente
+3536,M,25,56022,Data Analyst
+3537,M,31,86020,Studente
+3538,M,46,35124,Disoccupato
+3539,F,11,26010,Studente
+3540,M,44,76012,Programmatore
+3541,M,47,12032,Direttore
+3542,M,57,63100,Autista
+3543,M,26,00018,Programmatore
+3544,F,16,65017,Studente
+3545,M,58,26100,Avvocato
+3546,M,17,25123,Studente
+3547,M,65,36012,Attore
+3548,M,38,80038,Data Engineer
+3549,F,47,25043,Data Engineer
+3550,M,21,27024,Insegnante
+3551,F,29,45030,Disoccupato
+3552,F,50,17021,Operaio
+3553,M,38,41058,Attore
+3554,M,21,27024,Autista
+3555,M,59,27024,Data Engineer
+3556,M,58,73020,Programmatore
+3557,M,23,65027,Insegnante
+3558,M,65,47924,Programmatore
+3559,M,29,09010,Data Analyst
+3560,F,34,12032,Ricercatore
+3561,M,56,35124,Ingegnere
+3562,F,50,56022,Ricercatore
+3563,M,44,15067,Operaio
+3564,M,65,15077,Infermiere
+3565,M,58,35031,Atleta
+3566,M,56,22076,Disoccupato
+3567,M,37,22072,Ingegnere
+3568,M,27,03100,Disoccupato
+3569,F,23,50055,Operaio
+3570,M,46,01010,Avvocato
+3571,M,34,44121,Data Analyst
+3572,M,61,35031,Infermiere
+3573,M,19,47030,Studente
+3574,F,33,63100,Ricercatore
+3575,M,52,95127,Atleta
+3576,M,65,25123,Data Engineer
+3577,F,49,85024,Disoccupato
+3578,M,63,15077,Direttore
+3579,M,37,00153,Disoccupato
+3580,F,12,50055,Studente
+3581,M,11,22072,Studente
+3582,F,51,24020,Disoccupato
+3583,F,54,45100,Data Scientis
+3584,M,60,21014,Disoccupato
+3585,M,61,24020,Impiegato
+3586,M,12,56022,Studente
+3587,M,17,28887,Studente
+3588,M,59,84070,Operaio
+3589,F,44,35010,Disoccupato
+3590,F,19,44121,Autista
+3591,M,58,83030,Ricercatore
+3592,F,14,09099,Studente
+3593,F,39,56022,Data Scientis
+3594,M,52,40061,Disoccupato
+3595,M,41,35010,Disoccupato
+3596,F,53,14025,Data Analyst
+3597,M,22,65017,Programmatore
+3598,M,23,00125,Dirigente
+3599,M,20,09099,Attore
+3600,M,19,36100,Impiegato
+3601,F,10,40138,Studente
+3602,M,9,36100,Studente
+3603,F,43,50055,Data Engineer
+3604,F,33,47030,Studente
+3605,M,39,00125,Avvocato
+3606,F,50,47924,Autista
+3607,M,43,10126,Programmatore
+3608,F,45,70026,Data Scientis
+3609,F,37,14025,Programmatore
+3610,M,46,22072,Ricercatore
+3611,M,36,65017,Operaio
+3612,M,14,56022,Studente
+3613,M,20,70037,Disoccupato
+3614,M,25,72022,Disoccupato
+3615,M,32,47030,Programmatore
+3616,M,30,47924,Disoccupato
+3617,M,24,21030,Data Engineer
+3618,M,59,50055,Programmatore
+3619,M,31,40138,Attore
+3620,M,53,40138,Data Engineer
+3621,M,27,03100,Data Analyst
+3622,M,33,47924,Dirigente
+3623,M,55,84066,Infermiere
+3624,M,12,33050,Studente
+3625,M,52,73020,Studente
+3626,M,33,01010,Programmatore
+3627,F,35,10126,Dirigente
+3628,M,64,25123,Data Engineer
+3629,F,46,83030,Data Engineer
+3630,M,56,47030,Data Analyst
+3631,M,9,00018,Studente
+3632,M,61,26010,Infermiere
+3633,M,60,71032,Atleta
+3634,M,32,20020,Dirigente
+3635,M,44,71032,Dirigente
+3636,M,39,35031,Disoccupato
+3637,M,43,09010,Ricercatore
+3638,M,45,56022,Operaio
+3639,M,17,44020,Studente
+3640,M,20,71032,Data Engineer
+3641,M,32,41058,Disoccupato
+3642,F,13,32030,Studente
+3643,M,62,19020,Programmatore
+3644,F,48,45100,Infermiere
+3645,M,59,36100,Programmatore
+3646,M,47,84066,Impiegato
+3647,M,39,00061,Data Engineer
+3648,M,63,15067,Data Analyst
+3649,F,48,00018,Disoccupato
+3650,M,61,10126,Disoccupato
+3651,M,50,00125,Ingegnere
+3652,M,54,84066,Avvocato
+3653,M,15,33050,Studente
+3654,M,50,10126,Programmatore
+3655,F,56,33030,Data Engineer
+3656,F,51,30020,Insegnante
+3657,M,15,09010,Studente
+3658,F,34,14100,Data Engineer
+3659,M,39,20023,Data Analyst
+3660,M,50,33013,Data Engineer
+3661,M,36,35031,Avvocato
+3662,M,28,36012,Attore
+3663,F,36,22076,Data Scientis
+3664,F,20,35031,Dirigente
+3665,M,24,28887,Disoccupato
+3666,M,55,95127,Disoccupato
+3667,F,33,47030,Studente
+3668,F,32,40061,Data Engineer
+3669,M,39,21014,Ingegnere
+3670,M,28,35031,Ingegnere
+3671,M,45,25043,Data Analyst
+3672,M,34,86020,Insegnante
+3673,M,25,61029,Operaio
+3674,M,14,21030,Studente
+3675,M,64,67069,Data Engineer
+3676,F,33,61029,Avvocato
+3677,F,30,26010,Avvocato
+3678,M,17,00125,Studente
+3679,M,34,24020,Data Analyst
+3680,F,23,33013,Dirigente
+3681,M,36,27024,Data Engineer
+3682,F,55,65027,Dirigente
+3683,M,19,20131,Operaio
+3684,M,42,61029,Programmatore
+3685,M,46,17021,Insegnante
+3686,M,14,15063,Studente
+3687,F,33,63100,Dirigente
+3688,M,22,36012,Ricercatore
+3689,M,31,40138,Disoccupato
+3690,M,54,45100,Disoccupato
+3691,M,62,63100,Data Engineer
+3692,M,31,86020,Programmatore
+3693,M,20,47030,Autista
+3694,M,65,71032,Avvocato
+3695,M,63,70026,Operaio
+3696,M,24,47030,Data Engineer
+3697,M,29,71032,Autista
+3698,M,26,14025,Data Engineer
+3699,F,49,34149,Direttore
+3700,M,31,32030,Ingegnere
+3701,M,55,73020,Dirigente
+3702,M,37,14025,Autista
+3703,M,48,40061,Avvocato
+3704,F,63,20023,Disoccupato
+3705,M,49,61029,Data Engineer
+3706,M,32,26100,Avvocato
+3707,F,28,00018,Disoccupato
+3708,M,47,90143,Data Engineer
+3709,M,64,67069,Avvocato
+3710,M,19,32030,Studente
+3711,M,39,56022,Disoccupato
+3712,M,57,61029,Programmatore
+3713,F,32,67069,Data Engineer
+3714,M,56,73020,Programmatore
+3715,M,31,26010,Insegnante
+3716,M,35,33050,Avvocato
+3717,M,39,10126,Programmatore
+3718,M,10,64023,Studente
+3719,M,16,25123,Studente
+3720,M,63,20139,Data Engineer
+3721,M,40,61029,Autista
+3722,M,11,12032,Studente
+3723,M,27,33050,Ingegnere
+3724,M,14,45100,Studente
+3725,M,29,21014,Data Analyst
+3726,M,23,47030,Programmatore
+3727,M,43,71032,Data Engineer
+3728,M,55,83030,Data Analyst
+3729,M,17,36100,Studente
+3730,M,10,70026,Studente
+3731,M,24,00018,Programmatore
+3732,M,24,21014,Programmatore
+3733,M,39,14025,Data Analyst
+3734,M,16,20139,Studente
+3735,M,61,22072,Disoccupato
+3736,M,55,36012,Dirigente
+3737,M,58,90143,Ingegnere
+3738,M,54,30020,Data Engineer
+3739,M,31,45030,Infermiere
+3740,M,22,00018,Insegnante
+3741,M,28,86020,Disoccupato
+3742,M,27,45100,Disoccupato
+3743,F,55,28887,Data Engineer
+3744,M,30,80038,Disoccupato
+3745,F,33,47924,Data Scientis
+3746,M,16,40138,Studente
+3747,M,11,27024,Studente
+3748,M,62,20131,Data Analyst
+3749,F,14,45100,Studente
+3750,F,22,00061,Data Analyst
+3751,F,48,45030,Avvocato
+3752,F,49,65027,Dirigente
+3753,M,51,44020,Data Engineer
+3754,M,53,09078,Data Engineer
+3755,F,28,44020,Ingegnere
+3756,M,39,15063,Avvocato
+3757,M,31,76012,Data Engineer
+3758,F,57,10126,Insegnante
+3759,M,14,84066,Studente
+3760,M,41,35010,Disoccupato
+3761,M,23,70037,Programmatore
+3762,M,13,14100,Studente
+3763,M,26,33030,Operaio
+3764,M,36,35010,Dirigente
+3765,F,23,33050,Direttore
+3766,F,32,36100,Dirigente
+3767,M,61,28887,Disoccupato
+3768,M,23,35124,Data Analyst
+3769,M,64,70037,Autista
+3770,F,50,33048,Direttore
+3771,M,10,00125,Studente
+3772,M,16,30020,Studente
+3773,M,30,09010,Ricercatore
+3774,M,22,33050,Disoccupato
+3775,M,27,36100,Avvocato
+3776,F,25,21030,Data Analyst
+3777,M,60,41058,Data Analyst
+3778,M,50,10126,Disoccupato
+3779,F,10,22076,Studente
+3780,M,33,50055,Disoccupato
+3781,F,62,73020,Infermiere
+3782,F,57,15077,Disoccupato
+3783,M,27,20020,Data Engineer
+3784,F,65,67069,Dirigente
+3785,F,31,35031,Impiegato
+3786,F,50,61029,Disoccupato
+3787,F,50,86020,Disoccupato
+3788,F,32,87060,Disoccupato
+3789,F,23,50055,Disoccupato
+3790,F,37,00018,Programmatore
+3791,M,51,40061,Atleta
+3792,M,38,21030,Ricercatore
+3793,M,16,84070,Studente
+3794,F,16,33048,Studente
+3795,F,23,21014,Data Analyst
+3796,M,49,15067,Ingegnere
+3797,M,41,00061,Data Engineer
+3798,M,36,14100,Data Engineer
+3799,M,48,26010,Disoccupato
+3800,M,21,27024,Dirigente
+3801,M,58,20023,Avvocato
+3802,M,41,45030,Disoccupato
+3803,F,26,70037,Data Scientis
+3804,M,41,15077,Ricercatore
+3805,F,60,01010,Dirigente
+3806,M,17,67069,Studente
+3807,F,60,80038,Musicista
+3808,M,52,44121,Data Engineer
+3809,M,29,47924,Ricercatore
+3810,M,47,20131,Data Engineer
+3811,M,12,00061,Studente
+3812,M,15,64023,Studente
+3813,M,14,44020,Studente
+3814,M,56,45100,Autista
+3815,M,58,14100,Programmatore
+3816,F,52,95127,Direttore
+3817,M,43,33030,Direttore
+3818,M,38,30020,Programmatore
+3819,M,44,70037,Avvocato
+3820,M,20,33030,Programmatore
+3821,M,26,27024,Impiegato
+3822,M,18,35010,Impiegato
+3823,M,32,21030,Data Engineer
+3824,M,37,45100,Programmatore
+3825,M,43,35031,Dirigente
+3826,M,62,40138,Dirigente
+3827,M,52,87060,Operaio
+3828,M,44,14100,Impiegato
+3829,F,17,36012,Studente
+3830,M,19,65027,Data Analyst
+3831,F,56,34149,Ricercatore
+3832,F,45,40061,Data Engineer
+3833,M,54,56022,Dirigente
+3834,M,19,56022,Operaio
+3835,M,23,40061,Data Engineer
+3836,F,63,50055,Dottore
+3837,M,30,40061,Programmatore
+3838,F,60,83030,Ingegnere
+3839,M,20,01010,Ingegnere
+3840,F,10,33048,Studente
+3841,M,27,15077,Atleta
+3842,F,20,87060,Attore
+3843,F,9,83030,Studente
+3844,M,57,24020,Data Analyst
+3845,M,10,35031,Studente
+3846,M,24,45030,Disoccupato
+3847,M,26,14025,Data Engineer
+3848,M,41,65017,Autista
+3849,M,16,80038,Studente
+3850,M,35,95127,Direttore
+3851,M,30,09099,Avvocato
+3852,M,9,20131,Studente
+3853,M,64,83030,Ingegnere
+3854,M,65,00018,Ingegnere
+3855,M,22,00061,Programmatore
+3856,F,59,01010,Impiegato
+3857,M,45,00153,Ingegnere
+3858,F,62,35124,Data Scientis
+3859,M,55,01010,Disoccupato
+3860,M,48,10126,Programmatore
+3861,M,33,90143,Data Analyst
+3862,M,60,34149,Programmatore
+3863,M,63,27024,Disoccupato
+3864,M,18,00153,Impiegato
+3865,F,43,27024,Studente
+3866,M,61,40138,Ingegnere
+3867,M,49,10086,Direttore
+3868,M,35,10086,Avvocato
+3869,M,11,25043,Studente
+3870,M,25,33048,Programmatore
+3871,M,16,95127,Studente
+3872,M,11,24020,Studente
+3873,F,26,45030,Operaio
+3874,M,50,12032,Data Engineer
+3875,M,65,40138,Disoccupato
+3876,M,55,50055,Disoccupato
+3877,M,58,44020,Dirigente
+3878,M,13,45030,Studente
+3879,M,29,12032,Direttore
+3880,M,31,44020,Data Engineer
+3881,M,63,10126,Operaio
+3882,M,59,12032,Ingegnere
+3883,M,14,17021,Studente
+3884,M,9,25123,Studente
+3885,M,9,45030,Studente
+3886,M,53,70026,Data Engineer
+3887,M,50,14025,Data Analyst
+3888,M,11,63100,Studente
+3889,M,27,03100,Ricercatore
+3890,M,31,33050,Data Analyst
+3891,F,57,87060,Attore
+3892,M,37,35010,Impiegato
+3893,M,32,70037,Ricercatore
+3894,M,45,27024,Attore
+3895,F,59,26100,Disoccupato
+3896,M,65,90143,Disoccupato
+3897,M,37,83030,Programmatore
+3898,M,56,40138,Infermiere
+3899,M,54,73020,Programmatore
+3900,F,40,84070,Ingegnere
+3901,M,57,84066,Ingegnere
+3902,M,13,26010,Studente
+3903,M,39,85024,Disoccupato
+3904,M,54,90143,Studente
+3905,M,51,63100,Programmatore
+3906,M,39,36012,Programmatore
+3907,F,13,83030,Studente
+3908,M,31,45030,Disoccupato
+3909,M,65,33048,Programmatore
+3910,M,64,03100,Impiegato
+3911,M,59,00018,Disoccupato
+3912,M,21,70037,Data Analyst
+3913,M,36,47030,Programmatore
+3914,M,56,83030,Data Analyst
+3915,F,31,47924,Direttore
+3916,M,32,15063,Data Analyst
+3917,F,37,14025,Data Scientis
+3918,M,23,61029,Atleta
+3919,M,37,35031,Disoccupato
+3920,M,57,65017,Programmatore
+3921,M,22,64023,Ingegnere
+3922,M,60,28887,Data Analyst
+3923,M,56,50055,Operaio
+3924,M,29,15077,Avvocato
+3925,M,31,00018,Avvocato
+3926,M,55,14100,Operaio
+3927,F,40,27024,Attore
+3928,M,14,20023,Studente
+3929,M,14,27024,Studente
+3930,M,56,83030,Direttore
+3931,M,62,71032,Insegnante
+3932,M,16,64023,Studente
+3933,F,51,65027,Ricercatore
+3934,M,34,22076,Disoccupato
+3935,M,10,44020,Studente
+3936,F,19,72022,Avvocato
+3937,M,23,36100,Operaio
+3938,M,46,40061,Operaio
+3939,M,39,01010,Data Engineer
+3940,M,11,90143,Studente
+3941,M,10,25043,Studente
+3942,M,64,65017,Data Analyst
+3943,F,32,61029,Data Engineer
+3944,F,15,25043,Studente
+3945,F,13,32030,Studente
+3946,F,13,36100,Studente
+3947,M,15,30020,Studente
+3948,F,17,00018,Studente
+3949,M,20,65017,Disoccupato
+3950,M,31,09078,Data Analyst
+3951,F,34,20131,Data Analyst
+3952,F,61,36100,Dirigente
+3953,M,26,90143,Avvocato
+3954,M,23,65017,Data Analyst
+3955,M,24,25043,Disoccupato
+3956,M,17,22076,Studente
+3957,M,22,22076,Infermiere
+3958,M,45,84070,Data Engineer
+3959,F,49,33050,Dirigente
+3960,F,50,84066,Ingegnere
+3961,M,65,40138,Dirigente
+3962,F,26,72022,Disoccupato
+3963,M,48,83030,Impiegato
+3964,M,46,14100,Attore
+3965,M,61,10086,Infermiere
+3966,M,58,24020,Disoccupato
+3967,F,37,36100,Operaio
+3968,M,29,36012,Operaio
+3969,M,17,72022,Studente
+3970,F,63,15063,Operaio
+3971,F,39,80038,Data Analyst
+3972,F,59,00153,Ricercatore
+3973,M,38,00018,Data Engineer
+3974,M,18,33013,Disoccupato
+3975,F,16,90143,Studente
+3976,F,43,20020,Disoccupato
+3977,M,14,14025,Studente
+3978,M,40,32030,Architetto
+3979,F,39,15077,Data Scientis
+3980,M,62,76012,Data Analyst
+3981,F,34,33013,Disoccupato
+3982,M,53,22076,Architetto
+3983,M,26,83030,Disoccupato
+3984,M,50,09099,Data Engineer
+3985,M,64,44121,Attore
+3986,M,56,33050,Data Engineer
+3987,F,54,56022,Data Analyst
+3988,F,32,35010,Ingegnere
+3989,M,64,34149,Avvocato
+3990,M,19,64023,Attore
+3991,M,38,45030,Data Engineer
+3992,M,65,64023,Data Analyst
+3993,M,12,83030,Studente
+3994,M,18,84066,Data Engineer
+3995,M,10,70026,Studente
+3996,M,47,45100,Ingegnere
+3997,M,42,65027,Programmatore
+3998,M,50,20020,Disoccupato
+3999,M,48,35010,Programmatore
+4000,M,58,35124,Data Engineer
+4001,F,27,33030,Dirigente
+4002,M,26,41058,Attore
+4003,M,25,25123,Architetto
+4004,M,32,21030,Disoccupato
+4005,M,15,15077,Studente
+4006,M,25,76012,Data Engineer
+4007,M,36,10126,Avvocato
+4008,M,49,35124,Dirigente
+4009,M,59,95127,Data Engineer
+4010,M,29,33013,Ingegnere
+4011,M,50,33050,Programmatore
+4012,M,28,32030,Data Analyst
+4013,M,43,73020,Dirigente
+4014,M,36,72022,Disoccupato
+4015,F,19,28887,Direttore
+4016,M,30,86020,Disoccupato
+4017,M,9,26100,Studente
+4018,F,21,14100,Impiegato
+4019,M,25,84066,Programmatore
+4020,M,27,72022,Ricercatore
+4021,M,14,83030,Studente
+4022,M,33,83030,Ingegnere
+4023,F,53,32030,Data Scientis
+4024,M,44,09010,Insegnante
+4025,F,28,24020,Ricercatore
+4026,M,29,35010,Data Engineer
+4027,F,40,40061,Data Engineer
+4028,M,14,44020,Studente
+4029,F,52,45030,Direttore
+4030,M,64,09099,Data Engineer
+4031,M,36,26100,Disoccupato
+4032,M,22,84066,Avvocato
+4033,M,39,15067,Ricercatore
+4034,M,60,45030,Disoccupato
+4035,M,27,20139,Data Analyst
+4036,M,48,64023,Dirigente
+4037,M,62,76012,Attore
+4038,M,10,20023,Studente
+4039,M,60,15067,Attore
+4040,M,54,63100,Impiegato
+4041,M,19,33048,Direttore
+4042,M,37,15063,Autista
+4043,F,51,90143,Autista
+4044,F,56,47924,Direttore
+4045,M,35,72022,Architetto
+4046,M,23,33013,Programmatore
+4047,M,54,95127,Data Analyst
+4048,F,32,36012,Dirigente
+4049,M,18,15063,Infermiere
+4050,M,49,86020,Ricercatore
+4051,M,22,95127,Ingegnere
+4052,M,20,00018,Operaio
+4053,M,29,03100,Atleta
+4054,M,61,83030,Direttore
+4055,M,24,25123,Disoccupato
+4056,M,44,14100,Studente
+4057,M,44,20131,Ricercatore
+4058,M,55,25043,Ricercatore
+4059,M,40,85024,Ingegnere
+4060,M,51,87060,Atleta
+4061,M,10,15077,Studente
+4062,M,59,56022,Data Engineer
+4063,F,41,84066,Dirigente
+4064,M,49,35124,Disoccupato
+4065,F,53,22076,Insegnante
+4066,M,9,83030,Studente
+4067,M,33,14100,Impiegato
+4068,M,13,12032,Studente
+4069,M,17,10086,Studente
+4070,M,34,01010,Autista
+4071,M,51,50055,Programmatore
+4072,M,27,76012,Ricercatore
+4073,M,37,22076,Ricercatore
+4074,M,38,36100,Ricercatore
+4075,M,58,72022,Attore
+4076,M,60,00153,Programmatore
+4077,F,41,12032,Operaio
+4078,M,27,00153,Autista
+4079,M,23,70037,Programmatore
+4080,M,35,35031,Dirigente
+4081,M,26,00018,Avvocato
+4082,M,52,20139,Impiegato
+4083,M,59,45030,Ingegnere
+4084,M,62,00125,Architetto
+4085,F,50,14100,Ricercatore
+4086,F,52,87060,Studente
+4087,M,14,00125,Studente
+4088,M,29,00125,Direttore
+4089,M,51,26010,Data Engineer
+4090,M,43,86020,Ricercatore
+4091,M,28,25043,Programmatore
+4092,F,25,36012,Disoccupato
+4093,M,59,76012,Data Analyst
+4094,M,54,17021,Programmatore
+4095,M,37,25123,Disoccupato
+4096,M,63,17021,Autista
+4097,M,37,90143,Data Engineer
+4098,M,41,63100,Data Engineer
+4099,M,18,40138,Programmatore
+4100,M,26,45030,Ricercatore
+4101,M,54,36012,Data Analyst
+4102,M,58,83030,Studente
+4103,M,21,25043,Attore
+4104,M,39,26010,Attore
+4105,M,28,26100,Data Engineer
+4106,M,52,14025,Attore
+4107,F,17,20020,Studente
+4108,M,40,14100,Programmatore
+4109,M,59,64023,Direttore
+4110,F,9,35010,Studente
+4111,M,49,40138,Autista
+4112,M,58,70037,Atleta
+4113,M,15,33048,Studente
+4114,M,42,19020,Ingegnere
+4115,M,62,41058,Autista
+4116,M,22,71032,Data Engineer
+4117,M,47,33048,Data Analyst
+4118,M,53,65017,Direttore
+4119,M,17,83030,Studente
+4120,M,28,25043,Attore
+4121,M,42,65017,Data Engineer
+4122,M,14,71032,Studente
+4123,F,58,09078,Data Analyst
+4124,M,58,87060,Atleta
+4125,M,39,47030,Operaio
+4126,M,19,09099,Programmatore
+4127,M,62,87060,Programmatore
+4128,M,52,67069,Ricercatore
+4129,M,16,28887,Studente
+4130,M,51,20139,Ricercatore
+4131,M,17,87060,Studente
+4132,M,60,30020,Programmatore
+4133,M,19,87060,Data Analyst
+4134,F,27,41058,Avvocato
+4135,M,36,00061,Studente
+4136,M,19,15067,Attore
+4137,M,13,21014,Studente
+4138,M,17,76012,Studente
+4139,M,57,20023,Ingegnere
+4140,M,12,28887,Studente
+4141,M,14,44020,Studente
+4142,M,65,26010,Data Engineer
+4143,F,25,21014,Insegnante
+4144,M,65,35031,Data Analyst
+4145,F,58,73020,Dirigente
+4146,M,50,40138,Programmatore
+4147,F,57,14025,Data Engineer
+4148,F,55,21014,Data Engineer
+4149,M,13,61029,Studente
+4150,M,17,44020,Studente
+4151,M,62,15067,Impiegato
+4152,M,61,15077,Ingegnere
+4153,M,21,47030,Programmatore
+4154,M,50,21030,Dirigente
+4155,M,40,22076,Programmatore
+4156,M,61,40138,Impiegato
+4157,M,30,40138,Atleta
+4158,F,33,00061,Studente
+4159,F,39,33030,Data Scientis
+4160,M,51,33048,Impiegato
+4161,M,41,00125,Disoccupato
+4162,F,42,19020,Ingegnere
+4163,M,23,34149,Data Engineer
+4164,M,63,14025,Dirigente
+4165,F,37,22072,Ingegnere
+4166,F,24,72022,Data Engineer
+4167,M,48,72022,Impiegato
+4168,F,49,24020,Ricercatore
+4169,M,50,32030,Disoccupato
+4170,M,41,71032,Data Engineer
+4171,M,28,83030,Attore
+4172,M,61,27024,Data Engineer
+4173,F,64,26010,Infermiere
+4174,F,54,44020,Direttore
+4175,M,15,65027,Studente
+4176,M,18,20023,Data Engineer
+4177,M,10,64023,Studente
+4178,F,65,34149,Attore
+4179,F,49,20023,Impiegato
+4180,M,21,26100,Architetto
+4181,F,62,76012,Data Engineer
+4182,M,26,35031,Atleta
+4183,M,50,87060,Dirigente
+4184,M,30,87060,Data Engineer
+4185,M,35,20131,Ingegnere
+4186,M,28,20020,Data Engineer
+4187,F,65,09099,Impiegato
+4188,M,34,25123,Data Engineer
+4189,M,14,83030,Studente
+4190,M,29,33050,Programmatore
+4191,F,14,76012,Studente
+4192,M,41,56022,Programmatore
+4193,M,32,30020,Architetto
+4194,M,20,33050,Data Analyst
+4195,F,12,21014,Studente
+4196,M,16,84070,Studente
+4197,F,62,26100,Dirigente
+4198,M,55,10086,Data Analyst
+4199,F,29,33050,Data Scientis
+4200,M,60,50055,Data Engineer
+4201,F,64,26100,Disoccupato
+4202,M,11,47924,Studente
+4203,M,49,41058,Atleta
+4204,M,63,25043,Data Engineer
+4205,F,24,21014,Autista
+4206,F,15,84070,Studente
+4207,M,61,83030,Dirigente
+4208,F,49,28887,Disoccupato
+4209,M,19,26010,Disoccupato
+4210,M,25,20020,Programmatore
+4211,M,40,95127,Insegnante
+4212,M,35,09078,Atleta
+4213,M,59,21030,Data Engineer
+4214,F,48,28887,Disoccupato
+4215,M,50,15067,Data Engineer
+4216,M,38,84066,Programmatore
+4217,M,45,30020,Data Analyst
+4218,M,9,09078,Studente
+4219,M,52,30020,Programmatore
+4220,M,59,25123,Disoccupato
+4221,M,28,90143,Data Analyst
+4222,F,16,73020,Studente
+4223,F,34,70037,Programmatore
+4224,F,51,09078,Dirigente
+4225,F,52,36012,Direttore
+4226,F,28,70037,Ricercatore
+4227,M,33,40138,Musicista
+4228,M,58,50055,Atleta
+4229,M,29,47924,Programmatore
+4230,M,61,33030,Architetto
+4231,F,37,00125,Atleta
+4232,F,53,36012,Impiegato
+4233,M,47,19020,Data Analyst
+4234,F,9,47924,Studente
+4235,M,62,09010,Operaio
+4236,F,52,65027,Direttore
+4237,M,45,26010,Ingegnere
+4238,M,65,84070,Attore
+4239,M,26,34149,Data Engineer
+4240,M,31,90143,Programmatore
+4241,M,50,70037,Data Engineer
+4242,M,36,90143,Data Engineer
+4243,M,34,76012,Data Engineer
+4244,M,35,35010,Programmatore
+4245,M,61,15063,Avvocato
+4246,F,26,33050,Data Engineer
+4247,M,57,84066,Data Analyst
+4248,M,22,24020,Data Analyst
+4249,F,46,56022,Programmatore
+4250,F,47,45030,Disoccupato
+4251,M,9,83030,Studente
+4252,F,28,20131,Direttore
+4253,M,22,35010,Infermiere
+4254,M,59,33048,Programmatore
+4255,M,45,40061,Avvocato
+4256,F,63,35124,Operaio
+4257,M,51,22076,Attore
+4258,M,36,22072,Programmatore
+4259,M,58,35124,Programmatore
+4260,M,28,26010,Attore
+4261,F,27,00153,Ricercatore
+4262,F,35,01010,Ricercatore
+4263,M,38,35010,Data Engineer
+4264,M,54,30020,Dirigente
+4265,M,47,70026,Avvocato
+4266,M,51,09099,Architetto
+4267,M,23,83030,Data Engineer
+4268,F,62,09078,Impiegato
+4269,M,30,30020,Atleta
+4270,M,57,28887,Data Engineer
+4271,M,12,24020,Studente
+4272,M,50,25043,Programmatore
+4273,M,29,33050,Architetto
+4274,F,58,35010,Dirigente
+4275,F,14,36100,Studente
+4276,F,56,22072,Disoccupato
+4277,M,48,21014,Attore
+4278,F,10,83030,Studente
+4279,M,9,09010,Studente
+4280,M,46,87060,Programmatore
+4281,M,36,36100,Architetto
+4282,M,25,63100,Disoccupato
+4283,F,54,86020,Data Scientis
+4284,M,21,00018,Data Engineer
+4285,M,56,03100,Disoccupato
+4286,M,18,84070,Programmatore
+4287,M,13,26010,Studente
+4288,F,36,70026,Data Scientis
+4289,M,29,36012,Ingegnere
+4290,M,11,09099,Studente
+4291,M,43,36100,Ingegnere
+4292,M,44,44020,Disoccupato
+4293,F,38,01010,Data Scientis
+4294,M,31,84070,Studente
+4295,M,21,47030,Atleta
+4296,M,12,09078,Studente
+4297,M,54,21014,Autista
+4298,F,26,10126,Ingegnere
+4299,F,23,09010,Operaio
+4300,F,35,15067,Data Analyst
+4301,M,14,36100,Studente
+4302,M,17,40138,Studente
+4303,M,61,36012,Operaio
+4304,M,35,44121,Disoccupato
+4305,F,17,47924,Studente
+4306,M,57,20131,Data Engineer
+4307,M,58,32030,Disoccupato
+4308,M,59,45030,Disoccupato
+4309,M,37,84070,Disoccupato
+4310,M,35,20139,Data Analyst
+4311,M,40,45030,Architetto
+4312,M,11,35010,Studente
+4313,F,55,86020,Data Engineer
+4314,M,28,61029,Programmatore
+4315,M,62,90143,Data Analyst
+4316,M,16,86020,Studente
+4317,F,30,40061,Ingegnere
+4318,M,55,09078,Insegnante
+4319,M,61,84070,Data Engineer
+4320,M,23,65017,Insegnante
+4321,M,50,56022,Data Engineer
+4322,F,15,87060,Studente
+4323,M,12,15067,Studente
+4324,M,54,09078,Insegnante
+4325,M,47,03100,Disoccupato
+4326,F,43,21030,Architetto
+4327,M,13,45030,Studente
+4328,M,47,65027,Direttore
+4329,F,64,09099,Ingegnere
+4330,F,44,35124,Ricercatore
+4331,M,40,72022,Ricercatore
+4332,F,55,32030,Direttore
+4333,M,16,86020,Studente
+4334,M,25,84070,Dirigente
+4335,M,43,22072,Disoccupato
+4336,F,46,24020,Disoccupato
+4337,M,65,09010,Impiegato
+4338,F,29,84070,Insegnante
+4339,M,50,03100,Operaio
+4340,F,39,26010,Programmatore
+4341,M,46,22076,Programmatore
+4342,M,37,35010,Disoccupato
+4343,M,61,70037,Avvocato
+4344,M,28,84070,Dirigente
+4345,F,51,33048,Ingegnere
+4346,M,26,09099,Programmatore
+4347,F,42,35010,Impiegato
+4348,M,49,84070,Disoccupato
+4349,M,9,85024,Studente
+4350,M,42,00061,Operaio
+4351,M,37,56022,Avvocato
+4352,M,49,70026,Data Analyst
+4353,M,34,30020,Data Engineer
+4354,M,52,33050,Ingegnere
+4355,M,31,10086,Ingegnere
+4356,M,61,17021,Attore
+4357,F,9,40061,Studente
+4358,M,22,25123,Programmatore
+4359,M,64,63100,Data Analyst
+4360,F,49,17021,Data Scientis
+4361,M,48,72022,Autista
+4362,M,39,84066,Programmatore
+4363,M,37,35031,Ingegnere
+4364,M,47,80038,Atleta
+4365,F,22,14100,Attore
+4366,M,27,33050,Autista
+4367,M,59,34149,Disoccupato
+4368,M,23,26010,Programmatore
+4369,M,35,21014,Data Engineer
+4370,M,27,44121,Attore
+4371,F,34,32030,Data Analyst
+4372,M,19,27024,Programmatore
+4373,M,60,20131,Avvocato
+4374,M,29,80038,Data Analyst
+4375,F,35,73020,Insegnante
+4376,F,53,84066,Insegnante
+4377,M,33,70026,Disoccupato
+4378,M,14,14100,Studente
+4379,M,47,30020,Data Analyst
+4380,F,39,36012,Dirigente
+4381,M,56,33050,Data Analyst
+4382,M,45,21014,Atleta
+4383,F,26,34149,Data Analyst
+4384,M,49,00018,Disoccupato
+4385,M,57,25043,Data Analyst
+4386,M,28,45030,Insegnante
+4387,F,58,09078,Data Analyst
+4388,M,41,72022,Direttore
+4389,M,47,67069,Data Analyst
+4390,M,14,35031,Studente
+4391,F,51,22076,Data Analyst
+4392,M,9,35010,Studente
+4393,M,43,83030,Data Analyst
+4394,M,16,45030,Studente
+4395,M,56,20020,Ricercatore
+4396,M,55,20139,Dirigente
+4397,M,64,61029,Data Analyst
+4398,F,48,84070,Data Analyst
+4399,F,61,35010,Data Analyst
+4400,F,42,26100,Data Analyst
+4401,M,46,44020,Data Analyst
+4402,F,10,20139,Studente
+4403,M,23,50055,Autista
+4404,M,63,15067,Dirigente
+4405,M,40,17021,Ingegnere
+4406,M,14,71032,Studente
+4407,M,48,22072,Data Analyst
+4408,F,20,84070,Operaio
+4409,M,47,21014,Ingegnere
+4410,M,51,45100,Musicista
+4411,M,51,15067,Data Analyst
+4412,M,19,67069,Data Analyst
+4413,M,55,45100,Architetto
+4414,M,12,36012,Studente
+4415,M,51,25123,Disoccupato
+4416,M,28,28887,Data Analyst
+4417,M,56,47030,Autista
+4418,F,40,35031,Disoccupato
+4419,F,56,00061,Avvocato
+4420,M,50,24020,Autista
+4421,M,25,41058,Disoccupato
+4422,M,39,85024,Insegnante
+4423,M,58,84066,Data Analyst
+4424,M,49,72022,Data Engineer
+4425,M,52,83030,Data Engineer
+4426,M,22,09078,Programmatore
+4427,M,25,21014,Disoccupato
+4428,M,23,65027,Ingegnere
+4429,M,9,32030,Studente
+4430,F,42,85024,Disoccupato
+4431,M,48,84070,Ingegnere
+4432,M,46,84066,Avvocato
+4433,M,63,47924,Disoccupato
+4434,F,12,84066,Studente
+4435,M,27,25043,Data Engineer
+4436,M,23,28887,Avvocato
+4437,F,27,33048,Insegnante
+4438,M,25,00061,Disoccupato
+4439,M,9,85024,Studente
+4440,M,37,20139,Dirigente
+4441,M,38,84070,Data Analyst
+4442,M,56,32030,Autista
+4443,M,31,10086,Operaio
+4444,F,33,20131,Avvocato
+4445,M,32,00125,Direttore
+4446,M,44,36100,Atleta
+4447,M,10,15077,Studente
+4448,M,34,83030,Ingegnere
+4449,M,60,01010,Avvocato
+4450,M,54,00061,Autista
+4451,M,13,26100,Studente
+4452,F,50,34149,Data Engineer
+4453,M,41,32030,Disoccupato
+4454,M,39,33050,Impiegato
+4455,M,21,87060,Data Engineer
+4456,F,22,36100,Operaio
+4457,M,43,63100,Ingegnere
+4458,F,41,36012,Data Analyst
+4459,M,9,44020,Studente
+4460,M,63,33030,Ingegnere
+4461,M,33,26100,Impiegato
+4462,F,30,83030,Disoccupato
+4463,M,62,27024,Data Engineer
+4464,F,43,40061,Dirigente
+4465,M,61,27024,Data Analyst
+4466,M,25,76012,Infermiere
+4467,F,20,45100,Ricercatore
+4468,F,53,63100,Data Engineer
+4469,F,47,35010,Avvocato
+4470,M,20,14025,Avvocato
+4471,M,32,03100,Ricercatore
+4472,F,41,50055,Attore
+4473,M,32,10126,Dirigente
+4474,M,44,00153,Data Engineer
+4475,M,52,44121,Data Analyst
+4476,M,18,86020,Dirigente
+4477,M,55,80038,Data Engineer
+4478,M,16,35010,Studente
+4479,M,12,73020,Studente
+4480,M,32,17021,Disoccupato
+4481,M,40,73020,Atleta
+4482,F,51,14100,Dirigente
+4483,F,11,03100,Studente
+4484,F,15,65027,Studente
+4485,M,16,90143,Studente
+4486,M,26,70026,Dottore
+4487,M,64,63100,Data Engineer
+4488,M,65,27024,Data Engineer
+4489,M,18,35031,Data Analyst
+4490,M,64,44121,Insegnante
+4491,M,61,17021,Data Analyst
+4492,M,53,86020,Architetto
+4493,F,54,36012,Studente
+4494,M,38,41058,Disoccupato
+4495,M,35,15077,Data Analyst
+4496,M,44,20139,Operaio
+4497,M,65,86020,Disoccupato
+4498,M,26,44020,Data Engineer
+4499,M,54,86020,Ricercatore
+4500,M,59,65017,Data Engineer
+4501,M,52,00018,Programmatore
+4502,M,39,35031,Disoccupato
+4503,M,44,00125,Dirigente
+4504,F,61,45100,Disoccupato
+4505,M,44,15077,Data Engineer
+4506,M,37,86020,Attore
+4507,M,35,85024,Data Analyst
+4508,M,23,28887,Impiegato
+4509,M,18,21030,Data Engineer
+4510,M,42,45030,Data Engineer
+4511,M,29,22076,Data Engineer
+4512,M,52,33048,Dirigente
+4513,M,17,47030,Studente
+4514,M,45,33048,Direttore
+4515,M,63,44020,Architetto
+4516,M,53,25123,Data Analyst
+4517,F,45,26100,Dirigente
+4518,M,30,50055,Disoccupato
+4519,M,23,10086,Data Engineer
+4520,M,27,72022,Data Analyst
+4521,M,58,14025,Avvocato
+4522,M,26,90143,Dirigente
+4523,M,51,09078,Operaio
+4524,M,36,76012,Operaio
+4525,M,65,33013,Ingegnere
+4526,M,44,22076,Impiegato
+4527,M,50,00018,Disoccupato
+4528,M,60,10086,Ingegnere
+4529,M,23,24020,Ricercatore
+4530,F,63,36012,Dirigente
+4531,M,57,26100,Data Analyst
+4532,M,28,15067,Data Engineer
+4533,M,34,33050,Avvocato
+4534,M,34,24020,Data Analyst
+4535,M,53,83030,Musicista
+4536,M,10,70037,Studente
+4537,F,62,73020,Dirigente
+4538,M,63,25043,Avvocato
+4539,M,28,76012,Musicista
+4540,F,36,30020,Ingegnere
+4541,M,47,28887,Studente
+4542,M,57,09078,Disoccupato
+4543,M,40,26100,Operaio
+4544,M,55,76012,Dirigente
+4545,M,10,15067,Studente
+4546,M,34,65017,Data Engineer
+4547,M,45,83030,Avvocato
+4548,M,45,33013,Operaio
+4549,F,14,20020,Studente
+4550,M,35,10126,Attore
+4551,M,23,00061,Avvocato
+4552,M,14,09010,Studente
+4553,F,53,22076,Attore
+4554,F,26,00153,Data Scientis
+4555,F,15,47924,Studente
+4556,M,28,15067,Attore
+4557,M,60,14100,Ingegnere
+4558,M,33,14100,Ingegnere
+4559,M,41,36100,Data Engineer
+4560,M,35,47030,Disoccupato
+4561,F,41,76012,Data Scientis
+4562,M,60,00125,Studente
+4563,F,28,40061,Ricercatore
+4564,M,40,10126,Avvocato
+4565,M,51,56022,Ingegnere
+4566,M,57,10086,Programmatore
+4567,M,20,00061,Data Analyst
+4568,F,52,10126,Data Analyst
+4569,M,16,64023,Studente
+4570,M,41,26010,Programmatore
+4571,M,17,22076,Studente
+4572,F,41,09099,Studente
+4573,M,16,50055,Studente
+4574,M,26,40061,Data Analyst
+4575,F,25,45100,Studente
+4576,F,35,45100,Data Engineer
+4577,M,31,63100,Data Engineer
+4578,M,15,15067,Studente
+4579,F,13,35010,Studente
+4580,F,15,65027,Studente
+4581,M,14,35031,Studente
+4582,F,29,20023,Disoccupato
+4583,M,20,50055,Dirigente
+4584,F,34,45030,Disoccupato
+4585,M,61,44121,Data Engineer
+4586,M,19,10086,Data Analyst
+4587,M,65,28887,Ingegnere
+4588,F,10,45100,Studente
+4589,M,25,50055,Programmatore
+4590,F,32,20131,Impiegato
+4591,M,56,95127,Autista
+4592,M,28,15067,Data Analyst
+4593,F,17,44121,Studente
+4594,M,44,32030,Attore
+4595,M,51,73020,Atleta
+4596,F,30,61029,Data Analyst
+4597,F,11,44020,Studente
+4598,F,23,65027,Direttore
+4599,F,40,85024,Disoccupato
+4600,M,15,19020,Studente
+4601,M,49,36012,Ingegnere
+4602,M,54,47924,Data Engineer
+4603,F,46,32030,Operaio
+4604,M,59,70026,Autista
+4605,M,47,14100,Autista
+4606,F,45,65017,Studente
+4607,M,12,10126,Studente
+4608,F,38,50055,Disoccupato
+4609,F,41,21014,Data Analyst
+4610,F,54,33048,Data Analyst
+4611,F,61,10086,Data Analyst
+4612,F,61,33013,Data Analyst
+4613,M,28,65027,Avvocato
+4614,F,32,15063,Dirigente
+4615,M,19,45030,Programmatore
+4616,M,57,85024,Impiegato
+4617,F,46,03100,Ricercatore
+4618,M,10,21014,Studente
+4619,F,34,35010,Dirigente
+4620,F,30,41058,Programmatore
+4621,M,35,14025,Data Analyst
+4622,M,11,14100,Studente
+4623,M,38,21030,Attore
+4624,M,40,28887,Avvocato
+4625,M,30,32030,Data Engineer
+4626,M,29,47030,Ingegnere
+4627,M,44,00018,Dirigente
+4628,F,65,33050,Ricercatore
+4629,F,9,21030,Studente
+4630,F,31,35010,Data Analyst
+4631,M,47,84070,Data Analyst
+4632,M,58,26100,Disoccupato
+4633,M,32,30020,Disoccupato
+4634,M,52,03100,Impiegato
+4635,M,55,20020,Data Analyst
+4636,M,12,50055,Studente
+4637,F,10,20020,Studente
+4638,M,41,35010,Data Analyst
+4639,M,16,87060,Studente
+4640,M,64,80038,Data Analyst
+4641,M,56,40061,Data Engineer
+4642,M,55,41058,Disoccupato
+4643,M,15,72022,Studente
+4644,M,27,50055,Dirigente
+4645,F,62,33030,Ricercatore
+4646,F,13,14025,Studente
+4647,M,49,00018,Impiegato
+4648,M,27,35031,Data Analyst
+4649,M,21,14100,Architetto
+4650,M,51,15063,Data Engineer
+4651,F,40,00061,Disoccupato
+4652,F,60,33050,Data Engineer
+4653,M,21,10126,Avvocato
+4654,M,57,67069,Impiegato
+4655,F,55,09099,Dirigente
+4656,M,23,33050,Programmatore
+4657,M,57,35010,Ingegnere
+4658,M,36,45100,Data Analyst
+4659,F,60,50055,Ingegnere
+4660,F,12,84066,Studente
+4661,M,37,15077,Autista
+4662,F,44,70026,Data Analyst
+4663,M,48,12032,Data Analyst
+4664,F,46,03100,Data Engineer
+4665,M,46,73020,Operaio
+4666,M,24,63100,Dirigente
+4667,M,33,67069,Ingegnere
+4668,M,60,25043,Ingegnere
+4669,M,41,10086,Data Engineer
+4670,M,45,03100,Insegnante
+4671,M,29,90143,Avvocato
+4672,M,60,63100,Architetto
+4673,M,30,20139,Attore
+4674,F,10,22076,Studente
+4675,F,23,28887,Data Analyst
+4676,M,58,19020,Ingegnere
+4677,M,49,47924,Ricercatore
+4678,M,48,25043,Operaio
+4679,M,57,00125,Architetto
+4680,M,35,20139,Disoccupato
+4681,F,58,09099,Autista
+4682,M,37,85024,Data Engineer
+4683,M,31,65027,Disoccupato
+4684,F,46,72022,Disoccupato
+4685,M,44,63100,Dirigente
+4686,M,9,15063,Studente
+4687,M,60,64023,Ingegnere
+4688,M,38,00061,Data Scientis
+4689,M,51,35124,Avvocato
+4690,F,55,35124,Studente
+4691,F,46,21030,Programmatore
+4692,F,55,70026,Data Engineer
+4693,M,52,20023,Dirigente
+4694,M,19,44020,Data Engineer
+4695,M,52,84066,Atleta
+4696,M,13,21014,Studente
+4697,M,62,63100,Studente
+4698,F,57,76012,Ricercatore
+4699,F,20,09099,Disoccupato
+4700,F,35,12032,Data Analyst
+4701,M,27,15063,Programmatore
+4702,M,32,24020,Infermiere
+4703,M,36,10126,Data Engineer
+4704,M,23,10086,Impiegato
+4705,F,34,22076,Disoccupato
+4706,M,19,95127,Ingegnere
+4707,M,20,26100,Disoccupato
+4708,M,17,15067,Studente
+4709,M,52,20020,Disoccupato
+4710,F,50,22076,Attore
+4711,M,56,20131,Programmatore
+4712,M,15,14025,Studente
+4713,M,26,50055,Programmatore
+4714,M,33,65017,Dirigente
+4715,M,62,25043,Operaio
+4716,F,58,95127,Attore
+4717,M,52,12032,Programmatore
+4718,M,36,14025,Data Engineer
+4719,F,38,63100,Data Scientis
+4720,M,18,09010,Operaio
+4721,M,32,15077,Infermiere
+4722,M,42,35010,Avvocato
+4723,M,42,25043,Data Engineer
+4724,F,56,00018,Ricercatore
+4725,M,40,83030,Insegnante
+4726,F,22,70026,Attore
+4727,F,59,47030,Disoccupato
+4728,M,63,70037,Musicista
+4729,M,10,41058,Studente
+4730,M,31,35124,Infermiere
+4731,M,12,28887,Studente
+4732,M,11,19020,Studente
+4733,M,39,33013,Atleta
+4734,M,56,86020,Dirigente
+4735,M,57,76012,Direttore
+4736,M,53,24020,Impiegato
+4737,M,30,20020,Attore
+4738,M,23,27024,Dirigente
+4739,M,45,44121,Direttore
+4740,F,16,35010,Studente
+4741,M,40,83030,Data Engineer
+4742,M,28,15077,Direttore
+4743,M,22,72022,Architetto
+4744,M,43,21014,Autista
+4745,F,53,32030,Data Analyst
+4746,M,64,25043,Dirigente
+4747,M,31,09099,Data Analyst
+4748,M,33,22072,Attore
+4749,M,14,90143,Studente
+4750,F,55,10086,Disoccupato
+4751,M,22,00125,Autista
+4752,F,60,22076,Data Analyst
+4753,M,63,44020,Dirigente
+4754,F,41,40061,Disoccupato
+4755,F,63,72022,Data Engineer
+4756,M,64,72022,Attore
+4757,M,40,14025,Programmatore
+4758,F,60,10126,Architetto
+4759,F,36,80038,Disoccupato
+4760,M,26,50055,Programmatore
+4761,M,22,35010,Autista
+4762,F,46,28887,Ingegnere
+4763,M,49,35010,Infermiere
+4764,M,42,15067,Studente
+4765,F,58,40061,Attore
+4766,M,44,15067,Attore
+4767,F,43,45100,Data Scientis
+4768,M,18,44020,Data Analyst
+4769,M,63,09078,Dirigente
+4770,F,59,47030,Data Engineer
+4771,F,27,33048,Data Analyst
+4772,M,38,20139,Programmatore
+4773,M,53,84066,Dirigente
+4774,M,53,65027,Ingegnere
+4775,M,20,44020,Programmatore
+4776,F,11,45100,Studente
+4777,M,9,30020,Studente
+4778,M,46,32030,Disoccupato
+4779,M,65,87060,Direttore
+4780,M,25,56022,Avvocato
+4781,F,19,33050,Ricercatore
+4782,M,28,76012,Dirigente
+4783,M,20,50055,Disoccupato
+4784,F,15,95127,Studente
+4785,F,22,33013,Ingegnere
+4786,M,18,70037,Ricercatore
+4787,M,23,84066,Infermiere
+4788,M,60,01010,Data Engineer
+4789,M,47,63100,Operaio
+4790,F,51,33050,Operaio
+4791,M,25,87060,Data Analyst
+4792,F,57,95127,Data Engineer
+4793,F,53,01010,Ricercatore
+4794,F,44,20023,Disoccupato
+4795,M,42,35124,Attore
+4796,M,54,86020,Data Engineer
+4797,F,20,90143,Programmatore
+4798,M,36,35010,Dirigente
+4799,F,11,32030,Studente
+4800,M,52,17021,Data Analyst
+4801,M,17,95127,Studente
+4802,M,43,00018,Dirigente
+4803,F,53,35124,Attore
+4804,F,45,36100,Dirigente
+4805,M,56,87060,Dirigente
+4806,M,63,22072,Programmatore
+4807,M,9,35124,Studente
+4808,M,49,35010,Disoccupato
+4809,F,23,36100,Data Analyst
+4810,M,13,35031,Studente
+4811,M,16,56022,Studente
+4812,M,12,28887,Studente
+4813,F,40,70037,Data Scientis
+4814,M,59,44020,Ingegnere
+4815,F,35,30020,Atleta
+4816,F,56,56022,Ricercatore
+4817,M,60,20020,Dirigente
+4818,F,35,28887,Programmatore
+4819,M,18,72022,Atleta
+4820,M,47,84070,Infermiere
+4821,M,44,25043,Musicista
+4822,F,35,80038,Disoccupato
+4823,M,41,35010,Data Analyst
+4824,M,11,09099,Studente
+4825,M,19,63100,Programmatore
+4826,M,27,85024,Avvocato
+4827,M,60,33030,Disoccupato
+4828,F,53,15067,Impiegato
+4829,M,9,35031,Studente
+4830,M,16,20139,Studente
+4831,F,40,90143,Dirigente
+4832,M,12,25123,Studente
+4833,M,52,73020,Attore
+4834,F,50,56022,Data Scientis
+4835,M,41,70026,Impiegato
+4836,F,12,33030,Studente
+4837,M,21,25043,Insegnante
+4838,M,32,00061,Dirigente
+4839,F,55,26010,Ricercatore
+4840,F,35,56022,Ricercatore
+4841,M,23,17021,Avvocato
+4842,F,45,33050,Dirigente
+4843,M,47,33048,Dirigente
+4844,M,9,70026,Studente
+4845,F,29,72022,Dirigente
+4846,F,35,22072,Operaio
+4847,M,24,00153,Avvocato
+4848,F,23,33013,Ricercatore
+4849,F,9,14025,Studente
+4850,F,36,86020,Direttore
+4851,M,43,03100,Programmatore
+4852,M,44,28887,Disoccupato
+4853,M,19,32030,Data Engineer
+4854,F,21,84070,Architetto
+4855,M,43,65017,Avvocato
+4856,M,23,17021,Data Engineer
+4857,M,61,20023,Ingegnere
+4858,M,63,44020,Dirigente
+4859,F,62,28887,Ingegnere
+4860,M,20,84066,Operaio
+4861,M,34,44121,Data Analyst
+4862,M,9,17021,Studente
+4863,F,16,84066,Studente
+4864,M,43,01010,Impiegato
+4865,F,50,01010,Ingegnere
+4866,M,49,84070,Avvocato
+4867,M,37,76012,Attore
+4868,M,20,14025,Programmatore
+4869,F,33,63100,Ricercatore
+4870,F,55,76012,Direttore
+4871,M,16,00061,Studente
+4872,M,42,40061,Dirigente
+4873,M,30,87060,Infermiere
+4874,F,65,21014,Data Analyst
+4875,M,20,40061,Disoccupato
+4876,F,25,00018,Programmatore
+4877,M,34,21014,Data Analyst
+4878,M,18,41058,Data Analyst
+4879,M,34,70037,Direttore
+4880,F,30,33050,Data Scientis
+4881,M,65,45100,Attore
+4882,M,24,40061,Infermiere
+4883,F,13,35124,Studente
+4884,M,37,67069,Ingegnere
+4885,M,33,47924,Dirigente
+4886,F,65,33050,Programmatore
+4887,M,49,73020,Operaio
+4888,F,10,15067,Studente
+4889,M,36,17021,Data Analyst
+4890,F,55,00061,Dirigente
+4891,M,24,14100,Programmatore
+4892,M,46,24020,Avvocato
+4893,M,19,22076,Programmatore
+4894,M,55,33050,Data Engineer
+4895,F,43,90143,Direttore
+4896,M,42,35124,Ricercatore
+4897,M,21,41058,Attore
+4898,M,40,47030,Dirigente
+4899,M,26,65017,Avvocato
+4900,M,51,64023,Impiegato
+4901,M,33,25123,Data Engineer
+4902,M,54,10086,Ingegnere
+4903,M,60,36100,Avvocato
+4904,M,22,84070,Autista
+4905,F,40,14025,Dirigente
+4906,M,24,95127,Programmatore
+4907,F,17,76012,Studente
+4908,M,45,20131,Autista
+4909,F,36,21014,Avvocato
+4910,M,11,71032,Studente
+4911,F,59,36012,Disoccupato
+4912,F,33,27024,Impiegato
+4913,F,36,25043,Dirigente
+4914,F,42,03100,Dirigente
+4915,M,60,15067,Avvocato
+4916,M,47,33050,Impiegato
+4917,M,41,10086,Disoccupato
+4918,F,29,83030,Avvocato
+4919,M,20,22072,Disoccupato
+4920,M,18,21030,Dirigente
+4921,F,21,35124,Autista
+4922,M,61,20020,Programmatore
+4923,M,44,67069,Atleta
+4924,F,65,33050,Disoccupato
+4925,F,64,21014,Ricercatore
+4926,M,40,67069,Studente
+4927,M,59,14025,Disoccupato
+4928,F,40,80038,Direttore
+4929,M,37,63100,Dirigente
+4930,M,37,36100,Programmatore
+4931,M,62,00153,Programmatore
+4932,M,57,35031,Data Engineer
+4933,M,58,33013,Autista
+4934,F,65,50055,Disoccupato
+4935,M,49,20139,Programmatore
+4936,F,15,65017,Studente
+4937,M,47,47924,Disoccupato
+4938,F,63,61029,Data Analyst
+4939,M,51,00018,Data Engineer
+4940,F,62,19020,Infermiere
+4941,M,16,09099,Studente
+4942,M,65,83030,Avvocato
+4943,F,9,87060,Studente
+4944,M,11,64023,Studente
+4945,M,13,00018,Studente
+4946,F,26,44020,Dirigente
+4947,M,41,12032,Programmatore
+4948,M,27,00018,Operaio
+4949,M,23,70026,Data Analyst
+4950,M,24,47030,Attore
+4951,F,61,21014,Programmatore
+4952,F,29,10086,Ingegnere
+4953,M,38,32030,Avvocato
+4954,M,30,26010,Disoccupato
+4955,M,22,90143,Architetto
+4956,M,14,35031,Studente
+4957,M,56,84066,Operaio
+4958,M,30,09099,Data Engineer
+4959,M,30,01010,Programmatore
+4960,M,60,20131,Dirigente
+4961,M,25,33050,Data Engineer
+4962,M,33,64023,Ricercatore
+4963,M,32,50055,Programmatore
+4964,M,26,45030,Disoccupato
+4965,M,20,09099,Studente
+4966,M,51,20139,Ingegnere
+4967,M,43,00125,Data Analyst
+4968,F,19,95127,Impiegato
+4969,M,54,09010,Musicista
+4970,F,24,35031,Avvocato
+4971,M,42,00018,Data Engineer
+4972,M,23,26010,Disoccupato
+4973,F,48,76012,Operaio
+4974,M,27,70026,Impiegato
+4975,M,37,26100,Disoccupato
+4976,M,45,83030,Infermiere
+4977,M,17,00061,Studente
+4978,M,50,14100,Ingegnere
+4979,M,34,21030,Operaio
+4980,M,45,36012,Dirigente
+4981,M,53,26010,Dirigente
+4982,M,42,33050,Avvocato
+4983,F,16,25123,Studente
+4984,M,47,00125,Disoccupato
+4985,M,20,26010,Disoccupato
+4986,M,24,25043,Avvocato
+4987,F,40,35010,Dottore
+4988,M,61,20131,Programmatore
+4989,M,54,63100,Disoccupato
+4990,F,44,65027,Data Analyst
+4991,F,48,00153,Ingegnere
+4992,F,32,00018,Operaio
+4993,M,17,33050,Studente
+4994,M,58,24020,Programmatore
+4995,M,50,21030,Impiegato
+4996,M,24,76012,Data Engineer
+4997,M,48,33013,Studente
+4998,F,60,33050,Data Analyst
+4999,F,27,01010,Architetto
+5000,M,18,20020,Data Analyst
+5001,F,11,01010,Studente
+5002,M,52,10126,Programmatore
+5003,M,18,40061,Avvocato
+5004,F,9,95127,Studente
+5005,M,54,35031,Attore
+5006,M,34,25043,Direttore
+5007,F,40,36100,Data Analyst
+5008,M,15,10086,Studente
+5009,F,59,86020,Attore
+5010,M,62,33050,Autista
+5011,M,56,86020,Data Analyst
+5012,M,65,73020,Autista
+5013,M,54,32030,Data Analyst
+5014,M,14,84066,Studente
+5015,M,28,00061,Ricercatore
+5016,F,43,22076,Dirigente
+5017,M,28,33048,Avvocato
+5018,F,16,35010,Studente
+5019,M,17,56022,Studente
+5020,F,33,35124,Architetto
+5021,M,48,45100,Ricercatore
+5022,M,9,00125,Studente
+5023,M,42,71032,Impiegato
+5024,F,34,70037,Dirigente
+5025,M,15,84066,Studente
+5026,M,12,21030,Studente
+5027,F,56,25043,Ingegnere
+5028,M,55,33048,Avvocato
+5029,M,63,30020,Data Analyst
+5030,M,15,72022,Studente
+5031,F,26,85024,Data Analyst
+5032,M,53,26010,Programmatore
+5033,F,64,01010,Architetto
+5034,F,61,22076,Autista
+5035,F,43,19020,Programmatore
+5036,M,56,40061,Data Engineer
+5037,M,23,35124,Avvocato
+5038,M,65,84066,Impiegato
+5039,F,27,21014,Data Analyst
+5040,M,16,63100,Studente
+5041,F,39,86020,Ricercatore
+5042,F,21,30020,Operaio
+5043,F,17,67069,Studente
+5044,F,46,71032,Ricercatore
+5045,M,32,12032,Disoccupato
+5046,M,52,80038,Attore
+5047,M,29,33050,Ricercatore
+5048,F,10,09099,Studente
+5049,M,53,33048,Avvocato
+5050,F,61,47924,Data Analyst
+5051,F,50,47924,Data Engineer
+5052,M,40,72022,Attore
+5053,M,25,35010,Data Analyst
+5054,M,20,47924,Operaio
+5055,F,16,10086,Studente
+5056,M,44,20131,Dirigente
+5057,M,27,17021,Data Engineer
+5058,M,20,36100,Programmatore
+5059,M,21,41058,Attore
+5060,M,27,26100,Programmatore
+5061,F,17,30020,Studente
+5062,M,20,44020,Attore
+5063,F,24,44020,Studente
+5064,M,63,83030,Data Analyst
+5065,M,64,10126,Ingegnere
+5066,F,25,09099,Dirigente
+5067,M,40,09010,Architetto
+5068,M,37,87060,Data Engineer
+5069,F,44,44121,Disoccupato
+5070,M,48,90143,Operaio
+5071,F,20,21014,Data Engineer
+5072,M,47,45100,Programmatore
+5073,M,40,45100,Operaio
+5074,M,38,12032,Disoccupato
+5075,M,50,01010,Ricercatore
+5076,M,52,12032,Direttore
+5077,M,47,70026,Operaio
+5078,M,20,65017,Data Engineer
+5079,M,33,76012,Data Analyst
+5080,F,24,21014,Avvocato
+5081,F,20,95127,Data Analyst
+5082,M,23,20020,Dirigente
+5083,M,34,33050,Data Analyst
+5084,M,42,45100,Data Analyst
+5085,M,19,70037,Programmatore
+5086,M,39,09010,Dirigente
+5087,F,39,45100,Ricercatore
+5088,M,30,63100,Programmatore
+5089,F,47,10086,Attore
+5090,F,25,76012,Musicista
+5091,M,47,10126,Programmatore
+5092,M,18,33048,Ingegnere
+5093,M,49,09099,Data Engineer
+5094,M,31,27024,Studente
+5095,F,54,64023,Dirigente
+5096,M,19,76012,Infermiere
+5097,M,45,70037,Attore
+5098,M,21,09099,Data Engineer
+5099,M,61,63100,Disoccupato
+5100,M,9,33030,Studente
+5101,M,48,40061,Disoccupato
+5102,M,21,84070,Avvocato
+5103,F,48,14025,Attore
+5104,M,54,47030,Impiegato
+5105,M,48,63100,Data Engineer
+5106,F,31,01010,Dirigente
+5107,F,59,22072,Disoccupato
+5108,F,42,65017,Data Scientis
+5109,F,26,14025,Ricercatore
+5110,M,31,00153,Autista
+5111,M,15,35124,Studente
+5112,M,31,20131,Architetto
+5113,M,24,47924,Disoccupato
+5114,F,62,10126,Studente
+5115,M,33,76012,Avvocato
+5116,M,64,09078,Ricercatore
+5117,F,9,20020,Studente
+5118,M,47,80038,Studente
+5119,F,18,40061,Disoccupato
+5120,M,59,14025,Data Engineer
+5121,M,48,63100,Data Engineer
+5122,M,40,85024,Disoccupato
+5123,M,13,65027,Studente
+5124,M,46,27024,Operaio
+5125,M,41,00125,Disoccupato
+5126,M,9,25123,Studente
+5127,M,34,21030,Insegnante
+5128,M,52,45030,Data Engineer
+5129,M,48,85024,Programmatore
+5130,F,22,12032,Dirigente
+5131,F,57,45030,Dirigente
+5132,M,52,61029,Data Engineer
+5133,M,15,41058,Studente
+5134,M,33,41058,Programmatore
+5135,M,26,03100,Data Engineer
+5136,M,15,12032,Studente
+5137,M,43,12032,Atleta
+5138,M,22,20131,Programmatore
+5139,M,38,35010,Attore
+5140,M,33,09099,Ricercatore
+5141,M,28,22072,Programmatore
+5142,M,58,71032,Dirigente
+5143,M,19,36100,Data Analyst
+5144,F,49,35010,Disoccupato
+5145,M,18,41058,Data Engineer
+5146,M,54,00061,Dirigente
+5147,M,51,17021,Disoccupato
+5148,M,9,71032,Studente
+5149,M,50,33050,Dirigente
+5150,M,58,32030,Direttore
+5151,M,50,21030,Musicista
+5152,F,9,00125,Studente
+5153,M,42,21030,Data Engineer
+5154,M,38,33030,Attore
+5155,M,62,95127,Attore
+5156,M,43,00061,Ingegnere
+5157,M,44,76012,Dirigente
+5158,F,51,21030,Data Analyst
+5159,M,31,33048,Data Engineer
+5160,F,48,15077,Data Analyst
+5161,M,35,45030,Data Analyst
+5162,M,62,21030,Programmatore
+5163,M,41,35010,Ricercatore
+5164,F,28,80038,Programmatore
+5165,M,47,01010,Ricercatore
+5166,M,45,09078,Ricercatore
+5167,M,40,25123,Autista
+5168,M,26,21014,Data Engineer
+5169,F,47,22076,Data Analyst
+5170,M,59,30020,Data Analyst
+5171,M,51,72022,Programmatore
+5172,F,45,14025,Infermiere
+5173,M,43,56022,Studente
+5174,M,53,40138,Dirigente
+5175,F,47,30020,Data Scientis
+5176,M,46,22076,Studente
+5177,M,25,21030,Ingegnere
+5178,M,45,15063,Disoccupato
+5179,M,38,10086,Avvocato
+5180,M,32,61029,Infermiere
+5181,M,43,21014,Data Engineer
+5182,F,50,41058,Data Engineer
+5183,F,45,00153,Impiegato
+5184,M,24,30020,Impiegato
+5185,F,31,72022,Data Analyst
+5186,M,41,35031,Avvocato
+5187,M,9,20023,Studente
+5188,F,20,45100,Data Scientis
+5189,F,44,72022,Data Engineer
+5190,F,20,00153,Disoccupato
+5191,F,29,87060,Data Analyst
+5192,M,65,73020,Data Engineer
+5193,M,25,56022,Avvocato
+5194,M,9,32030,Studente
+5195,M,56,87060,Data Engineer
+5196,M,32,64023,Data Engineer
+5197,F,48,25043,Direttore
+5198,F,15,70026,Studente
+5199,F,47,83030,Dirigente
+5200,F,14,40061,Studente
+5201,M,19,33050,Data Engineer
+5202,M,42,41058,Data Analyst
+5203,F,62,47030,Ricercatore
+5204,M,36,71032,Architetto
+5205,M,49,09010,Dirigente
+5206,M,47,14100,Data Engineer
+5207,M,28,22072,Disoccupato
+5208,M,41,65017,Data Analyst
+5209,M,38,41058,Dirigente
+5210,F,61,25123,Programmatore
+5211,M,48,80038,Dirigente
+5212,M,63,35031,Operaio
+5213,M,47,35010,Disoccupato
+5214,F,65,33013,Data Scientis
+5215,F,13,84070,Studente
+5216,M,47,80038,Operaio
+5217,M,61,72022,Programmatore
+5218,M,19,61029,Disoccupato
+5219,M,24,84066,Data Analyst
+5220,M,64,35010,Data Engineer
+5221,F,10,95127,Studente
+5222,M,52,83030,Avvocato
+5223,M,59,35010,Studente
+5224,M,56,35031,Dirigente
+5225,M,30,24020,Data Analyst
+5226,M,27,70037,Disoccupato
+5227,M,22,20139,Studente
+5228,M,25,09078,Disoccupato
+5229,M,50,36100,Disoccupato
+5230,M,64,00125,Avvocato
+5231,M,13,12032,Studente
+5232,M,23,65027,Data Analyst
+5233,M,53,33050,Insegnante
+5234,F,46,33013,Disoccupato
+5235,M,52,36100,Data Analyst
+5236,M,60,32030,Ingegnere
+5237,M,21,03100,Data Engineer
+5238,F,12,86020,Studente
+5239,M,29,41058,Data Engineer
+5240,F,24,83030,Disoccupato
+5241,F,49,00018,Data Analyst
+5242,M,44,19020,Dirigente
+5243,M,54,35010,Studente
+5244,M,14,01010,Studente
+5245,F,50,22076,Dirigente
+5246,F,27,84070,Disoccupato
+5247,F,28,00061,Studente
+5248,F,38,00153,Ingegnere
+5249,F,56,33050,Ingegnere
+5250,M,25,35010,Ricercatore
+5251,F,30,33050,Programmatore
+5252,M,14,15067,Studente
+5253,F,29,30020,Architetto
+5254,M,40,44121,Data Analyst
+5255,M,54,24020,Studente
+5256,M,38,72022,Attore
+5257,F,36,33013,Operaio
+5258,M,43,15077,Data Analyst
+5259,M,39,47030,Ricercatore
+5260,M,61,61029,Data Engineer
+5261,M,19,03100,Avvocato
+5262,F,45,95127,Ingegnere
+5263,M,64,56022,Data Engineer
+5264,M,62,47924,Data Analyst
+5265,M,53,35031,Dirigente
+5266,M,62,15077,Dirigente
+5267,M,10,76012,Studente
+5268,F,31,61029,Operaio
+5269,M,25,26100,Disoccupato
+5270,M,30,73020,Avvocato
+5271,F,62,40061,Disoccupato
+5272,M,50,26010,Data Engineer
+5273,M,47,63100,Impiegato
+5274,M,60,00061,Disoccupato
+5275,M,65,09099,Programmatore
+5276,F,19,14100,Data Analyst
+5277,M,44,17021,Impiegato
+5278,F,56,40061,Data Engineer
+5279,F,64,03100,Ingegnere
+5280,M,13,61029,Studente
+5281,M,31,36012,Operaio
+5282,F,45,25123,Data Analyst
+5283,M,56,50055,Operaio
+5284,M,53,34149,Attore
+5285,M,59,70037,Data Analyst
+5286,M,62,67069,Attore
+5287,M,11,95127,Studente
+5288,M,10,12032,Studente
+5289,M,28,44020,Operaio
+5290,F,54,36012,Data Analyst
+5291,M,47,15067,Dirigente
+5292,M,57,09078,Disoccupato
+5293,M,49,35031,Avvocato
+5294,M,30,35010,Operaio
+5295,M,27,15067,Data Engineer
+5296,F,45,35010,Disoccupato
+5297,M,51,33050,Avvocato
+5298,M,39,09010,Programmatore
+5299,M,56,22076,Operaio
+5300,M,65,95127,Impiegato
+5301,M,65,65017,Programmatore
+5302,F,50,30020,Studente
+5303,F,17,09078,Studente
+5304,F,10,83030,Studente
+5305,F,13,95127,Studente
+5306,F,48,84070,Programmatore
+5307,M,49,83030,Insegnante
+5308,M,19,65017,Data Engineer
+5309,M,63,33050,Disoccupato
+5310,F,31,34149,Dirigente
+5311,M,63,25123,Disoccupato
+5312,M,54,70026,Dirigente
+5313,M,28,12032,Disoccupato
+5314,F,14,95127,Studente
+5315,M,34,33050,Avvocato
+5316,M,16,33030,Studente
+5317,F,21,41058,Disoccupato
+5318,M,39,40138,Programmatore
+5319,M,20,84070,Programmatore
+5320,F,65,40138,Insegnante
+5321,M,34,09099,Data Analyst
+5322,M,13,83030,Studente
+5323,M,38,44121,Impiegato
+5324,M,60,47030,Data Engineer
+5325,F,14,61029,Studente
+5326,M,55,35010,Operaio
+5327,M,57,33048,Data Engineer
+5328,F,54,67069,Data Analyst
+5329,F,37,14100,Insegnante
+5330,F,15,33048,Studente
+5331,M,32,01010,Ingegnere
+5332,M,45,40061,Data Analyst
+5333,F,55,45030,Data Engineer
+5334,F,13,90143,Studente
+5335,M,56,21014,Ingegnere
+5336,M,25,30020,Data Engineer
+5337,F,50,33013,Direttore
+5338,M,21,22072,Programmatore
+5339,M,31,44121,Programmatore
+5340,F,46,72022,Direttore
+5341,F,14,00018,Studente
+5342,F,41,20139,Data Engineer
+5343,F,34,67069,Data Scientis
+5344,F,58,10126,Dirigente
+5345,F,58,33050,Programmatore
+5346,F,41,90143,Direttore
+5347,M,32,84066,Ricercatore
+5348,M,32,26100,Insegnante
+5349,F,22,21030,Operaio
+5350,M,34,17021,Insegnante
+5351,F,52,85024,Dirigente
+5352,F,64,15067,Insegnante
+5353,M,65,25123,Ricercatore
+5354,F,32,21014,Direttore
+5355,M,34,26010,Disoccupato
+5356,M,29,30020,Disoccupato
+5357,F,32,19020,Impiegato
+5358,M,40,25043,Data Engineer
+5359,M,27,35010,Attore
+5360,M,40,15077,Avvocato
+5361,F,39,15063,Attore
+5362,M,46,61029,Architetto
+5363,M,23,19020,Architetto
+5364,F,10,61029,Studente
+5365,M,56,25123,Avvocato
+5366,M,63,64023,Avvocato
+5367,M,21,20023,Data Analyst
+5368,F,10,33048,Studente
+5369,M,26,36012,Autista
+5370,M,12,83030,Studente
+5371,M,41,33050,Infermiere
+5372,M,57,47030,Data Analyst
+5373,M,15,84070,Studente
+5374,M,64,90143,Data Engineer
+5375,M,50,17021,Disoccupato
+5376,M,46,44020,Programmatore
+5377,F,51,26100,Direttore
+5378,M,16,70026,Studente
+5379,M,17,40061,Studente
+5380,M,16,33050,Studente
+5381,M,59,00125,Ingegnere
+5382,M,47,17021,Data Analyst
+5383,M,24,72022,Dirigente
+5384,F,28,21030,Direttore
+5385,M,52,22072,Avvocato
+5386,M,55,10126,Ingegnere
+5387,F,30,14100,Dirigente
+5388,F,56,33050,Data Analyst
+5389,M,55,64023,Data Engineer
+5390,M,36,25043,Disoccupato
+5391,M,47,50055,Data Engineer
+5392,M,33,33048,Dirigente
+5393,M,17,26010,Studente
+5394,M,38,40061,Disoccupato
+5395,M,31,14025,Dirigente
+5396,M,49,10126,Ricercatore
+5397,M,60,19020,Disoccupato
+5398,M,43,14100,Programmatore
+5399,M,14,35031,Studente
+5400,F,45,65017,Data Analyst
+5401,F,59,00061,Dirigente
+5402,F,45,17021,Disoccupato
+5403,M,51,28887,Studente
+5404,M,55,61029,Disoccupato
+5405,F,18,26100,Data Engineer
+5406,F,48,15077,Disoccupato
+5407,F,15,67069,Studente
+5408,M,24,56022,Impiegato
+5409,M,53,84070,Dirigente
+5410,F,29,40061,Operaio
+5411,F,27,40061,Musicista
+5412,M,25,14025,Avvocato
+5413,M,16,44121,Studente
+5414,M,37,12032,Studente
+5415,F,16,63100,Studente
+5416,F,53,25123,Insegnante
+5417,M,30,64023,Programmatore
+5418,F,38,30020,Disoccupato
+5419,F,49,14025,Avvocato
+5420,F,43,90143,Musicista
+5421,M,36,72022,Programmatore
+5422,M,37,14025,Data Engineer
+5423,F,44,09078,Insegnante
+5424,F,48,40061,Operaio
+5425,M,12,21014,Studente
+5426,M,28,15067,Ingegnere
+5427,M,64,21014,Musicista
+5428,F,14,00153,Studente
+5429,F,19,47924,Dirigente
+5430,F,42,09099,Dirigente
+5431,M,63,67069,Dirigente
+5432,M,10,26100,Studente
+5433,F,23,14100,Programmatore
+5434,F,25,15063,Data Engineer
+5435,M,13,25043,Studente
+5436,M,65,44020,Data Analyst
+5437,M,60,26010,Infermiere
+5438,M,47,26100,Ingegnere
+5439,M,26,50055,Architetto
+5440,F,59,15077,Operaio
+5441,M,42,64023,Data Engineer
+5442,M,23,71032,Data Engineer
+5443,M,39,21030,Avvocato
+5444,F,12,35031,Studente
+5445,M,57,83030,Disoccupato
+5446,F,50,80038,Dirigente
+5447,M,11,41058,Studente
+5448,M,62,67069,Musicista
+5449,M,62,83030,Avvocato
+5450,M,38,26010,Avvocato
+5451,F,23,15063,Dirigente
+5452,M,47,40061,Ricercatore
+5453,M,57,00153,Data Analyst
+5454,M,60,35010,Data Engineer
+5455,F,15,67069,Studente
+5456,M,43,30020,Dirigente
+5457,M,42,26010,Avvocato
+5458,F,12,63100,Studente
+5459,F,46,70037,Studente
+5460,M,11,56022,Studente
+5461,M,11,21014,Studente
+5462,M,38,45100,Programmatore
+5463,M,31,80038,Disoccupato
+5464,M,21,21030,Data Engineer
+5465,F,12,09010,Studente
+5466,M,37,90143,Avvocato
+5467,M,37,41058,Disoccupato
+5468,M,28,12032,Avvocato
+5469,M,56,80038,Avvocato
+5470,M,17,01010,Studente
+5471,M,50,47030,Data Engineer
+5472,M,16,33030,Studente
+5473,M,13,65027,Studente
+5474,M,19,50055,Avvocato
+5475,M,65,45100,Data Analyst
+5476,F,29,40138,Disoccupato
+5477,M,55,70037,Dirigente
+5478,M,64,10086,Data Engineer
+5479,M,10,71032,Studente
+5480,F,58,35010,Ingegnere
+5481,M,22,36100,Avvocato
+5482,M,9,26010,Studente
+5483,F,43,41058,Ricercatore
+5484,M,57,45030,Programmatore
+5485,M,9,33030,Studente
+5486,M,40,03100,Disoccupato
+5487,M,31,44121,Programmatore
+5488,M,58,80038,Autista
+5489,M,58,03100,Data Engineer
+5490,M,41,17021,Programmatore
+5491,M,36,09099,Data Engineer
+5492,M,25,33013,Data Analyst
+5493,M,53,41058,Avvocato
+5494,F,27,87060,Programmatore
+5495,F,13,33048,Studente
+5496,M,21,24020,Data Engineer
+5497,M,40,24020,Data Analyst
+5498,F,41,14025,Dirigente
+5499,F,27,86020,Musicista
+5500,F,36,47924,Impiegato
+5501,M,26,36100,Operaio
+5502,M,17,90143,Studente
+5503,F,20,64023,Data Scientis
+5504,M,10,40061,Studente
+5505,F,39,35010,Data Analyst
+5506,F,14,14025,Studente
+5507,M,13,15077,Studente
+5508,M,42,44020,Impiegato
+5509,M,49,19020,Disoccupato
+5510,M,61,86020,Data Analyst
+5511,M,17,33050,Studente
+5512,F,36,09099,Programmatore
+5513,M,44,30020,Dirigente
+5514,F,60,15063,Studente
+5515,M,53,45030,Data Analyst
+5516,F,11,21030,Studente
+5517,M,9,12032,Studente
+5518,M,43,44020,Programmatore
+5519,M,44,01010,Autista
+5520,M,63,28887,Dirigente
+5521,F,51,67069,Ricercatore
+5522,M,13,19020,Studente
+5523,M,37,76012,Disoccupato
+5524,F,41,32030,Studente
+5525,F,49,64023,Studente
+5526,F,64,26100,Operaio
+5527,M,26,64023,Dirigente
+5528,M,25,00153,Dirigente
+5529,M,57,36012,Ricercatore
+5530,F,29,33013,Data Analyst
+5531,M,37,35010,Programmatore
+5532,M,65,09010,Programmatore
+5533,F,21,45100,Operaio
+5534,M,14,09010,Studente
+5535,M,61,65027,Autista
+5536,M,25,70037,Attore
+5537,F,46,45100,Dirigente
+5538,M,62,40138,Avvocato
+5539,F,19,95127,Impiegato
+5540,M,42,35031,Dirigente
+5541,M,32,63100,Data Engineer
+5542,M,10,84066,Studente
+5543,M,47,65017,Programmatore
+5544,M,53,87060,Autista
+5545,F,55,71032,Attore
+5546,M,32,80038,Ingegnere
+5547,F,63,47030,Data Analyst
+5548,F,54,90143,Data Analyst
+5549,F,24,33013,Data Scientis
+5550,M,55,22076,Autista
+5551,F,29,80038,Impiegato
+5552,M,36,15063,Data Engineer
+5553,M,46,65027,Direttore
+5554,M,15,00153,Studente
+5555,M,11,35010,Studente
+5556,M,63,80038,Ricercatore
+5557,M,22,95127,Ingegnere
+5558,M,46,40138,Studente
+5559,M,65,14025,Dirigente
+5560,F,54,00153,Programmatore
+5561,F,47,45030,Direttore
+5562,F,46,30020,Dirigente
+5563,F,58,84066,Data Engineer
+5564,M,48,19020,Impiegato
+5565,M,61,32030,Programmatore
+5566,M,36,25123,Data Engineer
+5567,M,48,76012,Direttore
+5568,M,34,21014,Data Analyst
+5569,F,39,44020,Dirigente
+5570,M,11,76012,Studente
+5571,F,39,84066,Data Scientis
+5572,F,27,25043,Data Analyst
+5573,F,36,27024,Dirigente
+5574,M,40,01010,Disoccupato
+5575,M,24,44121,Data Engineer
+5576,M,28,67069,Data Analyst
+5577,M,21,44121,Dirigente
+5578,F,11,83030,Studente
+5579,F,19,00153,Data Engineer
+5580,M,56,03100,Data Engineer
+5581,M,22,15063,Disoccupato
+5582,M,13,28887,Studente
+5583,M,65,33030,Autista
+5584,F,49,22072,Disoccupato
+5585,M,32,85024,Data Analyst
+5586,M,52,00018,Impiegato
+5587,M,25,33013,Programmatore
+5588,F,38,45100,Impiegato
+5589,F,65,15077,Disoccupato
+5590,F,21,26100,Avvocato
+5591,M,44,14100,Disoccupato
+5592,M,51,21030,Dirigente
+5593,M,39,14100,Attore
+5594,F,14,50055,Studente
+5595,M,38,10086,Impiegato
+5596,M,63,09010,Avvocato
+5597,F,9,00153,Studente
+5598,M,57,63100,Data Analyst
+5599,M,32,20023,Data Engineer
+5600,F,24,70037,Disoccupato
+5601,M,10,35010,Studente
+5602,M,30,45100,Disoccupato
+5603,M,47,00061,Data Engineer
+5604,M,36,20139,Autista
+5605,F,65,09078,Operaio
+5606,F,15,15063,Studente
+5607,M,11,20139,Studente
+5608,M,52,00153,Direttore
+5609,F,43,03100,Dirigente
+5610,F,64,83030,Dirigente
+5611,F,46,40138,Data Engineer
+5612,F,29,87060,Dirigente
+5613,F,62,45030,Disoccupato
+5614,M,10,00125,Studente
+5615,M,24,22072,Data Engineer
+5616,M,51,09010,Dirigente
+5617,M,54,10086,Ingegnere
+5618,F,49,15063,Data Analyst
+5619,F,23,65027,Data Analyst
+5620,M,18,33050,Ingegnere
+5621,M,11,35124,Studente
+5622,M,48,71032,Autista
+5623,M,65,84066,Infermiere
+5624,M,43,24020,Data Engineer
+5625,M,38,32030,Dirigente
+5626,M,30,10086,Attore
+5627,M,19,36100,Disoccupato
+5628,M,30,33050,Data Analyst
+5629,M,60,33030,Ingegnere
+5630,M,28,14025,Programmatore
+5631,M,11,15063,Studente
+5632,F,29,24020,Data Analyst
+5633,M,29,33050,Dirigente
+5634,M,45,64023,Ingegnere
+5635,F,38,84070,Data Scientis
+5636,M,28,10086,Data Engineer
+5637,M,64,15077,Studente
+5638,M,45,00061,Dirigente
+5639,F,63,41058,Data Analyst
+5640,M,33,47030,Programmatore
+5641,F,45,85024,Programmatore
+5642,M,57,12032,Studente
+5643,F,36,14025,Dirigente
+5644,F,20,86020,Data Analyst
+5645,M,41,95127,Operaio
+5646,M,36,09010,Data Analyst
+5647,M,14,24020,Studente
+5648,M,54,84070,Programmatore
+5649,F,17,22072,Studente
+5650,F,37,00061,Avvocato
+5651,F,16,32030,Studente
+5652,M,16,33013,Studente
+5653,M,37,36100,Dirigente
+5654,M,20,27024,Data Analyst
+5655,F,58,19020,Ricercatore
+5656,M,59,73020,Autista
+5657,M,65,12032,Ingegnere
+5658,M,38,73020,Disoccupato
+5659,M,57,20020,Disoccupato
+5660,M,63,85024,Operaio
+5661,F,19,01010,Autista
+5662,M,29,33048,Studente
+5663,F,32,30020,Impiegato
+5664,M,34,25123,Data Analyst
+5665,M,50,33050,Data Analyst
+5666,M,22,35124,Attore
+5667,M,38,30020,Data Engineer
+5668,F,40,45030,Direttore
+5669,M,18,84070,Dirigente
+5670,M,65,10126,Data Analyst
+5671,M,9,15077,Studente
+5672,F,21,35010,Data Analyst
+5673,F,50,09010,Dirigente
+5674,M,61,14025,Data Engineer
+5675,M,42,44020,Ingegnere
+5676,M,57,64023,Impiegato
+5677,M,40,85024,Dirigente
+5678,M,46,84066,Programmatore
+5679,M,18,35031,Operaio
+5680,M,12,27024,Studente
+5681,F,50,70037,Data Engineer
+5682,M,31,26010,Disoccupato
+5683,F,20,33050,Data Scientis
+5684,M,41,76012,Attore
+5685,M,14,64023,Studente
+5686,M,48,33030,Attore
+5687,F,48,33013,Disoccupato
+5688,F,57,00018,Data Analyst
+5689,M,14,15077,Studente
+5690,M,10,27024,Studente
+5691,M,30,19020,Ingegnere
+5692,F,52,03100,Data Engineer
+5693,F,25,22072,Data Analyst
+5694,F,50,41058,Avvocato
+5695,F,44,32030,Direttore
+5696,F,31,63100,Ingegnere
+5697,M,42,40138,Disoccupato
+5698,M,43,90143,Ingegnere
+5699,M,59,19020,Autista
+5700,F,19,33050,Ingegnere
+5701,M,49,24020,Data Engineer
+5702,M,12,19020,Studente
+5703,M,26,15077,Dirigente
+5704,F,64,85024,Data Analyst
+5705,F,61,47030,Data Analyst
+5706,M,24,27024,Programmatore
+5707,M,61,80038,Avvocato
+5708,M,38,14100,Dirigente
+5709,M,32,35124,Data Analyst
+5710,M,61,35010,Autista
+5711,M,21,41058,Data Engineer
+5712,M,58,14025,Dirigente
+5713,F,46,86020,Data Engineer
+5714,M,13,72022,Studente
+5715,M,9,44020,Studente
+5716,M,62,14100,Studente
+5717,M,55,76012,Disoccupato
+5718,F,48,28887,Ingegnere
+5719,M,9,20023,Studente
+5720,M,50,67069,Disoccupato
+5721,M,51,00153,Infermiere
+5722,M,62,33030,Impiegato
+5723,M,17,26100,Studente
+5724,M,22,34149,Autista
+5725,M,62,03100,Operaio
+5726,M,13,83030,Studente
+5727,M,29,85024,Data Analyst
+5728,F,54,83030,Impiegato
+5729,M,61,83030,Studente
+5730,M,59,76012,Disoccupato
+5731,F,15,35010,Studente
+5732,F,48,65027,Infermiere
+5733,M,52,90143,Data Analyst
+5734,F,60,26100,Ingegnere
+5735,M,12,50055,Studente
+5736,M,65,50055,Dirigente
+5737,M,47,14100,Autista
+5738,M,21,10126,Avvocato
+5739,M,41,25123,Data Engineer
+5740,M,44,61029,Dirigente
+5741,M,37,65017,Architetto
+5742,F,45,47030,Avvocato
+5743,F,64,15067,Disoccupato
+5744,F,46,33050,Data Analyst
+5745,F,62,21030,Data Analyst
+5746,M,22,64023,Autista
+5747,M,27,27024,Disoccupato
+5748,M,26,76012,Disoccupato
+5749,M,18,64023,Operaio
+5750,M,47,80038,Dirigente
+5751,F,51,35124,Disoccupato
+5752,F,47,90143,Disoccupato
+5753,M,61,00153,Programmatore
+5754,F,57,20020,Dirigente
+5755,F,21,85024,Operaio
+5756,F,31,34149,Studente
+5757,M,60,40061,Studente
+5758,F,58,15077,Dirigente
+5759,F,45,35010,Dirigente
+5760,M,37,15067,Avvocato
+5761,M,51,15067,Impiegato
+5762,F,56,28887,Ricercatore
+5763,F,14,87060,Studente
+5764,F,17,03100,Studente
+5765,M,43,09078,Infermiere
+5766,M,44,21014,Ingegnere
+5767,M,38,09010,Operaio
+5768,F,47,24020,Data Engineer
+5769,M,56,40061,Ingegnere
+5770,M,25,70037,Disoccupato
+5771,M,36,70037,Data Engineer
+5772,M,47,22076,Data Engineer
+5773,M,12,26010,Studente
+5774,M,50,28887,Data Analyst
+5775,M,14,84066,Studente
+5776,M,33,67069,Avvocato
+5777,M,32,47924,Disoccupato
+5778,M,39,63100,Avvocato
+5779,M,50,10086,Insegnante
+5780,M,59,70037,Programmatore
+5781,M,51,56022,Operaio
+5782,F,28,21014,Disoccupato
+5783,F,20,36012,Dirigente
+5784,M,31,84070,Studente
+5785,F,49,72022,Data Engineer
+5786,M,32,27024,Ricercatore
+5787,M,51,00061,Impiegato
+5788,M,43,44020,Disoccupato
+5789,M,59,80038,Programmatore
+5790,F,65,33013,Disoccupato
+5791,M,59,83030,Data Analyst
+5792,M,18,84066,Programmatore
+5793,M,16,47924,Studente
+5794,M,60,35124,Programmatore
+5795,M,26,45100,Dirigente
+5796,F,19,36012,Data Engineer
+5797,M,48,28887,Data Engineer
+5798,M,61,35010,Disoccupato
+5799,M,17,21014,Studente
+5800,M,48,41058,Atleta
+5801,M,53,36012,Attore
+5802,F,20,20023,Disoccupato
+5803,M,41,03100,Studente
+5804,F,55,00061,Data Engineer
+5805,F,14,22076,Studente
+5806,F,50,83030,Dirigente
+5807,M,57,44020,Data Engineer
+5808,F,25,35010,Data Engineer
+5809,M,64,50055,Data Engineer
+5810,M,63,87060,Attore
+5811,M,13,64023,Studente
+5812,F,61,33050,Data Engineer
+5813,M,32,19020,Data Engineer
+5814,M,31,10126,Disoccupato
+5815,M,62,84070,Impiegato
+5816,M,39,85024,Disoccupato
+5817,M,16,86020,Studente
+5818,M,13,86020,Studente
+5819,M,19,84070,Ricercatore
+5820,M,62,33013,Disoccupato
+5821,M,30,76012,Autista
+5822,F,10,17021,Studente
+5823,M,17,15067,Studente
+5824,M,47,63100,Avvocato
+5825,F,33,71032,Data Analyst
+5826,M,64,27024,Data Analyst
+5827,M,58,20139,Operaio
+5828,M,20,09010,Programmatore
+5829,F,35,09099,Data Analyst
+5830,F,18,27024,Data Analyst
+5831,M,57,41058,Dirigente
+5832,F,64,22076,Disoccupato
+5833,F,18,40138,Disoccupato
+5834,M,58,44121,Attore
+5835,F,20,25123,Disoccupato
+5836,M,58,50055,Disoccupato
+5837,M,35,33050,Data Engineer
+5838,F,10,45030,Studente
+5839,M,47,44020,Dirigente
+5840,F,25,40061,Disoccupato
+5841,F,45,25043,Data Engineer
+5842,M,56,41058,Data Analyst
+5843,M,28,64023,Dirigente
+5844,F,16,36100,Studente
+5845,F,46,09099,Direttore
+5846,M,31,30020,Attore
+5847,F,62,21030,Data Analyst
+5848,M,63,83030,Impiegato
+5849,M,27,12032,Programmatore
+5850,F,12,22072,Studente
+5851,F,36,24020,Impiegato
+5852,F,65,67069,Dirigente
+5853,M,28,10086,Musicista
+5854,M,13,00018,Studente
+5855,M,16,33013,Studente
+5856,F,37,22076,Data Engineer
+5857,F,27,24020,Operaio
+5858,M,28,33050,Data Analyst
+5859,M,44,17021,Data Engineer
+5860,F,43,65017,Data Analyst
+5861,F,27,30020,Dirigente
+5862,F,34,17021,Data Scientis
+5863,F,34,20023,Ingegnere
+5864,F,46,10086,Dirigente
+5865,M,63,47924,Programmatore
+5866,F,36,26010,Ricercatore
+5867,F,62,14100,Direttore
+5868,M,50,72022,Ingegnere
+5869,F,11,09078,Studente
+5870,M,19,24020,Ingegnere
+5871,F,47,20131,Data Analyst
+5872,M,38,83030,Programmatore
+5873,M,50,73020,Avvocato
+5874,M,27,14025,Data Analyst
+5875,M,19,35010,Data Analyst
+5876,M,26,40061,Data Engineer
+5877,M,9,33048,Studente
+5878,F,13,00061,Studente
+5879,M,44,00018,Data Engineer
+5880,M,17,83030,Studente
+5881,M,35,26100,Programmatore
+5882,M,64,87060,Data Engineer
+5883,F,48,20139,Disoccupato
+5884,M,58,84066,Data Analyst
+5885,M,52,21014,Dirigente
+5886,M,20,21030,Impiegato
+5887,F,45,90143,Impiegato
+5888,M,63,56022,Impiegato
+5889,M,64,72022,Impiegato
+5890,M,14,36012,Studente
+5891,M,46,20139,Data Analyst
+5892,M,43,56022,Operaio
+5893,M,44,28887,Data Engineer
+5894,M,32,21030,Disoccupato
+5895,M,46,80038,Dirigente
+5896,M,46,33048,Disoccupato
+5897,M,12,47030,Studente
+5898,F,9,26010,Studente
+5899,M,47,87060,Programmatore
+5900,M,36,65027,Data Engineer
+5901,F,38,50055,Data Engineer
+5902,M,48,32030,Attore
+5903,M,40,30020,Infermiere
+5904,F,14,73020,Studente
+5905,F,22,01010,Impiegato
+5906,F,48,70026,Data Analyst
+5907,M,46,85024,Operaio
+5908,M,27,86020,Data Analyst
+5909,M,26,33050,Impiegato
+5910,F,63,33030,Impiegato
+5911,F,12,47924,Studente
+5912,M,53,00018,Dirigente
+5913,F,22,36012,Disoccupato
+5914,M,58,44020,Operaio
+5915,M,62,33050,Data Analyst
+5916,M,13,26100,Studente
+5917,F,41,72022,Dirigente
+5918,M,44,00018,Avvocato
+5919,M,12,26100,Studente
+5920,F,30,09010,Dirigente
+5921,M,10,47924,Studente
+5922,M,37,03100,Direttore
+5923,M,41,47924,Data Engineer
+5924,M,52,00153,Disoccupato
+5925,F,19,65017,Disoccupato
+5926,F,45,70026,Data Engineer
+5927,M,13,83030,Studente
+5928,M,50,03100,Dirigente
+5929,F,28,63100,Disoccupato
+5930,F,12,70037,Studente
+5931,F,25,00153,Data Engineer
+5932,M,35,76012,Ingegnere
+5933,M,18,56022,Operaio
+5934,M,45,32030,Ingegnere
+5935,M,58,32030,Disoccupato
+5936,M,23,36012,Data Analyst
+5937,M,28,14100,Avvocato
+5938,M,16,21030,Studente
+5939,F,12,35031,Studente
+5940,M,60,40138,Avvocato
+5941,F,20,15063,Disoccupato
+5942,M,38,70037,Dirigente
+5943,F,19,10126,Dirigente
+5944,F,59,33030,Studente
+5945,F,39,26100,Operaio
+5946,F,20,20023,Dirigente
+5947,F,48,01010,Attore
+5948,M,53,17021,Architetto
+5949,M,21,83030,Programmatore
+5950,M,59,45100,Data Analyst
+5951,M,42,83030,Data Analyst
+5952,F,24,80038,Dirigente
+5953,M,27,12032,Studente
+5954,M,27,33050,Infermiere
+5955,F,9,40061,Studente
+5956,F,54,34149,Data Analyst
+5957,M,26,80038,Impiegato
+5958,M,20,14100,Ingegnere
+5959,F,27,90143,Data Analyst
+5960,F,60,22072,Disoccupato
+5961,F,49,65027,Disoccupato
+5962,M,27,09099,Data Engineer
+5963,M,44,17021,Autista
+5964,M,39,84066,Insegnante
+5965,M,42,61029,Programmatore
+5966,F,62,45030,Data Scientis
+5967,M,37,22076,Attore
+5968,M,21,24020,Data Engineer
+5969,M,48,50055,Architetto
+5970,M,25,03100,Infermiere
+5971,M,58,21014,Data Engineer
+5972,F,48,32030,Impiegato
+5973,M,65,83030,Studente
+5974,F,23,44020,Dirigente
+5975,M,38,09078,Ingegnere
+5976,F,52,14025,Dirigente
+5977,M,35,70037,Dirigente
+5978,M,26,90143,Dirigente
+5979,M,13,35124,Studente
+5980,M,11,26010,Studente
+5981,M,65,33048,Data Engineer
+5982,M,40,33030,Dirigente
+5983,M,57,90143,Direttore
+5984,M,54,09099,Dirigente
+5985,F,56,34149,Data Analyst
+5986,F,48,33048,Dirigente
+5987,M,32,33013,Attore
+5988,M,17,64023,Studente
+5989,F,54,33050,Studente
+5990,F,41,10126,Impiegato
+5991,F,10,71032,Studente
+5992,F,18,47030,Data Analyst
+5993,F,14,86020,Studente
+5994,M,42,40061,Dirigente
+5995,F,27,21030,Dirigente
+5996,F,64,45030,Disoccupato
+5997,F,36,45100,Data Engineer
+5998,M,26,09099,Data Analyst
+5999,F,11,20020,Studente
+6000,M,64,44121,Programmatore
+6001,F,36,70026,Data Engineer
+6002,M,65,17021,Disoccupato
+6003,F,34,33013,Programmatore
+6004,F,35,36012,Autista
+6005,F,63,35010,Insegnante
+6006,F,41,09078,Disoccupato
+6007,M,40,21014,Programmatore
+6008,M,12,44121,Studente
+6009,F,65,83030,Avvocato
+6010,M,38,00153,Disoccupato
+6011,M,59,33050,Autista
+6012,M,12,32030,Studente
+6013,F,44,84066,Impiegato
+6014,M,40,84070,Dirigente
+6015,F,25,09099,Data Scientis
+6016,M,65,21030,Dirigente
+6017,F,63,47030,Data Engineer
+6018,M,59,01010,Dirigente
+6019,M,51,00125,Disoccupato
+6020,M,61,28887,Attore
+6021,M,18,10126,Avvocato
+6022,M,38,56022,Programmatore
+6023,M,60,35010,Disoccupato
+6024,M,37,65027,Avvocato
+6025,F,49,15063,Dirigente
+6026,M,30,28887,Ricercatore
+6027,M,46,24020,Data Analyst
+6028,M,19,00061,Data Analyst
+6029,F,34,20020,Dirigente
+6030,M,13,32030,Studente
+6031,F,46,14025,Disoccupato
+6032,M,48,28887,Data Engineer
+6033,M,46,09010,Architetto
+6034,M,16,40061,Studente
+6035,F,35,22076,Dirigente
+6036,F,33,12032,Autista
+6037,F,59,09099,Dirigente
+6038,F,35,19020,Dirigente
+6039,F,52,01010,Disoccupato
+6040,M,15,00153,Studente
