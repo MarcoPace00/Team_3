@@ -11,7 +11,7 @@ Pipeline dati di OnTheMovie: dai csv originali alle tabelle MySQL del database *
 | `01_dati_originali/`     | Dati grezzi ricevuti:`Elenco Movies definitivo.csv` / `.xlsx`, `users_edit.csv`, `ratings_edit.csv`                                                       |
 | `02_preprocessing/`      | Notebook di pulizia:`normalizzazione_film_generi.ipynb`, `normalizzazione_user_rating.ipynb`                                                              |
 | `03_dati_preprocessati/` | Csv puliti, uno per tabella:`film.csv`, `genres.csv`, `generi_film.csv`, `users_checked.csv`, `ratings_checked.csv`                                       |
-| `04_sql/`                | `crea_tabelle_onthemovie_2.sql`: crea il database e le 5 tabelle vuote (solo DDL)<br>`crea_views_onthemovie_2.sql`: crea le 3 viste usate dalla dashboard |
+| `04_sql/`                | `crea_tabelle_onthemovie_2.sql`: crea il database e le 5 tabelle vuote (solo DDL)<br>`crea_views_onthemovie_2.sql`: crea le 3 viste usate dalla dashboard<br>`aggiorna_fasce_eta.sql`: porta le nuove fasce d'età su un database già caricato |
 | `05_caricamento_python/` | `carica_dati.py` (caricamento con `mysql.connector`), `config.py` (connessione)                                                                           |
 | `06_visual/`             | `OnTheMovie_visual_v2.pbix` (dashboard) e `province_italia.topo.json` (mappa delle province)                                                              |
 | `requirements.txt`       | Librerie Python del progetto, da installare nel `.venv` nella cartella `Team_3`                                                                           |
@@ -43,8 +43,24 @@ Un utente con un CAP che non è nel `CASE` di `v_iscritti_provincia` finisce in 
 | `film`        | MovieID, Title, Year                      | MovieID              | –              | `film.csv`            |
 | `genres`      | generi_id, Genres                         | generi_id            | –              | `genres.csv`          |
 | `generi_film` | MovieID, generi_id                        | (MovieID, generi_id) | → film, genres | `generi_film.csv`     |
-| `users`       | UsersID, Gender, Age, CAP, Work, AgeGroup | UsersID              | –              | `users_checked.csv`   |
+| `users`       | UsersID, Gender, Age, CAP, Work, AgeGroup (calcolata da Age) | UsersID              | –              | `users_checked.csv`   |
 | `ratings`     | UsersID, MovieID, Rating, Timestamp       | (UsersID, MovieID)   | → users, film  | `ratings_checked.csv` |
+
+### Fasce d'età
+
+`users.AgeGroup` è una colonna calcolata da MySQL a partire da `Age`: non si carica dal csv e si aggiorna da sola quando cambia l'età o arriva un utente nuovo.
+
+| Fasce | Età |
+| --- | --- |
+| `<10` | fino a 9 anni |
+| `10-13`, `14-17` | minorenni |
+| `18-22`, `23-27`, …, `83-87` | ogni 5 anni |
+| `88-90` | ultima fascia di 5 anni, troncata a 90 |
+| `>90` | da 91 anni in su |
+
+La regola è nel `CASE` della colonna, in `crea_tabelle_onthemovie_2.sql` e in `aggiorna_fasce_eta.sql`. Per cambiare le fasce modifica il `CASE` in entrambi i file e rilancia `aggiorna_fasce_eta.sql`.
+
+Per un database creato prima di questa modifica (con le vecchie fasce `U18`, `18-24`, …), esegui `04_sql/aggiorna_fasce_eta.sql` in Workbench. Non serve ricaricare i dati: alla fine lo script mostra una riga per fascia con età minima, massima e numero di utenti.
 
 ---
 
@@ -157,7 +173,7 @@ Il csv deve avere un'intestazione con questi nomi di colonna. L'ordine non conta
 | `film`        | `MovieID,Title,Year`                                  | Titolo senza anno; anno in colonna a parte                                                                      |
 | `genres`      | `generi_id,Genres`                                    | Il nome del genere deve essere univoco                                                                          |
 | `generi_film` | `MovieID,generi_id`                                   | Un genere per riga, con l'id preso da`genres`                                                                   |
-| `users`       | `UserID` (o `UsersID`)`,Gender,Age,CAP,Work,AgeGroup` | Gender`M`/`F`; AgeGroup tra `U18`, `18-24`, `25-34`, `35-44`, `45-54`, `55+`; il CAP viene completato a 5 cifre |
+| `users`       | `UserID` (o `UsersID`)`,Gender,Age,CAP,Work` | Gender`M`/`F`; il CAP viene completato a 5 cifre; un'eventuale colonna `AgeGroup` viene ignorata (la fascia la calcola MySQL da `Age`) |
 | `ratings`     | `UserID` (o `UsersID`)`,MovieID,Rating,Timestamp`     | Rating da 1 a 5; Timestamp`AAAA-MM-GG hh:mm:ss`, non Unix time                                                  |
 
 Il modo più semplice per ottenere un csv corretto è far passare i nuovi dati grezzi dagli stessi notebook di `02_preprocessing/`. Basta cambiare i percorsi di input e di output.

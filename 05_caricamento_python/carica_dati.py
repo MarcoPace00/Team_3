@@ -51,7 +51,8 @@ TABELLE = {
     "users": {
         "csv": "users_checked.csv",
         "rinomina": {"UserID": "UsersID"},
-        "colonne": ["UsersID", "Gender", "Age", "CAP", "Work", "AgeGroup"],
+        # AgeGroup non si carica: è una colonna calcolata da MySQL a partire da Age
+        "colonne": ["UsersID", "Gender", "Age", "CAP", "Work"],
         "chiave": ["UsersID"],
         "fk": {},
     },

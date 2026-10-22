@@ -51,8 +51,17 @@ CREATE TABLE IF NOT EXISTS users (
     Age     TINYINT UNSIGNED CHECK (Age BETWEEN 0 AND 120),      -- età
     CAP     VARCHAR(10),                                         -- provenienza; testo per non perdere gli zeri iniziali (es. 00184)
     Work    VARCHAR(100),                                        -- lavoro
-    AgeGroup VARCHAR(5)                                          -- fascia d'età, calcolata da Age in normalizzazione_user_rating.ipynb
-		CHECK (AgeGroup IN ('U18', '18-24', '25-34', '35-44', '45-54', '55+'))
+    -- fascia d'età, calcolata da MySQL a partire da Age (non si carica dal csv):
+    -- <10, 10-13, 14-17, poi ogni 5 anni da 18-22 fino a 88-90, oltre >90
+    AgeGroup VARCHAR(5) GENERATED ALWAYS AS (CASE
+		WHEN Age IS NULL THEN NULL
+		WHEN Age < 10    THEN '<10'
+		WHEN Age <= 13   THEN '10-13'
+		WHEN Age <= 17   THEN '14-17'
+		WHEN Age <= 90   THEN CONCAT(18 + 5 * FLOOR((Age - 18) / 5), '-',
+		                             LEAST(22 + 5 * FLOOR((Age - 18) / 5), 90))
+		ELSE '>90'
+	END) STORED
 );
 
 -- valutazioni: tabella associativa users <-> film (un voto per utente per film)
